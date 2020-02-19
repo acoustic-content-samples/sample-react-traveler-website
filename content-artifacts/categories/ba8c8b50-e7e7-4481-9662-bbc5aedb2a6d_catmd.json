@@ -1,0 +1,30 @@
+{
+  "id": "ba8c8b50-e7e7-4481-9662-bbc5aedb2a6d",
+  "rev": "9-a083ef9256aa9a81657f1c20fe9dd755",
+  "name": "Travel Article Page",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "creator": "Sergii Permiakov",
+  "classification": "category",
+  "taxonomy": "0433bd5a-dd12-44f4-baf7-e64b8fe81186",
+  "parent": "0433bd5a-dd12-44f4-baf7-e64b8fe81186",
+  "ancestorIds": [
+    "0433bd5a-dd12-44f4-baf7-e64b8fe81186"
+  ],
+  "namePath": [
+    "Content to Display",
+    "Travel Article Page"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/0433bd5a-dd12-44f4-baf7-e64b8fe81186"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/ba8c8b50-e7e7-4481-9662-bbc5aedb2a6d"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/0433bd5a-dd12-44f4-baf7-e64b8fe81186"
+    }
+  },
+  "created": "2020-01-16T09:02:02.344Z",
+  "lastModified": "2020-01-16T09:02:02.344Z"
+}

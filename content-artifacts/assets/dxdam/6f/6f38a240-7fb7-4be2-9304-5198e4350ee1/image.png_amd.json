@@ -1,0 +1,83 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1279
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "9dae955f-843a-4ce0-9311-36d741dfa504",
+  "path": "/dxdam/6f/6f38a240-7fb7-4be2-9304-5198e4350ee1/image.png",
+  "digest": "gRMaT+SZ98GR+NVgZhVvPQ==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=126be044-ddaf-4c9c-bb07-156b1c97c592&a=6132847c-ecc6-41b7-83e0-20c29ace3d17",
+      "source": "/authoring/v1/resources/126be044-ddaf-4c9c-bb07-156b1c97c592"
+    }
+  },
+  "id": "6132847c-ecc6-41b7-83e0-20c29ace3d17",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:10.539Z",
+  "rev": "14-a68ed4c195cb0497fdb79a8437072357",
+  "altText": "A skier that climbs a mountain with skis on his shouder.",
+  "resource": "126be044-ddaf-4c9c-bb07-156b1c97c592",
+  "created": "2020-01-16T09:02:09.273Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:person",
+      "classification:ascent",
+      "classification:slope",
+      "classification:nature",
+      "classification:crest",
+      "classification:natural elevation",
+      "classification:azure color"
+    ],
+    "declined": [
+      "classification:person",
+      "classification:ascent",
+      "classification:slope",
+      "classification:nature",
+      "classification:crest",
+      "classification:natural elevation",
+      "classification:azure color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "person",
+      "ascent",
+      "slope",
+      "nature",
+      "crest",
+      "natural elevation",
+      "azure color"
+    ],
+    "colors": {
+      "lightMuted": "#aabbc3",
+      "darkMuted": "#2c345c",
+      "lightVibrant": "#d9ecfc",
+      "vibrant": "#047bc5",
+      "muted": "#758386",
+      "darkVibrant": "#0461a7"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1095065,
+  "name": "Canada-Article-Image",
+  "lastModified": "2020-01-16T09:02:10.539Z",
+  "status": "ready"
+}

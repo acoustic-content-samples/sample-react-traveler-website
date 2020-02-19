@@ -1,0 +1,39 @@
+{
+  "id": "5d830a1a-2fd8-4448-9d92-0ef0a11ecbdc",
+  "rev": "9-a8130bd377812c7788185b3bee76b52a",
+  "name": "Travel Site Footer",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "description": "",
+  "status": "ready",
+  "tags": [
+    "Travel Site Sample"
+  ],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "copyrightText",
+      "key": "copyrighttext",
+      "required": false,
+      "placeholder": {
+        "show": true,
+        "text": "Enter copyright text here."
+      }
+    },
+    {
+      "elementType": "group",
+      "typeRef": {
+        "id": "d46d3539-6d9e-43e9-bfc6-b35a27cc4f03"
+      },
+      "allowMultipleValues": true,
+      "required": false,
+      "label": "Social Media",
+      "key": "socialMedia",
+      "minimumValues": 0,
+      "fieldLabel": "Social Media Element",
+      "maximumValues": 3
+    }
+  ]
+}

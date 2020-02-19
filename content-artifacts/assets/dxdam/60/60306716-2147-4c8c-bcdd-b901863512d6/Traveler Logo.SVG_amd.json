@@ -1,0 +1,46 @@
+{
+  "fileName": "Traveler Logo.SVG",
+  "metadata": {},
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "daccbe19-4a32-45c4-9ce0-d60472f2a22e",
+  "path": "/dxdam/60/60306716-2147-4c8c-bcdd-b901863512d6/Traveler Logo.SVG",
+  "digest": "xldN3E71Ao3e1dvw57ceGg==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=7ac89d4e-df37-4a57-9111-37b4bebbbf26&a=60306716-2147-4c8c-bcdd-b901863512d6",
+      "source": "/authoring/v1/resources/7ac89d4e-df37-4a57-9111-37b4bebbbf26"
+    }
+  },
+  "id": "60306716-2147-4c8c-bcdd-b901863512d6",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:08.896Z",
+  "rev": "9-0be7fc82bbea0c9d37f2eb6fc36f8261",
+  "altText": "",
+  "resource": "7ac89d4e-df37-4a57-9111-37b4bebbbf26",
+  "created": "2020-01-16T09:02:08.891Z",
+  "mediaType": "image/svg+xml",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "declined": [],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "none"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "status": "none"
+  },
+  "fileSize": 771,
+  "name": "Traveler Logo.SVG",
+  "lastModified": "2020-01-16T09:02:08.896Z",
+  "status": "ready"
+}

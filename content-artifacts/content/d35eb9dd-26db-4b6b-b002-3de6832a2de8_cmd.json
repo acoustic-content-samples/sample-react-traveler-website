@@ -1,0 +1,51 @@
+{
+  "rev": "9-285a30f291937c0787834c7b247a7305",
+  "thumbnail": {
+    "id": "9c259f38-21be-4177-989e-3c3876be0974"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:24.370Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample",
+    "user:Beach"
+  ],
+  "elements": {
+    "ImageTitle": {
+      "elementType": "text",
+      "value": "Beaches of Mombasa"
+    },
+    "galleryImage": {
+      "mode": "shared",
+      "profiles": [
+        "a03c07db-709e-48f4-a3a1-4feb3ff2540e"
+      ],
+      "asset": {
+        "id": "9c259f38-21be-4177-989e-3c3876be0974"
+      },
+      "elementType": "image"
+    },
+    "imageDescription": {
+      "elementType": "formattedtext",
+      "value": "<p>Kenya’s main tourist destination, Mombasa is a coastal city along the Indian Ocean and is famous for its beaches with powder-soft sand and seawater of different shades of blue. Among popular beach resort destinations are Diani, Chale Island, and Gazi.</p>\n"
+    },
+    "imageCountryValue": {
+      "categoryIds": [
+        "f47689e6-66aa-48d9-971a-fc9abdab26ce"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "Kenya Gallery Image",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+  "id": "d35eb9dd-26db-4b6b-b002-3de6832a2de8",
+  "lastModified": "2020-01-16T09:02:24.370Z",
+  "systemModified": "2020-01-16T09:02:24.370Z",
+  "status": "ready"
+}

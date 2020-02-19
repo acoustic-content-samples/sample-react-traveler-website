@@ -1,0 +1,33 @@
+{
+  "rev": "9-077399001b0a4f28c6cbdeca064e25b5",
+  "thumbnail": {
+    "id": "60306716-2147-4c8c-bcdd-b901863512d6"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:22.558Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:Travel Site Sample"
+  ],
+  "elements": {
+    "logoimage": {
+      "mode": "shared",
+      "asset": {
+        "id": "60306716-2147-4c8c-bcdd-b901863512d6"
+      },
+      "elementType": "image"
+    }
+  },
+  "name": "Header",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "ce49a9d5-c114-4069-8e9c-40f05583fd6f",
+  "id": "6321e5b0-58b2-4bf6-9328-620e40406c23",
+  "lastModified": "2020-01-16T09:02:22.558Z",
+  "systemModified": "2020-01-16T09:02:22.558Z",
+  "status": "ready"
+}

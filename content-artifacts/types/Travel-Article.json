@@ -1,0 +1,74 @@
+{
+  "id": "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "rev": "9-1308f0eafa4d4991b1c6fb54f733f5ce",
+  "name": "Travel Article",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "contentThumbnail": {
+    "imageElement": "travelArticleImage",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [
+    "Travel Site Sample"
+  ],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Travel Article Title",
+      "key": "travelArticleTitle",
+      "required": false,
+      "maxLength": 100,
+      "placeholder": {
+        "show": true,
+        "text": "Enter travel article title"
+      },
+      "searchKey": "string1"
+    },
+    {
+      "elementType": "image",
+      "label": "Travel Article Image",
+      "key": "travelArticleImage",
+      "required": false,
+      "imageProfileId": "59414bcf-8ccb-4809-9117-47b7a64864a0",
+      "acceptType": [
+        "jpg",
+        "jpeg",
+        "png",
+        "gif"
+      ]
+    },
+    {
+      "elementType": "formattedtext",
+      "label": "Travel Article Text",
+      "key": "travelArticleText",
+      "required": false
+    },
+    {
+      "elementType": "text",
+      "label": "Article Author",
+      "key": "articleAuthor",
+      "required": false,
+      "maxLength": 40,
+      "placeholder": {
+        "show": true,
+        "text": "Enter author name"
+      }
+    },
+    {
+      "elementType": "category",
+      "label": "Country Of Travel Article",
+      "key": "countryOfTravelArticle",
+      "required": false,
+      "restrictedParents": [
+        "478f06ce-90a4-41df-95c3-2b25285d4791"
+      ],
+      "role": [
+        "configuration"
+      ]
+    }
+  ]
+}

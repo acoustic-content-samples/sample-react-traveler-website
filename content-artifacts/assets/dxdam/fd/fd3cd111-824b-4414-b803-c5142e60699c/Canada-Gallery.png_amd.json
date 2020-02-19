@@ -1,0 +1,123 @@
+{
+  "fileName": "Canada-Gallery.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1280
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "4cb324b2-fb98-4a2d-9b92-2566bf531e07",
+  "path": "/dxdam/fd/fd3cd111-824b-4414-b803-c5142e60699c/Canada-Gallery.png",
+  "digest": "YcVVA0bKxt+A3NtpGM0bxQ==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=09884b0e-a98d-4614-aebf-5388563c8edf&a=fd3cd111-824b-4414-b803-c5142e60699c",
+      "source": "/authoring/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf"
+    }
+  },
+  "id": "fd3cd111-824b-4414-b803-c5142e60699c",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:17.262Z",
+  "profileRenditions": [
+    {
+      "profileId": "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "key": "squareCard",
+      "transform": {
+        "scale": 0.19531,
+        "crop": {
+          "x": 62,
+          "y": 0,
+          "width": 250,
+          "height": 250
+        }
+      },
+      "uri": "/authoring/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?resize=375px:250px&crop=250:250;62,0",
+      "width": 250,
+      "height": 250
+    },
+    {
+      "profileId": "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "key": "rectangleCard",
+      "transform": {
+        "scale": 1,
+        "crop": {
+          "x": 0,
+          "y": 359,
+          "width": 1920,
+          "height": 562
+        }
+      },
+      "uri": "/authoring/v1/resources/09884b0e-a98d-4614-aebf-5388563c8edf?resize=1920px:1280px&crop=1920:562;0,359",
+      "width": 1920,
+      "height": 562
+    }
+  ],
+  "rev": "14-238b5db90ead9f6c88c695c832b50845",
+  "altText": "The building, where the parliament of Canada resides, with the national flag on the top.",
+  "resource": "09884b0e-a98d-4614-aebf-5388563c8edf",
+  "created": "2020-01-16T09:02:16.275Z",
+  "profiles": [
+    "a03c07db-709e-48f4-a3a1-4feb3ff2540e"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:castle",
+      "classification:fortification",
+      "classification:defensive structure",
+      "classification:chateau",
+      "classification:country house",
+      "classification:building",
+      "classification:palace",
+      "classification:blue color"
+    ],
+    "declined": [
+      "classification:castle",
+      "classification:fortification",
+      "classification:defensive structure",
+      "classification:chateau",
+      "classification:country house",
+      "classification:building",
+      "classification:palace",
+      "classification:blue color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "castle",
+      "fortification",
+      "defensive structure",
+      "chateau",
+      "country house",
+      "building",
+      "palace",
+      "blue color"
+    ],
+    "colors": {
+      "lightMuted": "#9ca3b3",
+      "darkMuted": "#574c36",
+      "lightVibrant": "#d5bfa3",
+      "vibrant": "#84643c",
+      "muted": "#977d61",
+      "darkVibrant": "#7c6439"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1205919,
+  "name": "Canada-Gallery.png",
+  "lastModified": "2020-01-16T09:02:17.262Z",
+  "status": "ready"
+}

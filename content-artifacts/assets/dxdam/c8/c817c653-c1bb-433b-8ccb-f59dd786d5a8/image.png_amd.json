@@ -1,0 +1,71 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1839,
+    "height": 897
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "fcc115ae-0ff9-4f01-b42c-77bae9cfb689",
+  "path": "/dxdam/c8/c817c653-c1bb-433b-8ccb-f59dd786d5a8/image.png",
+  "digest": "k9YDr5A5klJzW/rzu59kbg==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=8b1e8cc4-f5e8-4655-aac3-4e02d71991e3&a=8af36ee2-c7c1-4e1e-9393-b7578a6f6cd9",
+      "source": "/authoring/v1/resources/8b1e8cc4-f5e8-4655-aac3-4e02d71991e3"
+    }
+  },
+  "id": "8af36ee2-c7c1-4e1e-9393-b7578a6f6cd9",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:14.858Z",
+  "rev": "14-d2990d27583fa018011c550b7e056a8a",
+  "altText": "View on the sunset from the shore of one of the islands of Japan.",
+  "resource": "8b1e8cc4-f5e8-4655-aac3-4e02d71991e3",
+  "created": "2020-01-16T09:02:14.043Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:Sunset",
+      "classification:blue color",
+      "classification:reddish orange color"
+    ],
+    "declined": [
+      "classification:Sunset",
+      "classification:blue color",
+      "classification:reddish orange color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "Sunset",
+      "blue color",
+      "reddish orange color"
+    ],
+    "colors": {
+      "lightMuted": "#915c07",
+      "darkMuted": "#423124",
+      "lightVibrant": "#f5b042",
+      "vibrant": "#ed7929",
+      "muted": "#886c4a",
+      "darkVibrant": "#893e24"
+    },
+    "status": "complete"
+  },
+  "fileSize": 516971,
+  "name": "Japan-Article-Image",
+  "lastModified": "2020-01-16T09:02:14.858Z",
+  "status": "ready"
+}

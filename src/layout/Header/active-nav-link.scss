@@ -1,0 +1,37 @@
+@import '~assets/styles/colors';
+
+@mixin active-nav-link-base {
+  content: '';
+  position: absolute;
+  box-shadow: 0 1px 4px 0 rgba(19, 23, 61, 0.7);
+}
+
+.active-nav-link {
+  font-weight: bold;
+  color: $main !important;
+  position: relative;
+
+  @media screen and (min-width: 768px) {
+    &:after {
+      @include active-nav-link-base;
+      top: 2.3rem;
+      left: 0;
+      right: 0;
+      border-top: 3px solid $main;
+
+      @media screen and (min-width: 1025px) {
+        top: 2.85rem;
+      }
+    }
+  }
+
+  @media screen and (max-width: 767px) {
+    &:after {
+      @include active-nav-link-base;
+      left: 0;
+      height: 100%;
+      bottom: -5%;
+      border-left: 3px solid $main;
+    }
+  }
+}

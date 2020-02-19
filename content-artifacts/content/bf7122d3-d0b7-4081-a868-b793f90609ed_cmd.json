@@ -1,0 +1,46 @@
+{
+  "rev": "9-3375a9451a16f81aaf75866a1b1bb60b",
+  "thumbnail": {
+    "id": "e9b45753-8150-471c-bf8e-c92553cfc3e3"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:23.781Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample"
+  ],
+  "elements": {
+    "countryTitle": {
+      "elementType": "text",
+      "value": "Italy"
+    },
+    "countryImage": {
+      "mode": "shared",
+      "profiles": [
+        "f55fa25b-f48a-4629-9f8e-3adf84d95a29"
+      ],
+      "asset": {
+        "id": "e9b45753-8150-471c-bf8e-c92553cfc3e3"
+      },
+      "elementType": "image"
+    },
+    "countryValueForPage": {
+      "categoryIds": [
+        "07e62dc8-e25c-49e4-9253-ac4f76717142"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "Italy",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "bf26d16f-461d-408b-b846-4dfb9cc06c8a",
+  "id": "bf7122d3-d0b7-4081-a868-b793f90609ed",
+  "lastModified": "2020-01-16T09:02:23.781Z",
+  "systemModified": "2020-01-16T09:02:23.781Z",
+  "status": "ready"
+}

@@ -1,0 +1,54 @@
+{
+  "rev": "9-971dd99f90cd3e0437ba23d16ea78a2c",
+  "thumbnail": {
+    "id": "8f0a363d-691a-417e-8e68-01a84a4be2aa"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:24.375Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample"
+  ],
+  "elements": {
+    "countryOfTravelArticle": {
+      "categoryIds": [
+        "ed7ce7fa-2f75-4864-87cc-3c2199bcee31"
+      ],
+      "elementType": "category"
+    },
+    "travelArticleTitle": {
+      "elementType": "text",
+      "value": "Top 3 Ski Resorts in the United States"
+    },
+    "travelArticleImage": {
+      "mode": "shared",
+      "profiles": [
+        "59414bcf-8ccb-4809-9117-47b7a64864a0"
+      ],
+      "asset": {
+        "id": "8f0a363d-691a-417e-8e68-01a84a4be2aa"
+      },
+      "elementType": "image"
+    },
+    "articleAuthor": {
+      "elementType": "text",
+      "value": "John Smith"
+    },
+    "travelArticleText": {
+      "elementType": "formattedtext",
+      "value": "<p><em>The National Ski Areas Association, which maintains a list of ski resorts in the United States, counted 472 ski areas in 2019. Over 11 thousand kilometers of slopes are at your disposal for skiing in the United States.</em></p>\n\n<p><em>Although ski resorts can be found across the United States, most of the first-class areas are situated in the Western United States. In this article, we picked the top 3 destinations for skiing in a number-one state for this winter sport - Colorado.</em></p>\n\n<h2>Jackson Hole</h2>\n\n<div style=\"text-align:center;clear:both;padding:0px 0px 10px\"><img data-wch-asset-id=\"0e06e493-148b-4ddd-b300-a422ca05aea2\" height=\"502\" src=\"/api/authoring/v1/resources/784a36dd-f505-4c45-afe1-1caa2d4e2fc8.png\" width=\"750\" /></div>\n\n<p><strong>About</strong></p>\n\n<p>One of the most famous ski resorts in the United States, Jackson Hole is known for the best lift networks in the country and amazing terrain of incredible beauty.</p>\n\n<p>The mountain is covered with a lot of rocks and trees, thus half of it is considered to be mainly of expert skiing level, and about 40% and 10% of intermediate and beginner levels respectively.</p>\n\n<p><strong>Getting there</strong></p>\n\n<p>Jackson Hole is distant from major airports in Salt Lake City or Denver, but there is a regional airport that is served by 3 major airlines flying from many cities throughout the US. </p>\n\n<h2>Telluride</h2>\n\n<div style=\"text-align:center;clear:both;padding:0px 0px 10px\"><img data-wch-asset-id=\"46621069-936c-47ca-b996-421b6b881c22\" height=\"563\" src=\"/api/authoring/v1/resources/d25d2cc5-716a-49b6-8913-bb1fdd306d0a.png\" width=\"750\" /></div>\n\n<p><strong>About</strong></p>\n\n<p>On average, the mountain has over 7.5 meters of snowfall annually and offers over 8 sq kilometers of skiing on 148 trails of varying difficulty: from kid-friendly beginner slopes to rugged off-piste trails.</p>\n\n<p>For beginners, Telluride offers the possibility to take a ride on an 8 km long green run starting from the top of Prospect Express at 3.6 km high. Intermediates can try slopes of Revelation Bowl sitting at 3.8 km, and experts can find the most challenging routes on Palmyra Peak at 4.1 km.</p>\n\n<p><strong>Getting There</strong></p>\n\n<p>Telluride is approximately 530 km from Denver. The nearest international airport to Telluride is Denver International Airport, but you can get closer to the resort via Telluride Regional Airport (10 km away) or via Montrose Regional Airport (105 km away).</p>\n\n<h2>Vail</h2>\n\n<div style=\"text-align:center;clear:both;padding:0px 0px 10px\"><img data-wch-asset-id=\"4ed6bd2a-fa05-4416-84a0-48fd2b78b557\" height=\"563\" src=\"/api/authoring/v1/resources/4b92f69b-48a6-42b4-a1a7-9ec239fdba70.png\" width=\"750\" /></div>\n\n<p><strong>About</strong></p>\n\n<p>Vail is one of the most visited resorts in the country, because of the huge ski area (21.5 sq kilometers) and a remarkable village filled with countless hotels, bars, and restaurants.</p>\n\n<p>Thanks to the great variety of places in Vail village, this resort is perfect for everyone, even families with little kids and non-skiers.</p>\n\n<p><strong>Getting There</strong></p>\n\n<p>It is more convenient to get to Vail from the regional airport nearby, but you can also get from the Denver International Airport, although it takes more time to get to the resort. The Interstate 70 between Vail and Denver is shut down in heavy snowstorms, so travelers should take this fact into account during journey planning.</p>\n"
+    }
+  },
+  "name": "United States Travel Article",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "id": "d2295109-60b6-484f-bf39-c7313ac837e1",
+  "lastModified": "2020-01-16T09:02:24.375Z",
+  "systemModified": "2020-01-16T09:02:24.375Z",
+  "status": "ready"
+}

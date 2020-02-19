@@ -1,0 +1,29 @@
+{
+  "id": "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+  "rev": "9-581fe243d42fda6cb5f8980ad8abca8f",
+  "name": "Gallery Image Profile",
+  "classification": "image-profile",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "created": "2019-11-13T10:41:54.775Z",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "lastModified": "2020-01-16T09:02:01.202Z",
+  "tags": [
+    "Travel Site Sample"
+  ],
+  "dimensions": [
+    {
+      "label": "Square Card",
+      "key": "squareCard",
+      "width": 250,
+      "height": 250,
+      "description": "Used to create a rendition of the image for displaying as a square thumbnail."
+    },
+    {
+      "label": "Rectangle Card",
+      "key": "rectangleCard",
+      "width": 1920,
+      "height": 562,
+      "description": "Used to create a rendition of the image for displaying as a rectangle thumbnail."
+    }
+  ]
+}

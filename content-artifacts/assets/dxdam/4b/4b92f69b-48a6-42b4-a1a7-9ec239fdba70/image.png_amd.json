@@ -1,0 +1,89 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1441
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "3900bef1-8ccc-4efb-9ae7-b2f625dc8ce5",
+  "path": "/dxdam/4b/4b92f69b-48a6-42b4-a1a7-9ec239fdba70/image.png",
+  "digest": "UAgpnhpIByzle/F7Zs84BQ==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=71d7b39f-fb3e-4e38-ba06-1632673ef631&a=4ed6bd2a-fa05-4416-84a0-48fd2b78b557",
+      "source": "/authoring/v1/resources/71d7b39f-fb3e-4e38-ba06-1632673ef631"
+    }
+  },
+  "id": "4ed6bd2a-fa05-4416-84a0-48fd2b78b557",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:09.400Z",
+  "rev": "14-2cba3021090963597438643c640c2830",
+  "altText": "A small village at the foot of a mountain in the USA.",
+  "resource": "71d7b39f-fb3e-4e38-ba06-1632673ef631",
+  "created": "2020-01-16T09:02:08.307Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:ski lodge",
+      "classification:hotel",
+      "classification:building",
+      "classification:ski resort",
+      "classification:Hotel Building",
+      "classification:slope",
+      "classification:nature",
+      "classification:reddish brown color",
+      "classification:steel blue color"
+    ],
+    "declined": [
+      "classification:steel blue color"
+    ],
+    "values": [
+      "user:travel site sample",
+      "classification:ski lodge",
+      "classification:hotel",
+      "classification:building",
+      "classification:ski resort",
+      "classification:Hotel Building",
+      "classification:slope",
+      "classification:nature",
+      "classification:reddish brown color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "ski lodge",
+      "hotel",
+      "building",
+      "ski resort",
+      "Hotel Building",
+      "slope",
+      "nature",
+      "reddish brown color",
+      "steel blue color"
+    ],
+    "colors": {
+      "lightMuted": "#b4bac4",
+      "darkMuted": "#61412f",
+      "lightVibrant": "#dcb49f",
+      "vibrant": "#b96d3a",
+      "muted": "#9a6f57",
+      "darkVibrant": "#663119"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1654205,
+  "name": "United-States-Article-Image",
+  "lastModified": "2020-01-16T09:02:09.400Z",
+  "status": "ready"
+}

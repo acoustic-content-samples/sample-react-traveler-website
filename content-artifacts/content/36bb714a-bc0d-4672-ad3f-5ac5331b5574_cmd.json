@@ -1,0 +1,56 @@
+{
+  "rev": "9-54d98d305d76de84090aeda12cea851b",
+  "thumbnail": {
+    "id": "0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:22.298Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample",
+    "user:hiking",
+    "user:sights"
+  ],
+  "elements": {
+    "countryOfTravelArticle": {
+      "categoryIds": [
+        "cf94dc14-5057-4b61-b19e-55915aa5a56b"
+      ],
+      "elementType": "category"
+    },
+    "travelArticleTitle": {
+      "elementType": "text",
+      "value": "Top 3 Destinations in Croatia"
+    },
+    "travelArticleImage": {
+      "mode": "shared",
+      "profiles": [
+        "59414bcf-8ccb-4809-9117-47b7a64864a0"
+      ],
+      "asset": {
+        "id": "0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9"
+      },
+      "elementType": "image"
+    },
+    "articleAuthor": {
+      "elementType": "text",
+      "value": "John Smith"
+    },
+    "travelArticleText": {
+      "elementType": "formattedtext",
+      "value": "<p><em>What do George Lucas, George Martin, and Shakespeare have in common? The fact that the places of Croatia were used as a setting for a play or as filming locations. As these stunning places attract not only writers and producers, we will share with you 3 most popular destinations for travelers.</em></p>\n\n<h2>Dubrovnik</h2>\n\n<div style=\"text-align:center;clear:both;padding:0px 0px 10px\"><img data-wch-asset-id=\"6739800e-807e-442d-b929-c31b3654d047\" height=\"422\" src=\"/api/authoring/v1/resources/403ffeeb-c345-4de6-9eee-61ce01cae427.png\" width=\"750\" /></div>\n\n<p>Located about 50 km from Montenegro, Dubrovnik is the southernmost town in Croatia that was listed as UNESCO World Heritage Site in 1979.</p>\n\n<p>The best time to visit Dubrovnik is from April to mid-June, and mid-September to mid-October.</p>\n\n<p>The most visited place in Dubrovnik is the old town, available only to pedestrians and surrounded by ancient walls. The old part of Dubrovnik is very well saved and filled with astonishing Renaissance, Gothic, and Baroque buildings, churches, and monasteries.</p>\n\n<p>After visiting the old town, explore Dubrovnik museums, among which Ethnographic museum Rupe, Dominican Monastery, tower Gornji Ugao, and Red History Museum.</p>\n\n<p>To grasp the whole beauty of the old town and enjoy it from the bird&#39;s view, you are welcomed to take a cable car ride, and it will take you from downtown about 800 meters up to the mount Srd.</p>\n\n<p>Besides the historical old town tour, you can enjoy taking the &#39;Game of Thrones&#39; tour, where you will be guided through the filming locations of popular TV series.</p>\n\n<h2><span style=\"color:rgb( 52 , 51 , 52 );font-family:&#39;helvetica neue for ibm&#39; , &#39;helvetica&#39; , &#39;arial&#39; , sans-serif;font-size:17px;font-weight:700\">Zagreb</span></h2>\n\n<p><img data-wch-asset-id=\"8ad4934d-b5a8-49cf-9d9c-8038d4d965ac\" height=\"500\" src=\"/api/authoring/v1/resources/f392c045-fa64-44d8-8719-0eac9697f89a.png\" style=\"float:left;padding:0px 20px 0px 0px\" width=\"400\" /></p>\n\n<p>The capital of Croatia, Zagreb, is also the largest city in the country. It originally existed as two different city centers: Kaptol, where mainly clerics resided, and Gradec, inhabited mainly by farmers and traders.</p>\n\n<p>In 1851, the Ban of Croatia (<em>noble title</em>) merged two cities in one under the name of Zagreb with the main city square named after Josip Jelačić.</p>\n\n<p>The best time to visit Zagreb is in spring and early summer. In early to mid-August, the temperature can be quite high and many locals take their holidays at this time, therefore you may find some of the local merchants’ shops and bars closed in this period.</p>\n\n<p>Spending your vacation in Zagreb, make sure to:</p>\n\n<ul><li>\n\t<p>Explore the Upper town - the oldest part of Zagreb that houses its top attractions: the Lotrscak tower, Stone gate, St. Marc Church, Stross promenade, the Mestrovic Atelier, and the Klovicevi Dvori gallery;</p>\n\t</li><li>\n\t<p>Visit Downtown, filled with countless shops,  bars, and restaurants, located on Jelacic Square, Tkalciceva Street, Bogoviceva Street, and Cvjetni Trg (Flower’s Square);</p>\n\t</li><li>\n\t<p>Attend museum of Broken relationships, where all featured items are relics of broken relationships;</p>\n\t</li><li>\n\t<p>Come to the Technical Museum. Its main floor is dedicated to transport with a display of old cars, trains, planes, trams, as well as models of different ships and boats;</p>\n\t</li><li>\n\t<p>Hike in Medvednica Mountain, located north of Zagreb. The most popular hike is up to the Puntijarka mountain house, located at the elevation of 957 m.</p>\n\t</li></ul>\n\n<h2>Hvar</h2>\n\n<p><img data-wch-asset-id=\"8c4204e9-71fb-4861-87d1-65ef5b0aa4e6\" height=\"300\" src=\"/api/authoring/v1/resources/38e96275-d768-4602-aec8-2bf56d284db6.png\" style=\"float:right;padding:0px 0px 0px 10px\" width=\"450\" />Hvar is perhaps the most famous of all Croatian islands. It is located in central Dalmatia and between islands of Brac, Vis, Korcula, and Peljesac peninsula.</p>\n\n<p>The island is over 68 km long from northwest to southeast and is the longest Croatian island.</p>\n\n<p>The main tourist season starts in late June and lasts to early September, peaking at the end of July till the middle of August.</p>\n\n<p>On the island, plan an unhurried vacation to admire its beauty, visit the Stari Grad Hvar (the Old Town), and, of course, taste local wines.</p>\n\n<p><em>Stari Grad Hvar</em> is the oldest settlement on the island. The old town consists of traditional stone buildings, stone-paved roads, and countless churches. One of the most fascinating places in town is Tvrdalj Castle, a palace from the 16th century.</p>\n\n<p>Plan a full-day <em>wine tour</em> while on the island of Hvar. Popular wine-producers are Zlatan Otok, Tomić Wines, PZ Svirce, Plancic Brothers, and others. Popular wine grape varieties include red <em>plavac mali</em> and white <em>pošip</em>.</p>\n"
+    }
+  },
+  "name": "Croatia Travel Article",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "id": "36bb714a-bc0d-4672-ad3f-5ac5331b5574",
+  "lastModified": "2020-01-16T09:02:22.298Z",
+  "systemModified": "2020-01-16T09:02:22.298Z",
+  "status": "ready"
+}

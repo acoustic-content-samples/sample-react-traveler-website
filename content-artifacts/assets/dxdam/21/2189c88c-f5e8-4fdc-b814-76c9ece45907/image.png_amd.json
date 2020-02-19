@@ -1,0 +1,95 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1191,
+    "height": 669
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "4b765029-8ba7-4b89-a135-d38502dea3c6",
+  "path": "/dxdam/21/2189c88c-f5e8-4fdc-b814-76c9ece45907/image.png",
+  "digest": "sGtbirXd8S7mUyxBL5G4Qg==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=9396d83e-3281-409b-b930-beed28b98ead&a=acb9f3f8-4a3f-4862-a509-571a8e3e18ab",
+      "source": "/authoring/v1/resources/9396d83e-3281-409b-b930-beed28b98ead"
+    }
+  },
+  "id": "acb9f3f8-4a3f-4862-a509-571a8e3e18ab",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:06.905Z",
+  "rev": "14-62d3651755bc193c141b0b8b07d439de",
+  "altText": "Mountain landscape near the water in South Africa.",
+  "resource": "9396d83e-3281-409b-b930-beed28b98ead",
+  "created": "2020-01-16T09:02:06.034Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:oxbow (river)",
+      "classification:nature",
+      "classification:mountain",
+      "classification:scablands",
+      "classification:ridge",
+      "classification:foothill",
+      "classification:hill",
+      "classification:mountain range",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:blue color"
+    ],
+    "declined": [
+      "classification:oxbow (river)",
+      "classification:nature",
+      "classification:scablands",
+      "classification:mountain",
+      "classification:natural elevation",
+      "classification:slope",
+      "classification:blue color"
+    ],
+    "values": [
+      "user:travel site sample",
+      "classification:ridge",
+      "classification:foothill",
+      "classification:hill",
+      "classification:mountain range"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "oxbow (river)",
+      "nature",
+      "mountain",
+      "scablands",
+      "ridge",
+      "foothill",
+      "hill",
+      "mountain range",
+      "slope",
+      "natural elevation",
+      "blue color"
+    ],
+    "colors": {
+      "lightMuted": "#b1bbba",
+      "darkMuted": "#2a475d",
+      "lightVibrant": "#9ad0f8",
+      "vibrant": "#b48c48",
+      "muted": "#b28e5e",
+      "darkVibrant": "#60401c"
+    },
+    "status": "complete"
+  },
+  "fileSize": 391447,
+  "name": "South-Africa-Article-Image",
+  "lastModified": "2020-01-16T09:02:06.905Z",
+  "status": "ready"
+}

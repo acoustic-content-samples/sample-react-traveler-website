@@ -1,0 +1,22 @@
+{
+  "id": "59414bcf-8ccb-4809-9117-47b7a64864a0",
+  "rev": "9-a39f2c6927aa0d9f7bc2f7edb6a8d1fe",
+  "name": "Travel Article Image Profile",
+  "classification": "image-profile",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "created": "2019-11-13T10:40:42.831Z",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "lastModified": "2020-01-16T09:02:01.209Z",
+  "tags": [
+    "Travel Site Sample"
+  ],
+  "dimensions": [
+    {
+      "label": "Card",
+      "key": "card",
+      "width": 250,
+      "height": 250,
+      "description": "Used to create a rendition of the image for displaying as a thumbnail."
+    }
+  ]
+}

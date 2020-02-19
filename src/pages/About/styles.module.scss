@@ -1,0 +1,20 @@
+@import '~assets/styles/variables';
+
+.about {
+  padding: $main-padding;
+  @media screen and (max-width: 1024px) {
+    padding: $main-padding-moblie;
+  }
+
+  div {
+    font-size: $text-font-size;
+  }
+
+  img {
+    max-width: 50%;
+
+    @media screen and (max-width: 1024px) {
+      max-width: 100%;
+    }
+  }
+}

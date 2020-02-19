@@ -1,0 +1,66 @@
+{
+  "id": "0b48a3c4-cc2f-424f-86bb-1b83292ee57c",
+  "rev": "9-7d7cfd7d0c419856c06b1223ab666324",
+  "name": "Image Slider Settings",
+  "classification": "content-type",
+  "kind": [
+    "embedded"
+  ],
+  "description": "",
+  "status": "ready",
+  "tags": [
+    "Travel Site Sample"
+  ],
+  "elements": [
+    {
+      "elementType": "optionselection",
+      "options": [
+        {
+          "label": "Gallery Image",
+          "selection": "Gallery Image"
+        },
+        {
+          "label": "Travel Article",
+          "selection": "Travel Article"
+        }
+      ],
+      "label": "Content Type To Display",
+      "key": "contentTypeToDisplay"
+    },
+    {
+      "elementType": "optionselection",
+      "options": [
+        {
+          "label": "Most Recent",
+          "selection": "Most Recent"
+        },
+        {
+          "label": "Least Recent",
+          "selection": "Least Recent"
+        }
+      ],
+      "label": "Display Order",
+      "key": "displayOrder"
+    },
+    {
+      "elementType": "number",
+      "fieldType": "integer",
+      "label": "Number of list items",
+      "key": "numberOfListItems",
+      "minimum": 1,
+      "maximum": 12,
+      "required": false
+    },
+    {
+      "elementType": "number",
+      "fieldType": "integer",
+      "label": "Display Time",
+      "key": "DisplayTime",
+      "minimum": 1,
+      "maximum": 15,
+      "helpText": "This field is used only for Image Slider. Value from this field is used to indicate how long each image is displayed in Slider before switching to the next one.",
+      "allowMultipleValues": false,
+      "required": false
+    }
+  ]
+}

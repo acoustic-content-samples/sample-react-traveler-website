@@ -1,0 +1,128 @@
+{
+  "fileName": "Peru-Country-Image.png",
+  "metadata": {
+    "width": 1570,
+    "height": 275
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "0ba98f9f-85fd-443c-bb24-29d04dcb06d8",
+  "path": "/dxdam/31/312cc2de-ae0d-49cb-bada-ff1ad04c6376/Peru-Country-Image.png",
+  "digest": "YtDihe9svxRBedv/95QfBA==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=9170048f-195d-4c5d-b91c-4ec9e9d0e9c2&a=312cc2de-ae0d-49cb-bada-ff1ad04c6376",
+      "source": "/authoring/v1/resources/9170048f-195d-4c5d-b91c-4ec9e9d0e9c2"
+    }
+  },
+  "id": "312cc2de-ae0d-49cb-bada-ff1ad04c6376",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:11.580Z",
+  "profileRenditions": [
+    {
+      "profileId": "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "key": "countryCard",
+      "transform": {
+        "scale": 1,
+        "crop": {
+          "x": 0,
+          "y": 124,
+          "width": 1570,
+          "height": 105
+        }
+      },
+      "uri": "/authoring/v1/resources/9170048f-195d-4c5d-b91c-4ec9e9d0e9c2?resize=1570px:275px&crop=1570:105;0,124",
+      "width": 1570,
+      "height": 105
+    },
+    {
+      "profileId": "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "key": "destinationsCard",
+      "transform": {
+        "scale": 1,
+        "crop": {
+          "x": 626,
+          "y": 0,
+          "width": 370,
+          "height": 275
+        }
+      },
+      "uri": "/authoring/v1/resources/9170048f-195d-4c5d-b91c-4ec9e9d0e9c2?resize=1570px:275px&crop=370:275;626,0",
+      "width": 370,
+      "height": 275
+    }
+  ],
+  "rev": "14-cf3019d0cee725c37ded7d6634827593",
+  "altText": "Mountain landscape in Peru.",
+  "resource": "9170048f-195d-4c5d-b91c-4ec9e9d0e9c2",
+  "created": "2020-01-16T09:02:10.681Z",
+  "profiles": [
+    "f55fa25b-f48a-4629-9f8e-3adf84d95a29"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:ridge",
+      "classification:nature",
+      "classification:alp",
+      "classification:massif",
+      "classification:ridgeline",
+      "classification:mountain",
+      "classification:extremum (peak)",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:reddish orange color"
+    ],
+    "declined": [],
+    "values": [
+      "user:travel site sample",
+      "classification:ridge",
+      "classification:nature",
+      "classification:alp",
+      "classification:massif",
+      "classification:ridgeline",
+      "classification:mountain",
+      "classification:extremum (peak)",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:reddish orange color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "ridge",
+      "nature",
+      "alp",
+      "massif",
+      "ridgeline",
+      "mountain",
+      "extremum (peak)",
+      "slope",
+      "natural elevation",
+      "reddish orange color"
+    ],
+    "colors": {
+      "lightMuted": "#acc4c2",
+      "darkMuted": "#3d606b",
+      "lightVibrant": "#e8ad91",
+      "vibrant": "#a54d22",
+      "muted": "#618f99",
+      "darkVibrant": "#7d3e25"
+    },
+    "status": "complete"
+  },
+  "fileSize": 230616,
+  "name": "Peru-Country-Image.png",
+  "lastModified": "2020-01-16T09:02:11.580Z",
+  "status": "ready"
+}

@@ -1,0 +1,89 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1441
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "9886a7a9-8705-44c2-a549-46fc7c18ff40",
+  "path": "/dxdam/d2/d25d2cc5-716a-49b6-8913-bb1fdd306d0a/image.png",
+  "digest": "SArCXHAlYKJWSJyuW7Z5LA==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=620e1a7b-74eb-40a4-ba40-4b5ea3a9a809&a=46621069-936c-47ca-b996-421b6b881c22",
+      "source": "/authoring/v1/resources/620e1a7b-74eb-40a4-ba40-4b5ea3a9a809"
+    }
+  },
+  "id": "46621069-936c-47ca-b996-421b6b881c22",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:15.188Z",
+  "rev": "14-18d6c14498435461b6538497a02446e1",
+  "altText": "A person looks at the snowy mountains in the USA.",
+  "resource": "620e1a7b-74eb-40a4-ba40-4b5ea3a9a809",
+  "created": "2020-01-16T09:02:14.253Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:person",
+      "classification:alp",
+      "classification:nature",
+      "classification:descent",
+      "classification:slope",
+      "classification:downhill",
+      "classification:natural elevation",
+      "classification:sport",
+      "classification:azure color"
+    ],
+    "declined": [
+      "classification:person",
+      "classification:alp",
+      "classification:nature",
+      "classification:descent",
+      "classification:slope",
+      "classification:downhill",
+      "classification:natural elevation",
+      "classification:sport",
+      "classification:azure color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "person",
+      "alp",
+      "nature",
+      "descent",
+      "slope",
+      "downhill",
+      "natural elevation",
+      "sport",
+      "azure color"
+    ],
+    "colors": {
+      "lightMuted": "#a8b6c9",
+      "darkMuted": "#313f53",
+      "lightVibrant": "#b8c9df",
+      "vibrant": "#94aece",
+      "muted": "#5c84ac",
+      "darkVibrant": "#293f5a"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1447859,
+  "name": "United-States-Article-Image",
+  "lastModified": "2020-01-16T09:02:15.188Z",
+  "status": "ready"
+}

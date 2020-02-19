@@ -1,0 +1,51 @@
+{
+  "rev": "9-f94fe67e964be0553548c7d4ee71549b",
+  "thumbnail": {
+    "id": "99391ff8-7f5b-4101-ba80-e0cf4a7c321e"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:21.829Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample",
+    "user:Nature"
+  ],
+  "elements": {
+    "ImageTitle": {
+      "elementType": "text",
+      "value": "Sakura Blossom in Japan"
+    },
+    "galleryImage": {
+      "mode": "shared",
+      "profiles": [
+        "a03c07db-709e-48f4-a3a1-4feb3ff2540e"
+      ],
+      "asset": {
+        "id": "99391ff8-7f5b-4101-ba80-e0cf4a7c321e"
+      },
+      "elementType": "image"
+    },
+    "imageDescription": {
+      "elementType": "formattedtext",
+      "value": "<p>In Japan, the appearance of cherry blossoms <em>(sakura)</em> indicates the beginning of spring. The best place to enjoy blossoms is to visit the main parks of Hokkaido: Hakodate, Sapporo, Furano, Otaru, and Asahikawa.</p>\n"
+    },
+    "imageCountryValue": {
+      "categoryIds": [
+        "afff9e99-d059-42c2-84e3-ac59e1ea371a"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "Japan Gallery Image",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+  "id": "15cc8fce-5b04-49e1-a7f1-f5d09d918a55",
+  "lastModified": "2020-01-16T09:02:21.829Z",
+  "systemModified": "2020-01-16T09:02:21.829Z",
+  "status": "ready"
+}

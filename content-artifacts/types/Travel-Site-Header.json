@@ -1,0 +1,26 @@
+{
+  "id": "ce49a9d5-c114-4069-8e9c-40f05583fd6f",
+  "rev": "9-436fa5186d0cde4b03a708b587d2d31b",
+  "name": "Travel Site Header",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "contentThumbnail": {
+    "imageElement": "logoimage",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [
+    "Travel Site Sample"
+  ],
+  "elements": [
+    {
+      "elementType": "image",
+      "label": "logoImage",
+      "key": "logoimage",
+      "required": false
+    }
+  ]
+}

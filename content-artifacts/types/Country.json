@@ -1,0 +1,53 @@
+{
+  "id": "bf26d16f-461d-408b-b846-4dfb9cc06c8a",
+  "rev": "9-57d82570e38f37336415550dccebee67",
+  "name": "Country",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "contentThumbnail": {
+    "imageElement": "countryImage",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [
+    "Travel Site Sample"
+  ],
+  "categoryIds": [],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Country Title",
+      "key": "countryTitle",
+      "required": false,
+      "maxLength": 40
+    },
+    {
+      "elementType": "image",
+      "label": "Country Image",
+      "key": "countryImage",
+      "required": false,
+      "acceptType": [
+        "jpg",
+        "jpeg",
+        "png",
+        "gif"
+      ],
+      "imageProfileId": "f55fa25b-f48a-4629-9f8e-3adf84d95a29"
+    },
+    {
+      "elementType": "category",
+      "label": "Country Value for Page",
+      "key": "countryValueForPage",
+      "required": false,
+      "restrictedParents": [
+        "478f06ce-90a4-41df-95c3-2b25285d4791"
+      ],
+      "role": [
+        "configuration"
+      ]
+    }
+  ]
+}

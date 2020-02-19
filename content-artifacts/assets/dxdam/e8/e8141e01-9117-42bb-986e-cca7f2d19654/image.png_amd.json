@@ -1,0 +1,95 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1280
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "f3ef6dbd-f784-4ae9-b463-40db52f7eb4a",
+  "path": "/dxdam/e8/e8141e01-9117-42bb-986e-cca7f2d19654/image.png",
+  "digest": "N4zcUvSTyy7t4KgAvwxGmQ==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=2d6bbcc2-9755-4bbf-87db-3226e9faf171&a=04a5a3ca-22a6-4fb6-83bb-0adb20e4291e",
+      "source": "/authoring/v1/resources/2d6bbcc2-9755-4bbf-87db-3226e9faf171"
+    }
+  },
+  "id": "04a5a3ca-22a6-4fb6-83bb-0adb20e4291e",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:15.698Z",
+  "rev": "14-64f88eb736ff3173ceab3bdcdb38f970",
+  "altText": "Landscape in Peru with a river and mountains.",
+  "resource": "2d6bbcc2-9755-4bbf-87db-3226e9faf171",
+  "created": "2020-01-16T09:02:14.809Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:mountain",
+      "classification:nature",
+      "classification:ben (mountain)",
+      "classification:Alpine glacier",
+      "classification:glacier",
+      "classification:ice mass",
+      "classification:massif",
+      "classification:mountain range",
+      "classification:natural elevation",
+      "classification:blue color",
+      "classification:sea green color"
+    ],
+    "declined": [
+      "classification:mountain",
+      "classification:nature",
+      "classification:mountain range",
+      "classification:Alpine glacier",
+      "classification:glacier",
+      "classification:ice mass",
+      "classification:ben (mountain)",
+      "classification:massif",
+      "classification:natural elevation",
+      "classification:blue color"
+    ],
+    "values": [
+      "user:travel site sample",
+      "classification:sea green color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "mountain",
+      "nature",
+      "ben (mountain)",
+      "Alpine glacier",
+      "glacier",
+      "ice mass",
+      "massif",
+      "mountain range",
+      "natural elevation",
+      "blue color",
+      "sea green color"
+    ],
+    "colors": {
+      "lightMuted": "#acc4cc",
+      "darkMuted": "#4e4028",
+      "lightVibrant": "#f6eaef",
+      "vibrant": "#34777c",
+      "muted": "#649ca4",
+      "darkVibrant": "#146870"
+    },
+    "status": "complete"
+  },
+  "fileSize": 970804,
+  "name": "Peru-Article-Image1",
+  "lastModified": "2020-01-16T09:02:15.698Z",
+  "status": "ready"
+}

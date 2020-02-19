@@ -1,0 +1,118 @@
+{
+  "fileName": "Italy-Travel Article.png",
+  "metadata": {
+    "width": 1920,
+    "height": 578
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "7313d385-a433-45a5-8c96-2705020f9563",
+  "path": "/dxdam/24/24b900b3-3463-4de4-a8e0-a99bd2e6c06b/Italy-Travel Article.png",
+  "digest": "ghW9wZ5uPC92nPAhHkRkYA==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=0d5c6388-5685-4af2-87d7-659ed0eaecab&a=24b900b3-3463-4de4-a8e0-a99bd2e6c06b",
+      "source": "/authoring/v1/resources/0d5c6388-5685-4af2-87d7-659ed0eaecab"
+    }
+  },
+  "id": "24b900b3-3463-4de4-a8e0-a99bd2e6c06b",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:07.220Z",
+  "profileRenditions": [
+    {
+      "profileId": "59414bcf-8ccb-4809-9117-47b7a64864a0",
+      "key": "card",
+      "transform": {
+        "scale": 0.43252,
+        "crop": {
+          "x": 290,
+          "y": 0,
+          "width": 250,
+          "height": 250
+        }
+      },
+      "uri": "/authoring/v1/resources/0d5c6388-5685-4af2-87d7-659ed0eaecab?resize=830px:250px&crop=250:250;290,0",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "rev": "14-8d04e51a19ba2e88af3e8865bed77270",
+  "altText": "Buildings in the countryside of Italy.",
+  "resource": "0d5c6388-5685-4af2-87d7-659ed0eaecab",
+  "created": "2020-01-16T09:02:06.302Z",
+  "profiles": [
+    "59414bcf-8ccb-4809-9117-47b7a64864a0"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:Village",
+      "classification:housetop",
+      "classification:protective covering",
+      "classification:dwelling",
+      "classification:housing",
+      "classification:mountainside",
+      "classification:slope",
+      "classification:nature",
+      "classification:building",
+      "classification:natural elevation",
+      "classification:light brown color",
+      "classification:Indian red color"
+    ],
+    "declined": [],
+    "values": [
+      "user:travel site sample",
+      "classification:Village",
+      "classification:housetop",
+      "classification:protective covering",
+      "classification:dwelling",
+      "classification:housing",
+      "classification:mountainside",
+      "classification:slope",
+      "classification:nature",
+      "classification:building",
+      "classification:natural elevation",
+      "classification:light brown color",
+      "classification:Indian red color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "Village",
+      "housetop",
+      "protective covering",
+      "dwelling",
+      "housing",
+      "mountainside",
+      "slope",
+      "nature",
+      "building",
+      "natural elevation",
+      "light brown color",
+      "Indian red color"
+    ],
+    "colors": {
+      "lightMuted": "#e4ddd1",
+      "darkMuted": "#52352c",
+      "lightVibrant": "#ecc494",
+      "vibrant": "#bc7444",
+      "muted": "#9c7151",
+      "darkVibrant": "#6e361c"
+    },
+    "status": "complete"
+  },
+  "fileSize": 670971,
+  "name": "Italy-Travel Article.png",
+  "lastModified": "2020-01-16T09:02:07.220Z",
+  "status": "ready"
+}

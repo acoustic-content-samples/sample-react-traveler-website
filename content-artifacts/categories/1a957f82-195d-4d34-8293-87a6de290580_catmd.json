@@ -1,0 +1,30 @@
+{
+  "id": "1a957f82-195d-4d34-8293-87a6de290580",
+  "rev": "9-0d6b2f7e9393d3420a743ace368b243e",
+  "name": "North America",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "creator": "Sergii Permiakov",
+  "classification": "category",
+  "taxonomy": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "parent": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "ancestorIds": [
+    "478f06ce-90a4-41df-95c3-2b25285d4791"
+  ],
+  "namePath": [
+    "Locations",
+    "North America"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/1a957f82-195d-4d34-8293-87a6de290580"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    }
+  },
+  "created": "2020-01-16T09:02:03.269Z",
+  "lastModified": "2020-01-16T09:02:03.269Z"
+}

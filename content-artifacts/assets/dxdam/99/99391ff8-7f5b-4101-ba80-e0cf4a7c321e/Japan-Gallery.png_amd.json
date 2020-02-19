@@ -1,0 +1,122 @@
+{
+  "fileName": "Japan-Gallery.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1272
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "5930c487-c5e0-472d-ad13-7f68bf8beb18",
+  "path": "/dxdam/99/99391ff8-7f5b-4101-ba80-e0cf4a7c321e/Japan-Gallery.png",
+  "digest": "MI3vKljq4ZUHG73P8Jk9mA==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=4f613ed2-9367-4dd3-acae-8d1ad021f7e9&a=99391ff8-7f5b-4101-ba80-e0cf4a7c321e",
+      "source": "/authoring/v1/resources/4f613ed2-9367-4dd3-acae-8d1ad021f7e9"
+    }
+  },
+  "id": "99391ff8-7f5b-4101-ba80-e0cf4a7c321e",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:12.469Z",
+  "profileRenditions": [
+    {
+      "profileId": "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "key": "squareCard",
+      "transform": {
+        "scale": 0.19654,
+        "crop": {
+          "x": 64,
+          "y": 0,
+          "width": 250,
+          "height": 250
+        }
+      },
+      "uri": "/authoring/v1/resources/4f613ed2-9367-4dd3-acae-8d1ad021f7e9?resize=377px:250px&crop=250:250;64,0",
+      "width": 250,
+      "height": 250
+    },
+    {
+      "profileId": "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "key": "rectangleCard",
+      "transform": {
+        "scale": 1,
+        "crop": {
+          "x": 0,
+          "y": 355,
+          "width": 1920,
+          "height": 562
+        }
+      },
+      "uri": "/authoring/v1/resources/4f613ed2-9367-4dd3-acae-8d1ad021f7e9?resize=1920px:1272px&crop=1920:562;0,355",
+      "width": 1920,
+      "height": 562
+    }
+  ],
+  "rev": "14-d7123d3cc950f318755e25a278931f9b",
+  "altText": "Sakura blossom in Japan.",
+  "resource": "4f613ed2-9367-4dd3-acae-8d1ad021f7e9",
+  "created": "2020-01-16T09:02:11.515Z",
+  "profiles": [
+    "a03c07db-709e-48f4-a3a1-4feb3ff2540e"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:Japanese flowering cherry",
+      "classification:cherry",
+      "classification:tree",
+      "classification:plant",
+      "classification:fuji cherry",
+      "classification:oriental cherry",
+      "classification:rose color",
+      "classification:pink color"
+    ],
+    "declined": [],
+    "values": [
+      "user:travel site sample",
+      "classification:Japanese flowering cherry",
+      "classification:cherry",
+      "classification:tree",
+      "classification:plant",
+      "classification:fuji cherry",
+      "classification:oriental cherry",
+      "classification:rose color",
+      "classification:pink color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "Japanese flowering cherry",
+      "cherry",
+      "tree",
+      "plant",
+      "fuji cherry",
+      "oriental cherry",
+      "rose color",
+      "pink color"
+    ],
+    "colors": {
+      "lightMuted": "#d1a1b0",
+      "darkMuted": "#702d28",
+      "lightVibrant": "#c4ecfc",
+      "vibrant": "#d48d88",
+      "muted": "#a8625f",
+      "darkVibrant": "#612723"
+    },
+    "status": "complete"
+  },
+  "fileSize": 912460,
+  "name": "Japan-Gallery.png",
+  "lastModified": "2020-01-16T09:02:12.469Z",
+  "status": "ready"
+}

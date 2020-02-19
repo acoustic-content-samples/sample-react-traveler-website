@@ -1,0 +1,80 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1280
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "5721e710-9a6d-4065-ad07-a4e51b7bfebe",
+  "path": "/dxdam/8b/8b0003f5-fdb3-45b8-83ed-08ad5cd235c5/image.png",
+  "digest": "t7ae/ROq5/oIcmqG1LaK6g==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=4f8af1bf-aac0-4160-be74-650bf7728db1&a=3d3ba77d-b4f4-4e23-8c0f-c6aa35026009",
+      "source": "/authoring/v1/resources/4f8af1bf-aac0-4160-be74-650bf7728db1"
+    }
+  },
+  "id": "3d3ba77d-b4f4-4e23-8c0f-c6aa35026009",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:12.777Z",
+  "rev": "14-650a304926dbbc8b30a5806b03a22cba",
+  "altText": "A historic landmark on the hills in Peru.",
+  "resource": "4f8af1bf-aac0-4160-be74-650bf7728db1",
+  "created": "2020-01-16T09:02:11.820Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:maze",
+      "classification:system",
+      "classification:crater",
+      "classification:nature",
+      "classification:greenishness color",
+      "classification:olive green color"
+    ],
+    "declined": [
+      "classification:maze",
+      "classification:system",
+      "classification:crater",
+      "classification:nature",
+      "classification:greenishness color",
+      "classification:olive green color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "maze",
+      "system",
+      "crater",
+      "nature",
+      "greenishness color",
+      "olive green color"
+    ],
+    "colors": {
+      "lightMuted": "#b6b2a4",
+      "darkMuted": "#474738",
+      "lightVibrant": "#c3d8a1",
+      "vibrant": "#8bb34b",
+      "muted": "#898e66",
+      "darkVibrant": "#1c240f"
+    },
+    "status": "complete"
+  },
+  "fileSize": 2013264,
+  "name": "Peru-Article-Image",
+  "lastModified": "2020-01-16T09:02:12.777Z",
+  "status": "ready"
+}

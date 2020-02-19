@@ -1,0 +1,92 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1789,
+    "height": 1006
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "9545edf9-0c2d-4def-b907-1aab3214d32f",
+  "path": "/dxdam/40/403ffeeb-c345-4de6-9eee-61ce01cae427/image.png",
+  "digest": "Cw2SrRBFr1bOwS8a/IfqPA==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=4813c51d-a8ae-4508-ad3d-2ecbacfec01f&a=6739800e-807e-442d-b929-c31b3654d047",
+      "source": "/authoring/v1/resources/4813c51d-a8ae-4508-ad3d-2ecbacfec01f"
+    }
+  },
+  "id": "6739800e-807e-442d-b929-c31b3654d047",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:08.197Z",
+  "rev": "14-04f2b637b7d96a99161dcd36f7f96fde",
+  "altText": "A bay in Croatia with castles on the shore.",
+  "resource": "4813c51d-a8ae-4508-ad3d-2ecbacfec01f",
+  "created": "2020-01-16T09:02:07.280Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:stronghold",
+      "classification:defensive structure",
+      "classification:fortress",
+      "classification:seashore",
+      "classification:shore",
+      "classification:nature",
+      "classification:promontory",
+      "classification:watercraft",
+      "classification:blue color",
+      "classification:sea green color"
+    ],
+    "declined": [
+      "classification:promontory"
+    ],
+    "values": [
+      "user:travel site sample",
+      "classification:stronghold",
+      "classification:defensive structure",
+      "classification:fortress",
+      "classification:seashore",
+      "classification:shore",
+      "classification:nature",
+      "classification:watercraft",
+      "classification:blue color",
+      "classification:sea green color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "stronghold",
+      "defensive structure",
+      "fortress",
+      "seashore",
+      "shore",
+      "nature",
+      "promontory",
+      "watercraft",
+      "blue color",
+      "sea green color"
+    ],
+    "colors": {
+      "lightMuted": "#cdac9a",
+      "darkMuted": "#7b5345",
+      "lightVibrant": "#aad4e9",
+      "vibrant": "#1c6996",
+      "muted": "#9d7664",
+      "darkVibrant": "#0a537c"
+    },
+    "status": "complete"
+  },
+  "fileSize": 974866,
+  "name": "Croatia-Article-Image",
+  "lastModified": "2020-01-16T09:02:08.197Z",
+  "status": "ready"
+}

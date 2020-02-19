@@ -1,0 +1,37 @@
+{
+  "id": "9f077e72-352d-41a3-b2bb-b3857e6bc783",
+  "rev": "9-ac16878f2e7ff6a69a3c4b57ade9164c",
+  "name": "Region",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "description": "",
+  "status": "ready",
+  "tags": [
+    "Travel Site Sample"
+  ],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Region Title",
+      "key": "regionTitle",
+      "required": false,
+      "maxLength": 30
+    },
+    {
+      "elementType": "category",
+      "label": "Country List",
+      "key": "countryList",
+      "role": [
+        "configuration"
+      ],
+      "required": false,
+      "restrictedParents": [
+        "478f06ce-90a4-41df-95c3-2b25285d4791"
+      ],
+      "allowMultipleValues": true,
+      "minimumValues": 0
+    }
+  ]
+}

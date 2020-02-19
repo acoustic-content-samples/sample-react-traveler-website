@@ -1,0 +1,32 @@
+{
+  "id": "c4092e2d-bb70-48ab-bdbd-2c6e86d335b9",
+  "rev": "9-c14ac7e1aaffc5ae75a3e6565c616cbf",
+  "name": "Argentina",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "creator": "Sergii Permiakov",
+  "classification": "category",
+  "taxonomy": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "parent": "2235156b-4238-4797-856c-19617fed0563",
+  "ancestorIds": [
+    "478f06ce-90a4-41df-95c3-2b25285d4791",
+    "2235156b-4238-4797-856c-19617fed0563"
+  ],
+  "namePath": [
+    "Locations",
+    "South America",
+    "Argentina"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/c4092e2d-bb70-48ab-bdbd-2c6e86d335b9"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/2235156b-4238-4797-856c-19617fed0563"
+    }
+  },
+  "created": "2020-01-16T09:02:03.326Z",
+  "lastModified": "2020-01-16T09:02:03.326Z"
+}

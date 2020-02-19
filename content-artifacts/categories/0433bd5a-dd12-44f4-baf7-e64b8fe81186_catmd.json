@@ -1,0 +1,21 @@
+{
+  "id": "0433bd5a-dd12-44f4-baf7-e64b8fe81186",
+  "rev": "9-6ec4cfbef1fe679eadd7c25a8bb6f8f2",
+  "name": "Content to Display",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "creator": "Sergii Permiakov",
+  "classification": "taxonomy",
+  "firstClassFor": [
+    ""
+  ],
+  "namePath": [
+    "Content to Display"
+  ],
+  "links": {
+    "self": {
+      "href": "/authoring/v1/categories/0433bd5a-dd12-44f4-baf7-e64b8fe81186"
+    }
+  },
+  "created": "2020-01-16T09:02:01.816Z",
+  "lastModified": "2020-01-16T09:02:01.816Z"
+}

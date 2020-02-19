@@ -1,0 +1,34 @@
+{
+  "rev": "9-a9834148b07bb0f4d2d8ba83d765f270",
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:21.851Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample"
+  ],
+  "elements": {
+    "regionTitle": {
+      "elementType": "text",
+      "value": "Europe"
+    },
+    "countryList": {
+      "categoryIds": [
+        "cf94dc14-5057-4b61-b19e-55915aa5a56b",
+        "07e62dc8-e25c-49e4-9253-ac4f76717142"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "Europe",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "9f077e72-352d-41a3-b2bb-b3857e6bc783",
+  "id": "335d7e10-1c7f-4a5d-a39a-d6c0ceca8a86",
+  "lastModified": "2020-01-16T09:02:21.851Z",
+  "systemModified": "2020-01-16T09:02:21.851Z",
+  "status": "ready"
+}

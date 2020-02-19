@@ -1,0 +1,128 @@
+{
+  "fileName": "Singapore-Country-Image.png",
+  "metadata": {
+    "width": 1570,
+    "height": 275
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "a8aa74cd-bdaa-4d6f-a61d-87b877c2ba66",
+  "path": "/dxdam/ca/ca83abb2-298d-4561-82c5-81aac8f582e5/Singapore-Country-Image.png",
+  "digest": "rwYdRJKRVHh41rTqkO5NMA==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=f5d0b757-cf53-4b4c-9f3e-a302b2640cbf&a=ca83abb2-298d-4561-82c5-81aac8f582e5",
+      "source": "/authoring/v1/resources/f5d0b757-cf53-4b4c-9f3e-a302b2640cbf"
+    }
+  },
+  "id": "ca83abb2-298d-4561-82c5-81aac8f582e5",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:14.856Z",
+  "profileRenditions": [
+    {
+      "profileId": "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "key": "countryCard",
+      "transform": {
+        "scale": 1,
+        "crop": {
+          "x": 0,
+          "y": 71,
+          "width": 1570,
+          "height": 105
+        }
+      },
+      "uri": "/authoring/v1/resources/f5d0b757-cf53-4b4c-9f3e-a302b2640cbf?resize=1570px:275px&crop=1570:105;0,71",
+      "width": 1570,
+      "height": 105
+    },
+    {
+      "profileId": "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "key": "destinationsCard",
+      "transform": {
+        "scale": 1,
+        "crop": {
+          "x": 575,
+          "y": 0,
+          "width": 370,
+          "height": 275
+        }
+      },
+      "uri": "/authoring/v1/resources/f5d0b757-cf53-4b4c-9f3e-a302b2640cbf?resize=1570px:275px&crop=370:275;575,0",
+      "width": 370,
+      "height": 275
+    }
+  ],
+  "rev": "14-ed60d8ec5e2490ce078528482272254a",
+  "altText": "Hotel with a boat-shaped roof in Singapore.",
+  "resource": "f5d0b757-cf53-4b4c-9f3e-a302b2640cbf",
+  "created": "2020-01-16T09:02:14.083Z",
+  "profiles": [
+    "f55fa25b-f48a-4629-9f8e-3adf84d95a29"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:supporting tower",
+      "classification:tower",
+      "classification:crane",
+      "classification:rig (machinery)",
+      "classification:Ferris wheel",
+      "classification:rotating mechanism",
+      "classification:equipment",
+      "classification:lifting device",
+      "classification:steel blue color",
+      "classification:blue color"
+    ],
+    "declined": [],
+    "values": [
+      "user:travel site sample",
+      "classification:supporting tower",
+      "classification:tower",
+      "classification:crane",
+      "classification:rig (machinery)",
+      "classification:Ferris wheel",
+      "classification:rotating mechanism",
+      "classification:equipment",
+      "classification:lifting device",
+      "classification:steel blue color",
+      "classification:blue color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "supporting tower",
+      "tower",
+      "crane",
+      "rig (machinery)",
+      "Ferris wheel",
+      "rotating mechanism",
+      "equipment",
+      "lifting device",
+      "steel blue color",
+      "blue color"
+    ],
+    "colors": {
+      "lightMuted": "#301583",
+      "darkMuted": "#423141",
+      "lightVibrant": "#a48dec",
+      "vibrant": "#5024da",
+      "muted": "#9a6176",
+      "darkVibrant": "#0b051e"
+    },
+    "status": "complete"
+  },
+  "fileSize": 219286,
+  "name": "Singapore-Country-Image.png",
+  "lastModified": "2020-01-16T09:02:14.856Z",
+  "status": "ready"
+}

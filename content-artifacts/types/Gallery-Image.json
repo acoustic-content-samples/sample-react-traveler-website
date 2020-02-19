@@ -1,0 +1,59 @@
+{
+  "id": "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+  "rev": "9-80b57f0430a3990930832586b9679e32",
+  "name": "Gallery Image",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "contentThumbnail": {
+    "imageElement": "galleryImage",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [
+    "Travel Site Sample"
+  ],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Image Title",
+      "key": "ImageTitle",
+      "required": false,
+      "maxLength": 40,
+      "searchKey": "string3"
+    },
+    {
+      "elementType": "image",
+      "label": "Gallery Image",
+      "key": "galleryImage",
+      "required": false,
+      "imageProfileId": "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "acceptType": [
+        "jpg",
+        "jpeg",
+        "png",
+        "gif"
+      ]
+    },
+    {
+      "elementType": "formattedtext",
+      "label": "Image Description",
+      "key": "imageDescription",
+      "required": false
+    },
+    {
+      "elementType": "category",
+      "label": "Image Country Value",
+      "key": "imageCountryValue",
+      "required": false,
+      "role": [
+        "configuration"
+      ],
+      "restrictedParents": [
+        "478f06ce-90a4-41df-95c3-2b25285d4791"
+      ]
+    }
+  ]
+}

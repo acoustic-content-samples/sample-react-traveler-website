@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Vector</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1440x900" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-Home-Page-(1440)" transform="translate(-1285.000000, -1482.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group-15" transform="translate(0.000000, 60.000000)">
+                <g id="Group-8" transform="translate(0.000000, 1402.000000)">
+                    <g id="Vector" transform="translate(1285.000000, 20.000000)">
+                        <path d="M17.0703,0 L2.92969,0 C1.31439,0 0,1.31439 0,2.92969 L0,17.0703 C0,18.6856 1.31439,20 2.92969,20 L8.82812,20 L8.82812,12.9297 L6.48438,12.9297 L6.48438,9.41406 L8.82812,9.41406 L8.82812,7.03125 C8.82812,5.09262 10.4051,3.51562 12.3438,3.51562 L15.8984,3.51562 L15.8984,7.03125 L12.3438,7.03125 L12.3438,9.41406 L15.8984,9.41406 L15.3125,12.9297 L12.3438,12.9297 L12.3438,20 L17.0703,20 C18.6856,20 20,18.6856 20,17.0703 L20,2.92969 C20,1.31439 18.6856,0 17.0703,0 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

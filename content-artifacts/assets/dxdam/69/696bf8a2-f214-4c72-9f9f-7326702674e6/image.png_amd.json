@@ -1,0 +1,92 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1314
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "1f19fffa-4b28-4a2c-ba77-78806332d56c",
+  "path": "/dxdam/69/696bf8a2-f214-4c72-9f9f-7326702674e6/image.png",
+  "digest": "UlJyh5q81d7Wc+X5jE8h1w==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=cd436d62-e746-43eb-8be6-a3578d0b4bed&a=d2282eb0-f2ae-452c-aa20-e4e245f2cf0c",
+      "source": "/authoring/v1/resources/cd436d62-e746-43eb-8be6-a3578d0b4bed"
+    }
+  },
+  "id": "d2282eb0-f2ae-452c-aa20-e4e245f2cf0c",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:10.900Z",
+  "rev": "14-635cca1d5893ec0b8c55efc02aa34d5c",
+  "altText": "A herd of buffalo crossing the field.",
+  "resource": "cd436d62-e746-43eb-8be6-a3578d0b4bed",
+  "created": "2020-01-16T09:02:09.920Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:veld",
+      "classification:wildebeest",
+      "classification:antelope",
+      "classification:ruminant",
+      "classification:mammal",
+      "classification:animal",
+      "classification:steppe",
+      "classification:sassaby antelope",
+      "classification:light brown color",
+      "classification:tan color"
+    ],
+    "declined": [
+      "classification:veld",
+      "classification:steppe",
+      "classification:wildebeest",
+      "classification:antelope",
+      "classification:ruminant",
+      "classification:mammal",
+      "classification:animal",
+      "classification:light brown color",
+      "classification:tan color"
+    ],
+    "values": [
+      "user:travel site sample",
+      "classification:sassaby antelope"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "veld",
+      "wildebeest",
+      "antelope",
+      "ruminant",
+      "mammal",
+      "animal",
+      "steppe",
+      "sassaby antelope",
+      "light brown color",
+      "tan color"
+    ],
+    "colors": {
+      "lightMuted": "#b1d2d0",
+      "darkMuted": "#563c2e",
+      "lightVibrant": "#cdac8e",
+      "vibrant": "#b7875e",
+      "muted": "#ac7d55",
+      "darkVibrant": "#644424"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1191615,
+  "name": "Kenya-Article-Image",
+  "lastModified": "2020-01-16T09:02:10.900Z",
+  "status": "ready"
+}

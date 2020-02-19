@@ -1,0 +1,46 @@
+{
+  "rev": "9-bf04d8ec12e0d3161ea1b70035af69ed",
+  "thumbnail": {
+    "id": "002b441b-5c5f-4a85-8d8b-c39c7fd33f57"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:24.420Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample"
+  ],
+  "elements": {
+    "countryTitle": {
+      "elementType": "text",
+      "value": "South Africa"
+    },
+    "countryImage": {
+      "mode": "shared",
+      "profiles": [
+        "f55fa25b-f48a-4629-9f8e-3adf84d95a29"
+      ],
+      "asset": {
+        "id": "002b441b-5c5f-4a85-8d8b-c39c7fd33f57"
+      },
+      "elementType": "image"
+    },
+    "countryValueForPage": {
+      "categoryIds": [
+        "e7585579-d9cd-4837-a089-5a8dd8779a52"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "South Africa",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "bf26d16f-461d-408b-b846-4dfb9cc06c8a",
+  "id": "de62a006-be21-407a-bbb5-f594c48c5766",
+  "lastModified": "2020-01-16T09:02:24.420Z",
+  "systemModified": "2020-01-16T09:02:24.420Z",
+  "status": "ready"
+}

@@ -1,0 +1,93 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1315
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "86dd120e-9cde-49f8-bfa0-900f18a05cca",
+  "path": "/dxdam/4a/4ae4226f-36c3-4b29-b6f2-2c4a22f48c8b/image.png",
+  "digest": "auU0RN7vWDW8t2rn8j6rlg==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=1a331db2-1db5-476b-a198-15fea1d62021&a=4ae4226f-36c3-4b29-b6f2-2c4a22f48c8b",
+      "source": "/authoring/v1/resources/1a331db2-1db5-476b-a198-15fea1d62021"
+    }
+  },
+  "id": "4ae4226f-36c3-4b29-b6f2-2c4a22f48c8b",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:08.323Z",
+  "rev": "14-57967313bb6c664565fcced2cd211fd5",
+  "altText": "A group of people sitting at the working desk.",
+  "resource": "1a331db2-1db5-476b-a198-15fea1d62021",
+  "created": "2020-01-16T09:02:07.420Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:people",
+      "classification:person",
+      "classification:office",
+      "classification:building",
+      "classification:computer user",
+      "classification:job candidate",
+      "classification:cybercafe",
+      "classification:restaurant",
+      "classification:indoors",
+      "classification:coal black color"
+    ],
+    "declined": [
+      "classification:people",
+      "classification:person",
+      "classification:office",
+      "classification:building",
+      "classification:computer user",
+      "classification:cybercafe",
+      "classification:restaurant",
+      "classification:study hall",
+      "classification:indoors",
+      "classification:coal black color"
+    ],
+    "values": [
+      "user:travel site sample",
+      "classification:job candidate"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "people",
+      "person",
+      "office",
+      "building",
+      "computer user",
+      "job candidate",
+      "cybercafe",
+      "restaurant",
+      "indoors",
+      "coal black color"
+    ],
+    "colors": {
+      "lightMuted": "#acbcc4",
+      "darkMuted": "#634536",
+      "lightVibrant": "#b1c0c7",
+      "vibrant": "#698695",
+      "muted": "#94715d",
+      "darkVibrant": "#37464d"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1214876,
+  "name": "About-Image",
+  "lastModified": "2020-01-16T09:02:08.323Z",
+  "status": "ready"
+}

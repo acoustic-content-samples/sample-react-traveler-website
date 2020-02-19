@@ -1,0 +1,54 @@
+{
+  "rev": "9-76111d6f259a69224cf6dcfcfd4603fe",
+  "thumbnail": {
+    "id": "811f414f-364b-4b00-b7d7-b11af9baaa71"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:21.713Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample"
+  ],
+  "elements": {
+    "countryOfTravelArticle": {
+      "categoryIds": [
+        "e7585579-d9cd-4837-a089-5a8dd8779a52"
+      ],
+      "elementType": "category"
+    },
+    "travelArticleTitle": {
+      "elementType": "text",
+      "value": "The Heritage and Nature of South Africa"
+    },
+    "travelArticleImage": {
+      "mode": "shared",
+      "profiles": [
+        "59414bcf-8ccb-4809-9117-47b7a64864a0"
+      ],
+      "asset": {
+        "id": "811f414f-364b-4b00-b7d7-b11af9baaa71"
+      },
+      "elementType": "image"
+    },
+    "articleAuthor": {
+      "elementType": "text",
+      "value": "John Smith"
+    },
+    "travelArticleText": {
+      "elementType": "formattedtext",
+      "value": "<p><em>Believed by some to be a cradle of humankind, South Africa houses a dozen historical places listed as World Heritage Sites by UNESCO. A wealth of sites, museums and galleries will be appreciated by a cultural traveler, but the country is also homeland to famous hiking routes in the mountains.</em></p>\n\n<h3>Visit a World Heritage Site</h3>\n\n<p>World Heritage Committee of UNESCO determined 10 heritage sites in South Africa, among which six are of cultural type, three are of natural type, and one is of a mixed (both cultural and natural) type. Be sure to visit the most important and famous places:</p>\n\n<ul><li>The Fossil Hominid Sites, known as <strong>the Cradle of Humankind</strong>, is the place with the richest concentration of hominid fossils in the world, that shed light on the evolution of human over the past 3.5 million years.</li><li><strong>Robben Island</strong> is a symbol of democracy and victory over injustice, after Nelson Mandela, the first democratically elected president of South Africa, was kept in prison on the island for 18 years.</li><li><strong>Vredefort Dome</strong> is the area, where two billion years ago a meteorite ten kilometers in diameter hit the ground, creating a huge crater.</li></ul>\n\n<div style=\"text-align:center;clear:both\"><img data-wch-asset-id=\"acb9f3f8-4a3f-4862-a509-571a8e3e18ab\" height=\"421\" src=\"/api/authoring/v1/resources/2189c88c-f5e8-4fdc-b814-76c9ece45907.png\" width=\"750\" /></div>\n\n<h3>Hike Amidst Stunning Scenery</h3>\n\n<p><img data-wch-asset-id=\"299ef284-5467-4d02-8637-c2ade4446ce2\" height=\"267\" src=\"/api/authoring/v1/resources/07181a9c-5626-41f5-86eb-a8f2c9cf1216.png\" style=\"float:left;padding:0px 10px 0px 0px\" width=\"400\" />Blessed with a wide variety of natural environments, South Africa offers a jaw-dropping experience on any hiking trail you choose.</p>\n\n<p>There are many hiking routes to investigate, some of which take you along the picturesque shore, while others show you an amazing view of the country from the top of the mountains.</p>\n\n<p>Among the most famous routes are the Oystercatcher trail on the Garden Route coast, the Diamond Coast trail in Namaqualand, and the Num Num Trail in Mpumalanga.</p>\n"
+    }
+  },
+  "name": "South Africa Travel Article",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "id": "02472779-bc4d-4118-abd2-80698197375e",
+  "lastModified": "2020-01-16T09:02:21.713Z",
+  "systemModified": "2020-01-16T09:02:21.713Z",
+  "status": "ready"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "62bc29c6-3b62-4820-b322-20072f1d606e",
+  "rev": "9-28b2df1f6a16ea910cf062b776d325e6",
+  "name": "Singapore",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "creator": "Sergii Permiakov",
+  "classification": "category",
+  "taxonomy": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "parent": "fddc2e51-d511-4eb6-ad27-646de2788511",
+  "ancestorIds": [
+    "478f06ce-90a4-41df-95c3-2b25285d4791",
+    "fddc2e51-d511-4eb6-ad27-646de2788511"
+  ],
+  "namePath": [
+    "Locations",
+    "Asia",
+    "Singapore"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/62bc29c6-3b62-4820-b322-20072f1d606e"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/fddc2e51-d511-4eb6-ad27-646de2788511"
+    }
+  },
+  "created": "2020-01-16T09:02:02.576Z",
+  "lastModified": "2020-01-16T09:02:02.576Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ba8d2977-c3e9-49b1-b25e-c023267e0747",
+  "rev": "9-5595d840a93e6b5bebe9f7e926e4d400",
+  "name": "Africa",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "creator": "Sergii Permiakov",
+  "classification": "category",
+  "taxonomy": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "parent": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "ancestorIds": [
+    "478f06ce-90a4-41df-95c3-2b25285d4791"
+  ],
+  "namePath": [
+    "Locations",
+    "Africa"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/ba8d2977-c3e9-49b1-b25e-c023267e0747"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    }
+  },
+  "created": "2020-01-16T09:02:02.308Z",
+  "lastModified": "2020-01-16T09:02:02.308Z"
+}

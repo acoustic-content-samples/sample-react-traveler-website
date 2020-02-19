@@ -1,0 +1,38 @@
+{
+  "id": "e3a35427-aee9-4787-8f30-0a17d02608d1",
+  "rev": "9-f16d0e90e850d587fa61d63a2fa38b43",
+  "name": "About Information",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "contentThumbnail": {
+    "imageElement": "aboutPageImage",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [
+    "Travel Site Sample"
+  ],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "About Page Title",
+      "key": "pageTitle",
+      "required": false
+    },
+    {
+      "elementType": "image",
+      "required": false,
+      "label": "About Page Image",
+      "key": "aboutPageImage"
+    },
+    {
+      "elementType": "formattedtext",
+      "label": "About Page Text",
+      "key": "aboutPageText",
+      "required": false
+    }
+  ]
+}

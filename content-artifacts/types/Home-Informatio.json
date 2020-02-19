@@ -1,0 +1,54 @@
+{
+  "id": "7d004956-86e6-4d49-9d91-5defe67b8bbe",
+  "rev": "9-1c1f4a11e517bb54d388e06033695f88",
+  "name": "Home Information",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "description": "",
+  "status": "ready",
+  "tags": [
+    "Travel Site Sample"
+  ],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Website Title",
+      "key": "websiteTitle",
+      "required": false,
+      "maxLength": 100
+    },
+    {
+      "elementType": "text",
+      "label": "Mission Statement Title",
+      "key": "missionStatementTitle",
+      "required": false,
+      "maxLength": 200
+    },
+    {
+      "elementType": "formattedtext",
+      "label": "Mission Statement Text",
+      "key": "missionStatementText",
+      "required": false
+    },
+    {
+      "elementType": "group",
+      "typeRef": {
+        "id": "0b48a3c4-cc2f-424f-86bb-1b83292ee57c"
+      },
+      "label": "Image Slider Settings",
+      "key": "imageSliderSettings",
+      "required": false
+    },
+    {
+      "elementType": "group",
+      "typeRef": {
+        "id": "58363171-9f26-4dce-a556-eaf89a4d98b8"
+      },
+      "label": "Article Previews Settings",
+      "key": "articlePreviewsSettings",
+      "required": false
+    }
+  ]
+}

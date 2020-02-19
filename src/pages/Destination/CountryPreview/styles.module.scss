@@ -1,0 +1,29 @@
+.countryPreviewContainer {
+  margin-right: 2%;
+  margin-bottom: 2%;
+
+  .country {
+    position: relative;
+    cursor: pointer;
+    border-radius: 10px;
+
+    img {
+      max-width: 100%;
+    }
+
+    .imageCaption {
+      position: absolute;
+      bottom: 10%;
+      left: 5%;
+
+      span {
+        padding: 5px;
+        color: white;
+        background-color: rgba(33, 33, 33, 0.4);
+        border-radius: 5px;
+        font-size: 1.5em;
+        font-weight: bold;
+      }
+    }
+  }
+}

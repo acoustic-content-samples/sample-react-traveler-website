@@ -1,0 +1,46 @@
+{
+  "rev": "9-dcf12db5936b8dcaa38665c4be3989a8",
+  "thumbnail": {
+    "id": "6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:24.466Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample"
+  ],
+  "elements": {
+    "countryTitle": {
+      "elementType": "text",
+      "value": "Canada"
+    },
+    "countryImage": {
+      "mode": "shared",
+      "profiles": [
+        "f55fa25b-f48a-4629-9f8e-3adf84d95a29"
+      ],
+      "asset": {
+        "id": "6bf5f2fa-03e8-4054-af2b-f5d78d3d6f55"
+      },
+      "elementType": "image"
+    },
+    "countryValueForPage": {
+      "categoryIds": [
+        "77abce3f-7a13-45ef-b1ce-11dbd11b61ff"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "Canada",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "bf26d16f-461d-408b-b846-4dfb9cc06c8a",
+  "id": "dec1a97a-941f-479a-b50c-0034c84c8ff8",
+  "lastModified": "2020-01-16T09:02:24.466Z",
+  "systemModified": "2020-01-16T09:02:24.466Z",
+  "status": "ready"
+}

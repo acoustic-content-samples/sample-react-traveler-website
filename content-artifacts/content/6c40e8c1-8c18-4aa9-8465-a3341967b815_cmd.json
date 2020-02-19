@@ -1,0 +1,46 @@
+{
+  "rev": "9-599eeaf63d222572131fb95eed3745bb",
+  "thumbnail": {
+    "id": "ca83abb2-298d-4561-82c5-81aac8f582e5"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:22.822Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample"
+  ],
+  "elements": {
+    "countryTitle": {
+      "elementType": "text",
+      "value": "Singapore"
+    },
+    "countryImage": {
+      "mode": "shared",
+      "profiles": [
+        "f55fa25b-f48a-4629-9f8e-3adf84d95a29"
+      ],
+      "asset": {
+        "id": "ca83abb2-298d-4561-82c5-81aac8f582e5"
+      },
+      "elementType": "image"
+    },
+    "countryValueForPage": {
+      "categoryIds": [
+        "62bc29c6-3b62-4820-b322-20072f1d606e"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "Singapore",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "bf26d16f-461d-408b-b846-4dfb9cc06c8a",
+  "id": "6c40e8c1-8c18-4aa9-8465-a3341967b815",
+  "lastModified": "2020-01-16T09:02:22.822Z",
+  "systemModified": "2020-01-16T09:02:22.822Z",
+  "status": "ready"
+}

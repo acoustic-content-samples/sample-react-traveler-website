@@ -1,0 +1,114 @@
+{
+  "fileName": "US-Gallery.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1280
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "d0fdbddf-2c28-4fb1-a5df-376c083e7ae9",
+  "path": "/dxdam/f2/f26874e4-b469-426c-9433-2d7c4c0fa23c/US-Gallery.png",
+  "digest": "1FNk5/Htnx1YDTYcOatmzw==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=9b60a001-e306-4c0b-bb4d-b3c4bc239366&a=f26874e4-b469-426c-9433-2d7c4c0fa23c",
+      "source": "/authoring/v1/resources/9b60a001-e306-4c0b-bb4d-b3c4bc239366"
+    }
+  },
+  "id": "f26874e4-b469-426c-9433-2d7c4c0fa23c",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:16.266Z",
+  "profileRenditions": [
+    {
+      "profileId": "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "key": "squareCard",
+      "transform": {
+        "scale": 0.19531,
+        "crop": {
+          "x": 62,
+          "y": 0,
+          "width": 250,
+          "height": 250
+        }
+      },
+      "uri": "/authoring/v1/resources/9b60a001-e306-4c0b-bb4d-b3c4bc239366?resize=375px:250px&crop=250:250;62,0",
+      "width": 250,
+      "height": 250
+    },
+    {
+      "profileId": "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "key": "rectangleCard",
+      "transform": {
+        "scale": 1,
+        "crop": {
+          "x": 0,
+          "y": 359,
+          "width": 1920,
+          "height": 562
+        }
+      },
+      "uri": "/authoring/v1/resources/9b60a001-e306-4c0b-bb4d-b3c4bc239366?resize=1920px:1280px&crop=1920:562;0,359",
+      "width": 1920,
+      "height": 562
+    }
+  ],
+  "rev": "14-caa0069fe830c84582b02662821f4278",
+  "altText": "A bridge connecting two shores in the USA.",
+  "resource": "9b60a001-e306-4c0b-bb4d-b3c4bc239366",
+  "created": "2020-01-16T09:02:15.188Z",
+  "profiles": [
+    "a03c07db-709e-48f4-a3a1-4feb3ff2540e"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:Golden Gate Bridge",
+      "classification:bridge",
+      "classification:suspension bridge",
+      "classification:azure color",
+      "classification:reddish orange color"
+    ],
+    "declined": [
+      "classification:Golden Gate Bridge",
+      "classification:bridge",
+      "classification:suspension bridge",
+      "classification:azure color",
+      "classification:reddish orange color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "Golden Gate Bridge",
+      "bridge",
+      "suspension bridge",
+      "azure color",
+      "reddish orange color"
+    ],
+    "colors": {
+      "lightMuted": "#ddcabf",
+      "darkMuted": "#513c34",
+      "lightVibrant": "#f7ccb3",
+      "vibrant": "#088893",
+      "muted": "#ae6a4d",
+      "darkVibrant": "#066773"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1088261,
+  "name": "US-Gallery.png",
+  "lastModified": "2020-01-16T09:02:16.266Z",
+  "status": "ready"
+}

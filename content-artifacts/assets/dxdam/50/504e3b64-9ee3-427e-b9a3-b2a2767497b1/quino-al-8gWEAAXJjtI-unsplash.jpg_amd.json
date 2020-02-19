@@ -1,0 +1,86 @@
+{
+  "fileName": "Contact Image.jpeg",
+  "metadata": {
+    "width": 1950,
+    "height": 1300
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "5f34e607-6a5a-4f5b-a8bc-fa1e58791a8c",
+  "path": "/dxdam/50/504e3b64-9ee3-427e-b9a3-b2a2767497b1/quino-al-8gWEAAXJjtI-unsplash.jpg",
+  "digest": "G4I0RaScSpUHny5HPmvIwg==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=cde8a9a1-0019-45bb-a88d-96a90e0e0d0f&a=504e3b64-9ee3-427e-b9a3-b2a2767497b1",
+      "source": "/authoring/v1/resources/cde8a9a1-0019-45bb-a88d-96a90e0e0d0f"
+    }
+  },
+  "id": "504e3b64-9ee3-427e-b9a3-b2a2767497b1",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:21:22.288Z",
+  "rev": "15-dacda4d2e6e816f1af297cd19f194903",
+  "altText": "A telephone with a rotary dial.",
+  "resource": "cde8a9a1-0019-45bb-a88d-96a90e0e0d0f",
+  "created": "2020-01-16T09:02:08.925Z",
+  "mediaType": "image/jpeg",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:telephone dial",
+      "classification:electric switch",
+      "classification:controller",
+      "classification:desk phone",
+      "classification:telephone",
+      "classification:telecommunication",
+      "classification:electrical device",
+      "classification:ivory color"
+    ],
+    "declined": [
+      "classification:telephone dial",
+      "classification:electric switch",
+      "classification:controller",
+      "classification:desk phone",
+      "classification:telephone",
+      "classification:telecommunication",
+      "classification:electrical device",
+      "classification:ivory color"
+    ],
+    "values": [
+      "user:Travel Site Sample"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "telephone dial",
+      "electric switch",
+      "controller",
+      "desk phone",
+      "telephone",
+      "telecommunication",
+      "electrical device",
+      "ivory color"
+    ],
+    "colors": {
+      "lightMuted": "#bcbcbc",
+      "darkMuted": "#4c4c4c",
+      "lightVibrant": "#bcbcbc",
+      "vibrant": "#7f7f7f",
+      "muted": "#7c7c7c",
+      "darkVibrant": "#424242"
+    },
+    "status": "complete"
+  },
+  "fileSize": 178380,
+  "name": "Contacts Image",
+  "lastModified": "2020-01-16T09:21:22.288Z",
+  "status": "ready"
+}

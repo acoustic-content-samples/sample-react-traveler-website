@@ -1,0 +1,34 @@
+{
+  "rev": "9-7165c5884e97f076f35f232b97e25fe9",
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:23.356Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:Travel Site Sample"
+  ],
+  "elements": {
+    "regionTitle": {
+      "elementType": "text",
+      "value": "South America"
+    },
+    "countryList": {
+      "categoryIds": [
+        "c4092e2d-bb70-48ab-bdbd-2c6e86d335b9",
+        "a26366ee-c584-4c2f-9147-3b92664792b0"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "South America",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "9f077e72-352d-41a3-b2bb-b3857e6bc783",
+  "id": "a55b65cf-735f-4e3a-9e02-a093709a2d19",
+  "lastModified": "2020-01-16T09:02:23.356Z",
+  "systemModified": "2020-01-16T09:02:23.356Z",
+  "status": "ready"
+}

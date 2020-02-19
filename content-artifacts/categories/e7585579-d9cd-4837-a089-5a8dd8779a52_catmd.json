@@ -1,0 +1,32 @@
+{
+  "id": "e7585579-d9cd-4837-a089-5a8dd8779a52",
+  "rev": "9-18303760b5064425ccb0d781ad112acf",
+  "name": "South Africa",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "creator": "Sergii Permiakov",
+  "classification": "category",
+  "taxonomy": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "parent": "ba8d2977-c3e9-49b1-b25e-c023267e0747",
+  "ancestorIds": [
+    "478f06ce-90a4-41df-95c3-2b25285d4791",
+    "ba8d2977-c3e9-49b1-b25e-c023267e0747"
+  ],
+  "namePath": [
+    "Locations",
+    "Africa",
+    "South Africa"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/e7585579-d9cd-4837-a089-5a8dd8779a52"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/ba8d2977-c3e9-49b1-b25e-c023267e0747"
+    }
+  },
+  "created": "2020-01-16T09:02:02.873Z",
+  "lastModified": "2020-01-16T09:02:02.873Z"
+}

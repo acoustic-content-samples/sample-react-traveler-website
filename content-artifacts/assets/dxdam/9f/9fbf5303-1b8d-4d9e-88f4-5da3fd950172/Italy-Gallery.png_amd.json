@@ -1,0 +1,126 @@
+{
+  "fileName": "Italy-Gallery.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1280
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "81f4feed-297b-47c1-bf3e-d51c23badd07",
+  "path": "/dxdam/9f/9fbf5303-1b8d-4d9e-88f4-5da3fd950172/Italy-Gallery.png",
+  "digest": "uAlaeM4/7BrnL4wkWOsx0g==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=b94e411f-0ce5-455b-b379-48ab591dd874&a=9fbf5303-1b8d-4d9e-88f4-5da3fd950172",
+      "source": "/authoring/v1/resources/b94e411f-0ce5-455b-b379-48ab591dd874"
+    }
+  },
+  "id": "9fbf5303-1b8d-4d9e-88f4-5da3fd950172",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:13.508Z",
+  "profileRenditions": [
+    {
+      "profileId": "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "key": "squareCard",
+      "transform": {
+        "scale": 0.19531,
+        "crop": {
+          "x": 62,
+          "y": 0,
+          "width": 250,
+          "height": 250
+        }
+      },
+      "uri": "/authoring/v1/resources/b94e411f-0ce5-455b-b379-48ab591dd874?resize=375px:250px&crop=250:250;62,0",
+      "width": 250,
+      "height": 250
+    },
+    {
+      "profileId": "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "key": "rectangleCard",
+      "transform": {
+        "scale": 1,
+        "crop": {
+          "x": 0,
+          "y": 359,
+          "width": 1920,
+          "height": 562
+        }
+      },
+      "uri": "/authoring/v1/resources/b94e411f-0ce5-455b-b379-48ab591dd874?resize=1920px:1280px&crop=1920:562;0,359",
+      "width": 1920,
+      "height": 562
+    }
+  ],
+  "rev": "14-b5f643e6ef786b3e96a02cf230c24d32",
+  "altText": "Water canals in Venice, Italy.",
+  "resource": "b94e411f-0ce5-455b-b379-48ab591dd874",
+  "created": "2020-01-16T09:02:12.461Z",
+  "profiles": [
+    "a03c07db-709e-48f4-a3a1-4feb3ff2540e"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:Urban Canal",
+      "classification:gondola",
+      "classification:boat",
+      "classification:watercraft",
+      "classification:craft",
+      "classification:vehicle",
+      "classification:nature",
+      "classification:reddish orange color",
+      "classification:blue color"
+    ],
+    "declined": [
+      "classification:Urban Canal",
+      "classification:gondola",
+      "classification:boat",
+      "classification:watercraft",
+      "classification:craft",
+      "classification:vehicle",
+      "classification:nature",
+      "classification:reddish orange color",
+      "classification:blue color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "Urban Canal",
+      "gondola",
+      "boat",
+      "watercraft",
+      "craft",
+      "vehicle",
+      "nature",
+      "reddish orange color",
+      "blue color"
+    ],
+    "colors": {
+      "lightMuted": "#aab5c6",
+      "darkMuted": "#376166",
+      "lightVibrant": "#ea8235",
+      "vibrant": "#dd5f22",
+      "muted": "#9d7957",
+      "darkVibrant": "#175c68"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1489805,
+  "name": "Italy-Gallery.png",
+  "lastModified": "2020-01-16T09:02:13.508Z",
+  "status": "ready"
+}

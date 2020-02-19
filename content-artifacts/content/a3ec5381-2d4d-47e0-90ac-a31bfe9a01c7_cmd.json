@@ -1,0 +1,55 @@
+{
+  "rev": "9-212b404af61f3e38547be6c5f507705a",
+  "thumbnail": {
+    "id": "f6295432-99b8-4439-8496-7fb7f191eded"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:23.403Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample",
+    "user:nature"
+  ],
+  "elements": {
+    "countryOfTravelArticle": {
+      "categoryIds": [
+        "afff9e99-d059-42c2-84e3-ac59e1ea371a"
+      ],
+      "elementType": "category"
+    },
+    "travelArticleTitle": {
+      "elementType": "text",
+      "value": "The Hidden Three of Japan"
+    },
+    "travelArticleImage": {
+      "mode": "shared",
+      "profiles": [
+        "59414bcf-8ccb-4809-9117-47b7a64864a0"
+      ],
+      "asset": {
+        "id": "f6295432-99b8-4439-8496-7fb7f191eded"
+      },
+      "elementType": "image"
+    },
+    "articleAuthor": {
+      "elementType": "text",
+      "value": "John Smith"
+    },
+    "travelArticleText": {
+      "elementType": "formattedtext",
+      "value": "<p><em>Known mainly for Tokyo, with its futuristic neon skyscrapers, and Kyoto, filled with temples and gardens, Japan has a lot more to offer. It consists of over 6,800 islands, and each island is a stunning blend of wild nature and local culture. We picked 3 islands that are must-see on your next trip to Japan.</em></p>\n\n<h2>Sado</h2>\n\n<div style=\"text-align:center;clear:both;padding:0px 0px 10px\"><img data-wch-asset-id=\"8af36ee2-c7c1-4e1e-9393-b7578a6f6cd9\" height=\"366\" src=\"/api/authoring/v1/resources/c817c653-c1bb-433b-8ccb-f59dd786d5a8.png\" width=\"750\" /></div>\n\n<p><strong>Location</strong></p>\n\n<p>Sado Island is located near the coast of Niigata Prefecture and is one of the largest islands in Japan.</p>\n\n<p><strong>Best time to visit</strong></p>\n\n<p>Plan your visit to the island in August to attend the Earth Celebration.</p>\n\n<p><strong>What to see</strong></p>\n\n<ol><li><em>Earth Celebration</em> - Sado&#39;s biggest attraction, an annual music festival hosted by Sado&#39;s own, world-renowned Kodo taiko <em>(Japanese drums)</em> group.</li><li><em>Sado Kinzan</em> was the most profitable mine in the country, extracting about 400 kg of gold each year. Today the Sado Kinzan Gold Mine, with a museum inside, is open to the public.</li><li><em>The Osado Skyline</em> - a picturesque route in the Osado Mountains, going from the center of the island to the Sado Gold Mine, that offers scenic views of the island.</li></ol>\n\n<p><strong>Random Fact</strong></p>\n\n<p>Due to its isolated and distant location, Sado served as a place for political exiles, like former Emperor Juntoku, the Buddhist monk Nichiren, and the founder of Noh theater, Zeami Motokiyo.</p>\n\n<p> </p>\n\n<h2>Iriomote</h2>\n\n<div style=\"text-align:center;clear:both;padding:0px 0px 10px\"><img data-wch-asset-id=\"bfb01011-fe6a-4aac-8695-0b41d0db93f1\" height=\"500\" src=\"/api/authoring/v1/resources/a0730708-6674-4566-b8d0-f51a1cc965e9.png\" width=\"750\" /></div>\n\n<p><strong>Location</strong></p>\n\n<p>Iriomote Island is one of the remote Yaeyama Islands in southwestern Japan. There are practically no buildings on the island, nearly 90% of Iriomote is covered by dense jungles and forests.</p>\n\n<p><strong>Best time to visit</strong></p>\n\n<p>Mid-June to mid-July in order to see Sagari-bana, one of the most beautiful Okinawan flowers.</p>\n\n<p><strong>What to do</strong></p>\n\n<p>Iriomote Island is best for exploring its land, hiking the trails to pristine waterfalls, kayaking through the forests, or navigating along one of the island&#39;s rivers that flows through the jungle.</p>\n\n<p>You can also visit tiny <em>Yubu Island</em> that is separated from the east coast of Iriomote Island by a shallow, sandy strait. You can ride across to the island in a cart pulled by a buffalo, while the driver plays the sanshin (an Okinawan stringed instrument) and entertains you with traditional songs.</p>\n\n<p><strong>Random Fact</strong></p>\n\n<p>Iriomote is the only habitat of the Iriomote cat, rare species of leopard that is critically endangered.</p>\n\n<p> </p>\n\n<h2>Ishikagi</h2>\n\n<div style=\"text-align:center;clear:both;padding:0px 0px 10px\"><img data-wch-asset-id=\"2d92c17c-2043-4506-a2da-d1d2f8be36e7\" height=\"500\" src=\"/api/authoring/v1/resources/34073279-69e2-4ffe-b8bc-3e1665b9c075.png\" width=\"750\" /></div>\n\n<p><strong>Location</strong></p>\n\n<p>Ishigaki Island is the main island of the Yaeyama Islands and the region&#39;s transportation hub.</p>\n\n<p>The City of Ishigaki is the only downtown of the Yaeyama Islands with the region&#39;s main airport, harbor station, and a lot of authentic cafes, bars, and boutiques.</p>\n\n<p><strong>Best time to visit</strong></p>\n\n<p>From April till June: it is warm enough, and heavy rain season is not started.</p>\n\n<p><strong>What to do</strong></p>\n\n<p>Ishigaki Island has sandy beaches of incredible beauty that offer top-notch snorkeling and diving experience. Countless dive shops offer diving tours to coral reefs near the island.</p>\n\n<p>Ishigaki&#39;s rivers are perfect for kayaking, and various trails throughout the island&#39;s hilly terrain are good for hiking.</p>\n\n<p><strong>Random Fact</strong></p>\n\n<p><em>Ishigaki</em> means “stone wall”. The island was named after the stone walls that were built along the streets of Ishigaki and still can be found in the city. </p>\n"
+    }
+  },
+  "name": "Japan Travel Article",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "id": "a3ec5381-2d4d-47e0-90ac-a31bfe9a01c7",
+  "lastModified": "2020-01-16T09:02:23.403Z",
+  "systemModified": "2020-01-16T09:02:23.403Z",
+  "status": "ready"
+}

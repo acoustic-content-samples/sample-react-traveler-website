@@ -1,0 +1,47 @@
+{
+  "id": "cc95aaa3-b35f-4da6-b03f-8e43c0c7577a",
+  "rev": "9-ce7e966ac28ef3702dc0b2637c0ec947",
+  "name": "Contact Information",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "contentThumbnail": {
+    "imageElement": "contactPageImage",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [
+    "Travel Site Sample"
+  ],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Contact Information Title",
+      "key": "contactInformationTitle",
+      "required": false,
+      "maxLength": 20,
+      "hidden": false,
+      "locked": false
+    },
+    {
+      "elementType": "image",
+      "label": "Contact Page Image",
+      "key": "contactPageImage",
+      "required": false
+    },
+    {
+      "elementType": "group",
+      "typeRef": {
+        "id": "95f8723b-36fb-41e7-8a4d-ecf25cfb6734"
+      },
+      "label": "Contact Options",
+      "key": "contactOptions",
+      "required": false,
+      "allowMultipleValues": true,
+      "minimumValues": 0,
+      "fieldLabel": "Custom Element"
+    }
+  ]
+}

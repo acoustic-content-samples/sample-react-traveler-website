@@ -1,0 +1,41 @@
+{
+  "id": "fa6d63aa-95b2-4d28-9964-eea5aa501023",
+  "rev": "9-04d354fe16c451f45cfdddae7fd6f7e4",
+  "name": "Destinations",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "description": "",
+  "status": "ready",
+  "tags": [
+    "Travel Site Sample"
+  ],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Destinations Title",
+      "key": "destinationsTitle",
+      "required": false,
+      "hidden": false,
+      "locked": false,
+      "placeholder": {
+        "show": true
+      }
+    },
+    {
+      "elementType": "category",
+      "label": "Region List",
+      "key": "regionList",
+      "required": false,
+      "role": [
+        "configuration"
+      ],
+      "allowMultipleValues": true,
+      "minimumValues": 0,
+      "restrictedParents": [
+        "478f06ce-90a4-41df-95c3-2b25285d4791"
+      ]
+    }
+  ]
+}

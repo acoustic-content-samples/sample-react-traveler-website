@@ -1,0 +1,32 @@
+{
+  "id": "afff9e99-d059-42c2-84e3-ac59e1ea371a",
+  "rev": "9-510e82d8ea093bf4c53778773da2756e",
+  "name": "Japan",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "creator": "Sergii Permiakov",
+  "classification": "category",
+  "taxonomy": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "parent": "fddc2e51-d511-4eb6-ad27-646de2788511",
+  "ancestorIds": [
+    "478f06ce-90a4-41df-95c3-2b25285d4791",
+    "fddc2e51-d511-4eb6-ad27-646de2788511"
+  ],
+  "namePath": [
+    "Locations",
+    "Asia",
+    "Japan"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/afff9e99-d059-42c2-84e3-ac59e1ea371a"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/fddc2e51-d511-4eb6-ad27-646de2788511"
+    }
+  },
+  "created": "2020-01-16T09:02:02.847Z",
+  "lastModified": "2020-01-16T09:02:02.847Z"
+}

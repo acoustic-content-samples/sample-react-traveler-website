@@ -1,0 +1,135 @@
+{
+  "fileName": "South-Africa-Country-Image.png",
+  "metadata": {
+    "width": 1570,
+    "height": 275
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "0433f859-56b1-406e-ba12-9f8886be45ac",
+  "path": "/dxdam/00/002b441b-5c5f-4a85-8d8b-c39c7fd33f57/South-Africa-Country-Image.png",
+  "digest": "m3oT4pemWdsScZb6Lt8Ldg==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=d05c6a76-819a-4b94-98b4-d7b40334c904&a=002b441b-5c5f-4a85-8d8b-c39c7fd33f57",
+      "source": "/authoring/v1/resources/d05c6a76-819a-4b94-98b4-d7b40334c904"
+    }
+  },
+  "id": "002b441b-5c5f-4a85-8d8b-c39c7fd33f57",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:06.095Z",
+  "profileRenditions": [
+    {
+      "profileId": "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "key": "countryCard",
+      "transform": {
+        "scale": 1,
+        "crop": {
+          "x": 0,
+          "y": 135,
+          "width": 1570,
+          "height": 105
+        }
+      },
+      "uri": "/authoring/v1/resources/d05c6a76-819a-4b94-98b4-d7b40334c904?resize=1570px:275px&crop=1570:105;0,135",
+      "width": 1570,
+      "height": 105
+    },
+    {
+      "profileId": "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "key": "destinationsCard",
+      "transform": {
+        "scale": 1,
+        "crop": {
+          "x": 1200,
+          "y": 0,
+          "width": 370,
+          "height": 275
+        }
+      },
+      "uri": "/authoring/v1/resources/d05c6a76-819a-4b94-98b4-d7b40334c904?resize=1570px:275px&crop=370:275;1200,0",
+      "width": 370,
+      "height": 275
+    }
+  ],
+  "rev": "14-9c928009298c1f6c5aac9d7ffbbdf065",
+  "altText": "Dawn on the beach in South Africa.",
+  "resource": "d05c6a76-819a-4b94-98b4-d7b40334c904",
+  "created": "2020-01-16T09:02:05.289Z",
+  "profiles": [
+    "f55fa25b-f48a-4629-9f8e-3adf84d95a29"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:Golden Gate Bridge",
+      "classification:bridge",
+      "classification:seaside",
+      "classification:seashore",
+      "classification:shore",
+      "classification:nature",
+      "classification:beach",
+      "classification:suspension bridge",
+      "classification:strand",
+      "classification:natural elevation",
+      "classification:reddish orange color",
+      "classification:blue color"
+    ],
+    "declined": [
+      "classification:Golden Gate Bridge",
+      "classification:bridge",
+      "classification:seaside",
+      "classification:seashore",
+      "classification:shore",
+      "classification:nature",
+      "classification:beach",
+      "classification:suspension bridge",
+      "classification:strand",
+      "classification:natural elevation",
+      "classification:reddish orange color",
+      "classification:blue color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "Golden Gate Bridge",
+      "bridge",
+      "seaside",
+      "seashore",
+      "shore",
+      "nature",
+      "beach",
+      "suspension bridge",
+      "strand",
+      "natural elevation",
+      "reddish orange color",
+      "blue color"
+    ],
+    "colors": {
+      "lightMuted": "#cebcac",
+      "darkMuted": "#546474",
+      "lightVibrant": "#ed8767",
+      "vibrant": "#e56d65",
+      "muted": "#ab847e",
+      "darkVibrant": "#711913"
+    },
+    "status": "complete"
+  },
+  "fileSize": 157928,
+  "name": "South-Africa-Country-Image.png",
+  "lastModified": "2020-01-16T09:02:06.095Z",
+  "status": "ready"
+}

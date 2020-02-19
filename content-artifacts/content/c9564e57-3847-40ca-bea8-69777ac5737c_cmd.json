@@ -1,0 +1,41 @@
+{
+  "rev": "10-4ad6bed02b089ed22b63dfb670afc738",
+  "thumbnail": {
+    "id": "4ae4226f-36c3-4b29-b6f2-2c4a22f48c8b"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:23.815Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:Travel Site Sample"
+  ],
+  "elements": {
+    "pageTitle": {
+      "elementType": "text",
+      "value": "About Us"
+    },
+    "aboutPageImage": {
+      "mode": "shared",
+      "asset": {
+        "id": "4ae4226f-36c3-4b29-b6f2-2c4a22f48c8b"
+      },
+      "elementType": "image"
+    },
+    "aboutPageText": {
+      "elementType": "formattedtext",
+      "value": "<p>Started as the travel blog of several friends, the <em>Traveler</em> quickly became popular, attracting thousands of visitors and contributors across the globe.</p>\n\n<p>You can start your acquaintance with the <em>Traveler</em> from the Home page, where the most recent travel articles and gallery image posts are displayed.</p>\n\n<p>Learn more about each country by reading travel articles in the &#34;Destinations&#34; area. Or simply browse through numerous stunning images in the Gallery, taken by our contributors in the far corners of our planet.</p>\n\n<p> </p>\n\n<p>Enjoy the traveling experience,</p>\n\n<p>the <em>Traveler</em> team.</p>\n"
+    }
+  },
+  "name": "About Information",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "e3a35427-aee9-4787-8f30-0a17d02608d1",
+  "id": "c9564e57-3847-40ca-bea8-69777ac5737c",
+  "lastModified": "2020-01-16T09:07:05.425Z",
+  "systemModified": "2020-01-16T09:07:05.425Z",
+  "status": "ready"
+}

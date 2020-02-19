@@ -1,0 +1,46 @@
+{
+  "rev": "9-44ecbe7557a7268ad5a341016ce0dc1b",
+  "thumbnail": {
+    "id": "0aabc094-382c-460a-900a-a70d6ba2122e"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:22.523Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample"
+  ],
+  "elements": {
+    "countryTitle": {
+      "elementType": "text",
+      "value": "Argentina"
+    },
+    "countryImage": {
+      "mode": "shared",
+      "profiles": [
+        "f55fa25b-f48a-4629-9f8e-3adf84d95a29"
+      ],
+      "asset": {
+        "id": "0aabc094-382c-460a-900a-a70d6ba2122e"
+      },
+      "elementType": "image"
+    },
+    "countryValueForPage": {
+      "categoryIds": [
+        "c4092e2d-bb70-48ab-bdbd-2c6e86d335b9"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "Argentina",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "bf26d16f-461d-408b-b846-4dfb9cc06c8a",
+  "id": "42a1f452-0228-4ef5-bd84-4f3357f10223",
+  "lastModified": "2020-01-16T09:02:22.523Z",
+  "systemModified": "2020-01-16T09:02:22.523Z",
+  "status": "ready"
+}

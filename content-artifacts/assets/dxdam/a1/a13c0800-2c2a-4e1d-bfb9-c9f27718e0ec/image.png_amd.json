@@ -1,0 +1,102 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1441
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "2bc48c9f-789c-466f-b2f7-4a65281ada53",
+  "path": "/dxdam/a1/a13c0800-2c2a-4e1d-bfb9-c9f27718e0ec/image.png",
+  "digest": "hd9+ay58rpHl2kWcbvhHVw==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=8591e603-ed71-4ee6-8322-7eaf45257644&a=2256b285-b712-4f6f-bf64-3a974cd84bd1",
+      "source": "/authoring/v1/resources/8591e603-ed71-4ee6-8322-7eaf45257644"
+    }
+  },
+  "id": "2256b285-b712-4f6f-bf64-3a974cd84bd1",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:13.298Z",
+  "rev": "14-8203934e912cbadbfc0eaf90eae24ae9",
+  "altText": "Fountain at the airport in Singapore.",
+  "resource": "8591e603-ed71-4ee6-8322-7eaf45257644",
+  "created": "2020-01-16T09:02:12.262Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:fountain",
+      "classification:observation tower",
+      "classification:sprinkler system",
+      "classification:system",
+      "classification:funnel",
+      "classification:pedestal",
+      "classification:support",
+      "classification:birdbath",
+      "classification:equipment",
+      "classification:building",
+      "classification:sage green color",
+      "classification:steel blue color"
+    ],
+    "declined": [
+      "classification:fountain",
+      "classification:sprinkler system",
+      "classification:system",
+      "classification:boiling water reactor",
+      "classification:nuclear reactor",
+      "classification:apparatus",
+      "classification:funnel",
+      "classification:equipment",
+      "classification:building",
+      "classification:greenishness color",
+      "classification:sage green color"
+    ],
+    "values": [
+      "user:travel site sample",
+      "classification:observation tower",
+      "classification:pedestal",
+      "classification:support",
+      "classification:birdbath",
+      "classification:steel blue color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "fountain",
+      "observation tower",
+      "sprinkler system",
+      "system",
+      "funnel",
+      "pedestal",
+      "support",
+      "birdbath",
+      "equipment",
+      "building",
+      "sage green color",
+      "steel blue color"
+    ],
+    "colors": {
+      "lightMuted": "#c0c4c8",
+      "darkMuted": "#324c3f",
+      "lightVibrant": "#99ccdf",
+      "vibrant": "#3c9dc2",
+      "muted": "#83887f",
+      "darkVibrant": "#0d222a"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1858657,
+  "name": "Singapore-Article-Image",
+  "lastModified": "2020-01-16T09:02:13.298Z",
+  "status": "ready"
+}

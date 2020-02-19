@@ -1,0 +1,122 @@
+{
+  "fileName": "Peru-Gallery.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1280
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "eca55fe0-1d58-4a61-95e8-46ee9c608c3b",
+  "path": "/dxdam/29/291c4ab0-8a67-45be-b2c8-f96fedcb4446/Peru-Gallery.png",
+  "digest": "vU4vzKB7Yk0aWL09mKdDYg==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=e3495fdc-ebbf-4d54-8205-4c031cbfd3d5&a=291c4ab0-8a67-45be-b2c8-f96fedcb4446",
+      "source": "/authoring/v1/resources/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5"
+    }
+  },
+  "id": "291c4ab0-8a67-45be-b2c8-f96fedcb4446",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:07.235Z",
+  "profileRenditions": [
+    {
+      "profileId": "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "key": "squareCard",
+      "transform": {
+        "scale": 0.19531,
+        "crop": {
+          "x": 62,
+          "y": 0,
+          "width": 250,
+          "height": 250
+        }
+      },
+      "uri": "/authoring/v1/resources/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5?resize=375px:250px&crop=250:250;62,0",
+      "width": 250,
+      "height": 250
+    },
+    {
+      "profileId": "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "key": "rectangleCard",
+      "transform": {
+        "scale": 1,
+        "crop": {
+          "x": 0,
+          "y": 359,
+          "width": 1920,
+          "height": 562
+        }
+      },
+      "uri": "/authoring/v1/resources/e3495fdc-ebbf-4d54-8205-4c031cbfd3d5?resize=1920px:1280px&crop=1920:562;0,359",
+      "width": 1920,
+      "height": 562
+    }
+  ],
+  "rev": "14-5e109a7a5b3737ec10a035ab05f7f6d1",
+  "altText": "A trail in the mountains of Peru.",
+  "resource": "e3495fdc-ebbf-4d54-8205-4c031cbfd3d5",
+  "created": "2020-01-16T09:02:06.282Z",
+  "profiles": [
+    "a03c07db-709e-48f4-a3a1-4feb3ff2540e"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:Mountains",
+      "classification:alp",
+      "classification:nature",
+      "classification:ridge",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:greenishness color",
+      "classification:sea green color"
+    ],
+    "declined": [],
+    "values": [
+      "user:travel site sample",
+      "classification:Mountains",
+      "classification:alp",
+      "classification:nature",
+      "classification:ridge",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:greenishness color",
+      "classification:sea green color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "Mountains",
+      "alp",
+      "nature",
+      "ridge",
+      "slope",
+      "natural elevation",
+      "greenishness color",
+      "sea green color"
+    ],
+    "colors": {
+      "lightMuted": "#b0cbca",
+      "darkMuted": "#2a5256",
+      "lightVibrant": "#ecfbeb",
+      "vibrant": "#10d3ee",
+      "muted": "#ac8c5c",
+      "darkVibrant": "#064d57"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1352315,
+  "name": "Peru-Gallery.png",
+  "lastModified": "2020-01-16T09:02:07.235Z",
+  "status": "ready"
+}

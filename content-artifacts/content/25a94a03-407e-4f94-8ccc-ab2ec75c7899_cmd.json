@@ -1,0 +1,46 @@
+{
+  "rev": "9-dd644680b5a91429cffc6a6127bccf8c",
+  "thumbnail": {
+    "id": "198b413e-fc8d-40c9-89f9-e1b12a60a3dc"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:21.908Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample"
+  ],
+  "elements": {
+    "countryTitle": {
+      "elementType": "text",
+      "value": "Japan"
+    },
+    "countryImage": {
+      "mode": "shared",
+      "profiles": [
+        "f55fa25b-f48a-4629-9f8e-3adf84d95a29"
+      ],
+      "asset": {
+        "id": "198b413e-fc8d-40c9-89f9-e1b12a60a3dc"
+      },
+      "elementType": "image"
+    },
+    "countryValueForPage": {
+      "categoryIds": [
+        "afff9e99-d059-42c2-84e3-ac59e1ea371a"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "Japan",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "bf26d16f-461d-408b-b846-4dfb9cc06c8a",
+  "id": "25a94a03-407e-4f94-8ccc-ab2ec75c7899",
+  "lastModified": "2020-01-16T09:02:21.908Z",
+  "systemModified": "2020-01-16T09:02:21.908Z",
+  "status": "ready"
+}

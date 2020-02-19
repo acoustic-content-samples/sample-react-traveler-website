@@ -1,0 +1,30 @@
+{
+  "id": "ef2c6a7b-2f72-42c4-a35a-6599b530f056",
+  "rev": "9-218402e1c6a28f6158630ff7549e7f5c",
+  "name": "Europe",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "creator": "Sergii Permiakov",
+  "classification": "category",
+  "taxonomy": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "parent": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "ancestorIds": [
+    "478f06ce-90a4-41df-95c3-2b25285d4791"
+  ],
+  "namePath": [
+    "Locations",
+    "Europe"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/ef2c6a7b-2f72-42c4-a35a-6599b530f056"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    }
+  },
+  "created": "2020-01-16T09:02:02.316Z",
+  "lastModified": "2020-01-16T09:02:02.316Z"
+}

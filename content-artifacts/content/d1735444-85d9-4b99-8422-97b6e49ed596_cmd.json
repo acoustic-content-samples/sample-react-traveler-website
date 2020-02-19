@@ -1,0 +1,75 @@
+{
+  "rev": "11-0f3312263cdc8cf7b04f07481af2e36a",
+  "thumbnail": {
+    "id": "504e3b64-9ee3-427e-b9a3-b2a2767497b1"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:24.396Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:Travel Site Sample"
+  ],
+  "elements": {
+    "contactOptions": {
+      "values": [
+        {
+          "contactOptionName": {
+            "elementType": "text",
+            "value": "Address"
+          },
+          "contactOptionValue": {
+            "elementType": "formattedtext",
+            "value": "<p>Traveler, LLC</p>\n\n<p>601 Example Highway</p>\n\n<p>Austin, Texas 73301</p>\n"
+          }
+        },
+        {
+          "contactOptionName": {
+            "elementType": "text",
+            "value": "Phone"
+          },
+          "contactOptionValue": {
+            "elementType": "formattedtext",
+            "value": "<p>&#43;12 3456 78901</p>\n"
+          }
+        },
+        {
+          "contactOptionName": {
+            "elementType": "text",
+            "value": "Email"
+          },
+          "contactOptionValue": {
+            "elementType": "formattedtext",
+            "value": "<p>contact-traveler&#64;example.com</p>\n"
+          }
+        }
+      ],
+      "elementType": "group",
+      "typeRef": {
+        "id": "95f8723b-36fb-41e7-8a4d-ecf25cfb6734"
+      }
+    },
+    "contactPageImage": {
+      "mode": "shared",
+      "asset": {
+        "id": "504e3b64-9ee3-427e-b9a3-b2a2767497b1"
+      },
+      "elementType": "image"
+    },
+    "contactInformationTitle": {
+      "elementType": "text",
+      "value": "Contact Us"
+    }
+  },
+  "name": "Contact Information",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "cc95aaa3-b35f-4da6-b03f-8e43c0c7577a",
+  "id": "d1735444-85d9-4b99-8422-97b6e49ed596",
+  "lastModified": "2020-01-16T09:22:17.262Z",
+  "systemModified": "2020-01-16T09:22:17.262Z",
+  "status": "ready"
+}

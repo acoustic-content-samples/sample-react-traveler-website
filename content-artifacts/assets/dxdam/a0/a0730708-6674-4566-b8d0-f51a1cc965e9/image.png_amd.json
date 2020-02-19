@@ -1,0 +1,87 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1280
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "18dd547b-0535-4e6c-bc2f-f43223c6b58c",
+  "path": "/dxdam/a0/a0730708-6674-4566-b8d0-f51a1cc965e9/image.png",
+  "digest": "a/ybnlmHL1QNSD6g71kQKw==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=90d3a73e-f42e-48f3-bf9e-c12b05fdca0d&a=bfb01011-fe6a-4aac-8695-0b41d0db93f1",
+      "source": "/authoring/v1/resources/90d3a73e-f42e-48f3-bf9e-c12b05fdca0d"
+    }
+  },
+  "id": "bfb01011-fe6a-4aac-8695-0b41d0db93f1",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:13.437Z",
+  "rev": "14-756d4a2df332d8cc0845cea99762d03d",
+  "altText": "An impromptu library in a forest area of ​​one of the islands of Japan.",
+  "resource": "90d3a73e-f42e-48f3-bf9e-c12b05fdca0d",
+  "created": "2020-01-16T09:02:12.434Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:Tree House",
+      "classification:birdhouse",
+      "classification:shelter",
+      "classification:hut",
+      "classification:huon pine tree",
+      "classification:tree",
+      "classification:plant",
+      "classification:greenishness color"
+    ],
+    "declined": [
+      "classification:Tree House",
+      "classification:huon pine tree",
+      "classification:tree",
+      "classification:plant",
+      "classification:kauri pine tree",
+      "classification:birdhouse",
+      "classification:shelter",
+      "classification:greenishness color"
+    ],
+    "values": [
+      "user:travel site sample",
+      "classification:hut"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "Tree House",
+      "birdhouse",
+      "shelter",
+      "hut",
+      "huon pine tree",
+      "tree",
+      "plant",
+      "greenishness color"
+    ],
+    "colors": {
+      "lightMuted": "#c0c9c8",
+      "darkMuted": "#2b5240",
+      "lightVibrant": "#daac9e",
+      "vibrant": "#934c37",
+      "muted": "#5b9378",
+      "darkVibrant": "#13573a"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1712247,
+  "name": "Japan-Article-Image",
+  "lastModified": "2020-01-16T09:02:13.437Z",
+  "status": "ready"
+}

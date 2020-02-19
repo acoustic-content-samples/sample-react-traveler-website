@@ -1,0 +1,46 @@
+{
+  "rev": "9-c805559c8f1cf00f2de82658bdfee5db",
+  "thumbnail": {
+    "id": "b0f3c719-ede5-48cd-b229-36519931fc71"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:24.160Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample"
+  ],
+  "elements": {
+    "countryTitle": {
+      "elementType": "text",
+      "value": "Kenya"
+    },
+    "countryImage": {
+      "mode": "shared",
+      "profiles": [
+        "f55fa25b-f48a-4629-9f8e-3adf84d95a29"
+      ],
+      "asset": {
+        "id": "b0f3c719-ede5-48cd-b229-36519931fc71"
+      },
+      "elementType": "image"
+    },
+    "countryValueForPage": {
+      "categoryIds": [
+        "f47689e6-66aa-48d9-971a-fc9abdab26ce"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "Kenya",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "bf26d16f-461d-408b-b846-4dfb9cc06c8a",
+  "id": "d1282e56-0f18-4d4b-8e8c-1778256168c2",
+  "lastModified": "2020-01-16T09:02:24.160Z",
+  "systemModified": "2020-01-16T09:02:24.160Z",
+  "status": "ready"
+}

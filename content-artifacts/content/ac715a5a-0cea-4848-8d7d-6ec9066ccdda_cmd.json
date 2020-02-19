@@ -1,0 +1,37 @@
+{
+  "rev": "9-6a773ee546727a77f057fed7d2bfee4a",
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:23.685Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:Travel Site Sample"
+  ],
+  "elements": {
+    "destinationsTitle": {
+      "elementType": "text",
+      "value": "Destinations"
+    },
+    "regionList": {
+      "categoryIds": [
+        "ba8d2977-c3e9-49b1-b25e-c023267e0747",
+        "fddc2e51-d511-4eb6-ad27-646de2788511",
+        "ef2c6a7b-2f72-42c4-a35a-6599b530f056",
+        "1a957f82-195d-4d34-8293-87a6de290580",
+        "2235156b-4238-4797-856c-19617fed0563"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "Destinations",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "fa6d63aa-95b2-4d28-9964-eea5aa501023",
+  "id": "ac715a5a-0cea-4848-8d7d-6ec9066ccdda",
+  "lastModified": "2020-01-16T09:02:23.685Z",
+  "systemModified": "2020-01-16T09:02:23.685Z",
+  "status": "ready"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2235156b-4238-4797-856c-19617fed0563",
+  "rev": "9-2da6345588243ee904cdfa86dd4726e5",
+  "name": "South America",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "creator": "Sergii Permiakov",
+  "classification": "category",
+  "taxonomy": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "parent": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "ancestorIds": [
+    "478f06ce-90a4-41df-95c3-2b25285d4791"
+  ],
+  "namePath": [
+    "Locations",
+    "South America"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/2235156b-4238-4797-856c-19617fed0563"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    }
+  },
+  "created": "2020-01-16T09:02:03.254Z",
+  "lastModified": "2020-01-16T09:02:03.254Z"
+}

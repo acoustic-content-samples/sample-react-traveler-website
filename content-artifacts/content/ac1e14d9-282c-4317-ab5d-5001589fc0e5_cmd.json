@@ -1,0 +1,57 @@
+{
+  "rev": "9-c8a08e65e11ed37052d683681b1f0e56",
+  "thumbnail": {
+    "id": "526807e5-9ae6-4593-8ca4-84ef05f5a90a"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:23.637Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:Travel Site Sample",
+    "user:Beach",
+    "user:Hiking",
+    "user:City"
+  ],
+  "elements": {
+    "countryOfTravelArticle": {
+      "categoryIds": [
+        "c4092e2d-bb70-48ab-bdbd-2c6e86d335b9"
+      ],
+      "elementType": "category"
+    },
+    "travelArticleTitle": {
+      "elementType": "text",
+      "value": "A Quick Guide to Argentina"
+    },
+    "travelArticleImage": {
+      "mode": "shared",
+      "profiles": [
+        "59414bcf-8ccb-4809-9117-47b7a64864a0"
+      ],
+      "asset": {
+        "id": "526807e5-9ae6-4593-8ca4-84ef05f5a90a"
+      },
+      "elementType": "image"
+    },
+    "articleAuthor": {
+      "elementType": "text",
+      "value": "John Smith"
+    },
+    "travelArticleText": {
+      "elementType": "formattedtext",
+      "value": "<p><em>A place of tango origin, famous beef, and dozens of national parks, Argentina – once one of the wealthiest countries in the world – attracts millions of tourists each year, offering a wide range of social and cultural activities.</em></p>\n\n<h2>Getting to Know</h2>\n\n<p>Having the world’s eighth-largest country area and population of around 45 million, Argentina is one of the least densely populated countries on the planet. It is a multicultural country with significant European influences. Present Argentine culture was greatly influenced by Italian, Spanish, French and other European immigration. The country is divided into seven different regions with Buenos Aires, the capital of Argentina, in the Pampas region.</p>\n\n<h2>Buenos Aires</h2>\n\n<p><img data-wch-asset-id=\"26231a0a-2af1-488d-a41f-a5a51226c156\" height=\"250\" src=\"/api/authoring/v1/resources/6be355ea-dac3-4e48-9e21-3e0106a2e9dd.png\" style=\"float:left;padding:0px 10px 0px 0px\" width=\"375\" /></p>\n\n<p>The population of Buenos Aires is around 2.8 million people.</p>\n\n<p>Throughout the years, many people have immigrated to Argentina&#39;s capital from different countries, creating a unique mix of their cultures with a notably strong European influence.</p>\n\n<p>Widely known as the cradle of tango, Buenos Aires is also home to first-class opera and theater, and to restaurants full of Mendoza wine and slices of beef right from the Pampas.</p>\n\n<p> </p>\n\n<p> </p>\n\n<p> </p>\n\n<p> </p>\n\n<h2>Patagonia</h2>\n\n<div style=\"text-align:center;clear:both;padding:0px 0px 10px\"><img data-wch-asset-id=\"04a5a3ca-22a6-4fb6-83bb-0adb20e4291e\" height=\"500\" src=\"/api/authoring/v1/resources/e8141e01-9117-42bb-986e-cca7f2d19654.png\" width=\"750\" /></div>\n\n<p>For those who seek active adventures, Argentina offers <em>Patagonia</em> - a region with marvelous sceneries, famous for its hiking &amp; trekking routes.</p>\n\n<p>The region is bordered in the north by the Cuyo and Pampas regions, by Chile&#39;s part of Patagonia in the west, by the Atlantic Ocean in the east, and by the archipelago of Tierra del Fuego on the south. The two most popular treks in the Argentinian part of Patagonia are <em>Laguna de los Tres</em> and <em>Laguna Torre</em>, which are of moderate difficulty. Expect seven to ten hours of hiking on a fairly light terrain.</p>\n\n<p>The best time for a trip to Patagonia is between the end of November and the beginning of March.</p>\n\n<p> </p>\n\n<h2>Famous Beaches of Argentina</h2>\n\n<p><img data-wch-asset-id=\"8c2eabce-8ba4-45fb-bd19-41d525c6e2b3\" height=\"300\" src=\"/api/authoring/v1/resources/3dadaadc-88f9-4442-8c92-c1c5e55e9b30.png\" style=\"float:right;padding:0px 0px 0px 10px\" width=\"400\" /></p>\n\n<p>All of Argentina’s beaches are located on the Atlantic coast, a few hours’ ride from Buenos Aires.</p>\n\n<p>Hands down 3 most popular beaches that each traveler must visit:</p>\n\n<p><strong><em>Mar del Plata</em></strong> <em>–</em> the number-one beach destination in Argentina. On summer vacations, it becomes a bit crowded, so for those seeking relaxation or alone time, it is better to look for other places (more distant from Buenos Aires, but still perfect sandy beaches).</p>\n\n<p><strong><em>Pinamar</em></strong> – famous for its unique architecture, houses in blooming gardens, surrounding pinewoods, and a wide area of sand dunes known as “La Frontera”.</p>\n\n<p><strong><em>Villa Gesell</em></strong> – a popular place for visitors in their 20s. It has a wood plank boardwalk along the beach and is known for its music stages and water sports in the summer.</p>\n"
+    }
+  },
+  "name": "Argentina - Travel Article",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "id": "ac1e14d9-282c-4317-ab5d-5001589fc0e5",
+  "lastModified": "2020-01-16T09:02:23.637Z",
+  "systemModified": "2020-01-16T09:02:23.637Z",
+  "status": "ready"
+}

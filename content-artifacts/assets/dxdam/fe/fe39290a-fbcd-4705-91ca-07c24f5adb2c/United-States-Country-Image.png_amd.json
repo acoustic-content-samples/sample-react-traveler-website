@@ -1,0 +1,131 @@
+{
+  "fileName": "United-States-Country-Image.png",
+  "metadata": {
+    "width": 1570,
+    "height": 275
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "65abf65e-075d-482e-9c1d-cbb80be061a2",
+  "path": "/dxdam/fe/fe39290a-fbcd-4705-91ca-07c24f5adb2c/United-States-Country-Image.png",
+  "digest": "rY5c76nVYXf6DcMgH5Oozg==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=da91c312-7dd8-445c-a3bb-502fc512b9a3&a=fe39290a-fbcd-4705-91ca-07c24f5adb2c",
+      "source": "/authoring/v1/resources/da91c312-7dd8-445c-a3bb-502fc512b9a3"
+    }
+  },
+  "id": "fe39290a-fbcd-4705-91ca-07c24f5adb2c",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:17.234Z",
+  "profileRenditions": [
+    {
+      "profileId": "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "key": "countryCard",
+      "transform": {
+        "scale": 1,
+        "crop": {
+          "x": 0,
+          "y": 85,
+          "width": 1570,
+          "height": 105
+        }
+      },
+      "uri": "/authoring/v1/resources/da91c312-7dd8-445c-a3bb-502fc512b9a3?resize=1570px:275px&crop=1570:105;0,85",
+      "width": 1570,
+      "height": 105
+    },
+    {
+      "profileId": "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "key": "destinationsCard",
+      "transform": {
+        "scale": 1,
+        "crop": {
+          "x": 1200,
+          "y": 0,
+          "width": 370,
+          "height": 275
+        }
+      },
+      "uri": "/authoring/v1/resources/da91c312-7dd8-445c-a3bb-502fc512b9a3?resize=1570px:275px&crop=370:275;1200,0",
+      "width": 370,
+      "height": 275
+    }
+  ],
+  "rev": "14-535cc0908f382cb304b07fed2cd62c26",
+  "altText": "A map of the USA.",
+  "resource": "da91c312-7dd8-445c-a3bb-502fc512b9a3",
+  "created": "2020-01-16T09:02:16.510Z",
+  "profiles": [
+    "f55fa25b-f48a-4629-9f8e-3adf84d95a29"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:Demonstration",
+      "classification:person",
+      "classification:Banners",
+      "classification:banner",
+      "classification:flag",
+      "classification:embassy",
+      "classification:government building",
+      "classification:building",
+      "classification:print media",
+      "classification:gray color",
+      "classification:bottle green color"
+    ],
+    "declined": [],
+    "values": [
+      "user:travel site sample",
+      "classification:Demonstration",
+      "classification:person",
+      "classification:Banners",
+      "classification:banner",
+      "classification:flag",
+      "classification:embassy",
+      "classification:government building",
+      "classification:building",
+      "classification:print media",
+      "classification:gray color",
+      "classification:bottle green color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "Demonstration",
+      "person",
+      "Banners",
+      "banner",
+      "flag",
+      "embassy",
+      "government building",
+      "building",
+      "print media",
+      "gray color",
+      "bottle green color"
+    ],
+    "colors": {
+      "lightMuted": "#a8aeb2",
+      "darkMuted": "#44473f",
+      "lightVibrant": "#b8bdc0",
+      "vibrant": "#778187",
+      "muted": "#848279",
+      "darkVibrant": "#3e4346"
+    },
+    "status": "complete"
+  },
+  "fileSize": 313500,
+  "name": "United-States-Country-Image.png",
+  "lastModified": "2020-01-16T09:02:17.234Z",
+  "status": "ready"
+}

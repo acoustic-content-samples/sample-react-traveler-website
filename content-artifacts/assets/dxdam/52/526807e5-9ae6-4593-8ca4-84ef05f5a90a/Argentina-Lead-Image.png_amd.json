@@ -1,0 +1,116 @@
+{
+  "fileName": "Argentina-Lead-Image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 578
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "aa1bab9a-04e1-41ef-8a4b-6f48dbac4ea2",
+  "path": "/dxdam/52/526807e5-9ae6-4593-8ca4-84ef05f5a90a/Argentina-Lead-Image.png",
+  "digest": "OzsBUTeZA/fvqEo01uZ0CA==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=05bad243-5e22-4734-860b-c9416e54fbe3&a=526807e5-9ae6-4593-8ca4-84ef05f5a90a",
+      "source": "/authoring/v1/resources/05bad243-5e22-4734-860b-c9416e54fbe3"
+    }
+  },
+  "id": "526807e5-9ae6-4593-8ca4-84ef05f5a90a",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:11.636Z",
+  "profileRenditions": [
+    {
+      "profileId": "59414bcf-8ccb-4809-9117-47b7a64864a0",
+      "key": "card",
+      "transform": {
+        "scale": 0.43252595155709345,
+        "crop": {
+          "x": 309,
+          "y": 0,
+          "width": 250,
+          "height": 250
+        }
+      },
+      "uri": "/authoring/v1/resources/05bad243-5e22-4734-860b-c9416e54fbe3?resize=830px:250px&crop=250:250;309,0",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "rev": "14-c67a99200ffeaeec006ddaa6e1188d80",
+  "altText": "The landscape of Argentina with a river, forest, and mountains.",
+  "resource": "05bad243-5e22-4734-860b-c9416e54fbe3",
+  "created": "2020-01-16T09:02:10.652Z",
+  "profiles": [
+    "59414bcf-8ccb-4809-9117-47b7a64864a0"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:gorge",
+      "classification:valley",
+      "classification:nature",
+      "classification:bluff (steep sliff/bank)",
+      "classification:ridge",
+      "classification:sky",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:shore",
+      "classification:blue color",
+      "classification:sea green color"
+    ],
+    "declined": [
+      "classification:gorge",
+      "classification:valley",
+      "classification:nature",
+      "classification:bluff (steep sliff/bank)",
+      "classification:ridge",
+      "classification:sky",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:shore",
+      "classification:blue color",
+      "classification:sea green color"
+    ],
+    "values": [
+      "user:Travel Site Sample"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "gorge",
+      "valley",
+      "nature",
+      "bluff (steep sliff/bank)",
+      "ridge",
+      "sky",
+      "slope",
+      "natural elevation",
+      "shore",
+      "blue color",
+      "sea green color"
+    ],
+    "colors": {
+      "lightMuted": "#c2cdcf",
+      "darkMuted": "#23393d",
+      "lightVibrant": "#84c4cc",
+      "vibrant": "#0d98aa",
+      "muted": "#5998a1",
+      "darkVibrant": "#05879c"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1625695,
+  "name": "Argentina-Lead-Image.png",
+  "lastModified": "2020-01-16T09:02:11.636Z",
+  "status": "ready"
+}

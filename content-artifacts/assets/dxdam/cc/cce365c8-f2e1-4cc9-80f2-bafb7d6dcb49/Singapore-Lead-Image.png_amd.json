@@ -1,0 +1,110 @@
+{
+  "fileName": "Singapore-Lead-Image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 578
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "ec0babcb-36bf-449b-9062-54f0cb8a86ec",
+  "path": "/dxdam/cc/cce365c8-f2e1-4cc9-80f2-bafb7d6dcb49/Singapore-Lead-Image.png",
+  "digest": "gBD73DLph9TA9dyV1qW1PQ==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=dd93f8e7-4a91-4e33-bacc-01d89699502b&a=cce365c8-f2e1-4cc9-80f2-bafb7d6dcb49",
+      "source": "/authoring/v1/resources/dd93f8e7-4a91-4e33-bacc-01d89699502b"
+    }
+  },
+  "id": "cce365c8-f2e1-4cc9-80f2-bafb7d6dcb49",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:15.238Z",
+  "profileRenditions": [
+    {
+      "profileId": "59414bcf-8ccb-4809-9117-47b7a64864a0",
+      "key": "card",
+      "transform": {
+        "scale": 0.43252,
+        "crop": {
+          "x": 290,
+          "y": 0,
+          "width": 250,
+          "height": 250
+        }
+      },
+      "uri": "/authoring/v1/resources/dd93f8e7-4a91-4e33-bacc-01d89699502b?resize=830px:250px&crop=250:250;290,0",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "rev": "14-7fbf7b10257739e9375bf9746aa4cd71",
+  "altText": "Colonial-style colorful buildings in Singapore.",
+  "resource": "dd93f8e7-4a91-4e33-bacc-01d89699502b",
+  "created": "2020-01-16T09:02:14.332Z",
+  "profiles": [
+    "59414bcf-8ccb-4809-9117-47b7a64864a0"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:guildhall (ornate building)",
+      "classification:hall",
+      "classification:building",
+      "classification:deanery",
+      "classification:residence",
+      "classification:town hall",
+      "classification:government building",
+      "classification:institution",
+      "classification:brick red color"
+    ],
+    "declined": [
+      "classification:guildhall (ornate building)",
+      "classification:hall",
+      "classification:building",
+      "classification:deanery",
+      "classification:residence",
+      "classification:town hall",
+      "classification:government building",
+      "classification:institution",
+      "classification:brick red color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "guildhall (ornate building)",
+      "hall",
+      "building",
+      "deanery",
+      "residence",
+      "town hall",
+      "government building",
+      "institution",
+      "brick red color"
+    ],
+    "colors": {
+      "lightMuted": "#c88fa4",
+      "darkMuted": "#502b2d",
+      "lightVibrant": "#d49baf",
+      "vibrant": "#ae6d48",
+      "muted": "#63aba6",
+      "darkVibrant": "#4c3c14"
+    },
+    "status": "complete"
+  },
+  "fileSize": 450232,
+  "name": "Singapore-Lead-Image.png",
+  "lastModified": "2020-01-16T09:02:15.238Z",
+  "status": "ready"
+}

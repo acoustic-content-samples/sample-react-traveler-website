@@ -1,0 +1,51 @@
+{
+  "rev": "9-de0ccc5e3199abacdd1e9cb0d6cfbf29",
+  "thumbnail": {
+    "id": "ae34bca1-82e5-47f2-a8b7-394fc5eb9891"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:22.573Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample",
+    "user:Nature"
+  ],
+  "elements": {
+    "ImageTitle": {
+      "elementType": "text",
+      "value": "Penguins of South Africa"
+    },
+    "galleryImage": {
+      "mode": "shared",
+      "profiles": [
+        "a03c07db-709e-48f4-a3a1-4feb3ff2540e"
+      ],
+      "asset": {
+        "id": "ae34bca1-82e5-47f2-a8b7-394fc5eb9891"
+      },
+      "elementType": "image"
+    },
+    "imageDescription": {
+      "elementType": "formattedtext",
+      "value": "<p>Although it is commonly believed that penguins live only in distant and cold places as Antarctica, there are also penguins on the African continent.</p>\n\n<p>The African penguin, also known as the <em>Cape penguin</em>, is a species that can be found on the south-western coast of Africa, with the first penguin colonies established near Cape Town, South Africa.</p>\n"
+    },
+    "imageCountryValue": {
+      "categoryIds": [
+        "e7585579-d9cd-4837-a089-5a8dd8779a52"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "South Africa Gallery Image",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+  "id": "46dd4f41-0daf-4465-9e68-9bd0cfe09a18",
+  "lastModified": "2020-01-16T09:02:22.573Z",
+  "systemModified": "2020-01-16T09:02:22.573Z",
+  "status": "ready"
+}

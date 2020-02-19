@@ -1,0 +1,35 @@
+@import '~assets/styles/variables';
+
+.country {
+  padding: $main-padding;
+  @media screen and (max-width: 1024px) {
+    padding: $main-padding-moblie;
+  }
+  .header {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 105px;
+    border-radius: 10px;
+    margin-bottom: 2%;
+
+    img {
+      border-radius: 10px;
+    }
+
+    .imageCaption {
+      position: absolute;
+      bottom: 2rem;
+      left: 2rem;
+
+      span {
+        padding: 5px;
+        color: white;
+        background-color: rgba(33, 33, 33, 0.3);
+        border-radius: 5px;
+        font-size: $main-heading-font-size;
+        font-weight: bold;
+      }
+    }
+  }
+}

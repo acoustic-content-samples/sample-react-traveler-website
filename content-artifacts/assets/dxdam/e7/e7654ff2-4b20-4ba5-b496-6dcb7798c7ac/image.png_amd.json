@@ -1,0 +1,86 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1269
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "d33ed8c2-0f62-459e-9a12-ceb38a084d52",
+  "path": "/dxdam/e7/e7654ff2-4b20-4ba5-b496-6dcb7798c7ac/image.png",
+  "digest": "wruatLlRkJacJ8NpfojhmQ==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=82eff521-face-4443-bbf2-2e2609c5d83f&a=205af07b-ff41-4d8d-88db-c7a9b2af9f5c",
+      "source": "/authoring/v1/resources/82eff521-face-4443-bbf2-2e2609c5d83f"
+    }
+  },
+  "id": "205af07b-ff41-4d8d-88db-c7a9b2af9f5c",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:16.121Z",
+  "rev": "14-19f84caf7d5f6b795ed91438b00b641a",
+  "altText": "Galleria Vittorio Emanuele II in Milan, Italy.",
+  "resource": "82eff521-face-4443-bbf2-2e2609c5d83f",
+  "created": "2020-01-16T09:02:15.135Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:atrium of building",
+      "classification:courtyard",
+      "classification:arcade",
+      "classification:whispering gallery",
+      "classification:dome",
+      "classification:protective covering",
+      "classification:barrel vault",
+      "classification:building"
+    ],
+    "declined": [
+      "classification:atrium of building",
+      "classification:courtyard",
+      "classification:arcade",
+      "classification:barrel vault",
+      "classification:protective covering",
+      "classification:building"
+    ],
+    "values": [
+      "user:travel site sample",
+      "classification:whispering gallery",
+      "classification:dome"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "atrium of building",
+      "courtyard",
+      "arcade",
+      "whispering gallery",
+      "dome",
+      "protective covering",
+      "barrel vault",
+      "building"
+    ],
+    "colors": {
+      "lightMuted": "#cfb2a1",
+      "darkMuted": "#693f30",
+      "lightVibrant": "#dcc4ac",
+      "vibrant": "#8c5241",
+      "muted": "#9d7866",
+      "darkVibrant": "#562c1f"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1784084,
+  "name": "Italy-Article-Image2",
+  "lastModified": "2020-01-16T09:02:16.121Z",
+  "status": "ready"
+}

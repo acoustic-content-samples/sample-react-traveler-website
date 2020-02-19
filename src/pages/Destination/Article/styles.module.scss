@@ -1,0 +1,80 @@
+@import '~assets/styles/variables';
+@import '~assets/styles/colors';
+
+.article {
+  padding-bottom: 15vw;
+
+  .goBack {
+    margin-left: 10%;
+    margin-top: 1%;
+    @media screen and (max-width: 800px) {
+      margin-left: 2%;
+    }
+  }
+  .header {
+    margin: auto;
+    padding-bottom: 2%;
+    position: relative;
+
+    @media screen and (min-width: 1440px) {
+      width: 60%;
+    }
+    @media screen and (min-width: 800px) {
+      width: 80%;
+    }
+
+    @media screen and (max-width: 799px) {
+      width: 95%;
+    }
+
+    h1 {
+      font-size: $main-heading-font-size;
+      margin-top: 1%;
+    }
+
+    .details {
+      color: $font-secondary;
+
+      span:first-of-type {
+        margin-right: 1%;
+      }
+    }
+  }
+
+  section {
+    & > div {
+      margin: auto;
+
+      img {
+        max-width: 100%;
+        height: auto;
+      }
+      @media screen and (min-width: 1440px) {
+        width: 60%;
+      }
+      @media screen and (min-width: 800px) {
+        width: 80%;
+      }
+
+      @media screen and (max-width: 799px) {
+        width: 95%;
+      }
+    }
+
+    & > img {
+      width: 100vw;
+    }
+
+    .articleContent {
+      img {
+        @media screen and (max-width: 1024px) {
+          margin-bottom: 5%;
+        }
+
+        @media screen and (min-width: 1280px) {
+          margin: 1%;
+        }
+      }
+    }
+  }
+}

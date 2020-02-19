@@ -1,0 +1,63 @@
+{
+  "rev": "9-f5203ec2f8cbaf8ed8bc806901b58126",
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:23.175Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:Travel Site Sample"
+  ],
+  "elements": {
+    "copyrighttext": {
+      "elementType": "text",
+      "value": "© Traveler, 2019"
+    },
+    "socialMedia": {
+      "values": [
+        {
+          "socialMediaIcon": {
+            "mode": "shared",
+            "asset": {
+              "id": "0dbd4e99-b073-4472-bb89-21becb8ff9f2"
+            },
+            "elementType": "image"
+          },
+          "socialMediaLink": {
+            "elementType": "link",
+            "linkText": "Instagram",
+            "linkURL": "https://www.instagram.com/"
+          }
+        },
+        {
+          "socialMediaIcon": {
+            "mode": "shared",
+            "asset": {
+              "id": "4be83d1c-d8de-420c-874d-5c20e4ed4941"
+            },
+            "elementType": "image"
+          },
+          "socialMediaLink": {
+            "elementType": "link",
+            "linkURL": "https://www.facebook.com/",
+            "linkText": "Facebook"
+          }
+        }
+      ],
+      "elementType": "group",
+      "typeRef": {
+        "id": "d46d3539-6d9e-43e9-bfc6-b35a27cc4f03"
+      }
+    }
+  },
+  "name": "Footer",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "5d830a1a-2fd8-4448-9d92-0ef0a11ecbdc",
+  "id": "8137afca-4281-4a19-9501-2360bc028cbf",
+  "lastModified": "2020-01-16T09:02:23.175Z",
+  "systemModified": "2020-01-16T09:02:23.175Z",
+  "status": "ready"
+}

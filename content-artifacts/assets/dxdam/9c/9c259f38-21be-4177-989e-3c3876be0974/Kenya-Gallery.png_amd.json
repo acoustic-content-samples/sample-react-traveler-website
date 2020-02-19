@@ -1,0 +1,128 @@
+{
+  "fileName": "Kenya-Gallery.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1441
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "0cc458b3-167c-48b2-a8a6-81c3d91a1321",
+  "path": "/dxdam/9c/9c259f38-21be-4177-989e-3c3876be0974/Kenya-Gallery.png",
+  "digest": "X7vYIVbdwf3fjJp0MAfoZw==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=baec2bf4-750b-4531-991e-82ec67032418&a=9c259f38-21be-4177-989e-3c3876be0974",
+      "source": "/authoring/v1/resources/baec2bf4-750b-4531-991e-82ec67032418"
+    }
+  },
+  "id": "9c259f38-21be-4177-989e-3c3876be0974",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:13.116Z",
+  "profileRenditions": [
+    {
+      "profileId": "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "key": "squareCard",
+      "transform": {
+        "scale": 0.17349,
+        "crop": {
+          "x": 42,
+          "y": 0,
+          "width": 250,
+          "height": 250
+        }
+      },
+      "uri": "/authoring/v1/resources/baec2bf4-750b-4531-991e-82ec67032418?resize=333px:250px&crop=250:250;42,0",
+      "width": 250,
+      "height": 250
+    },
+    {
+      "profileId": "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "key": "rectangleCard",
+      "transform": {
+        "scale": 1,
+        "crop": {
+          "x": 0,
+          "y": 440,
+          "width": 1920,
+          "height": 562
+        }
+      },
+      "uri": "/authoring/v1/resources/baec2bf4-750b-4531-991e-82ec67032418?resize=1920px:1441px&crop=1920:562;0,440",
+      "width": 1920,
+      "height": 562
+    }
+  ],
+  "rev": "14-ef14b2422821342a2d4f63750122ae4a",
+  "altText": "Kenya's wild beaches with people near the water.",
+  "resource": "baec2bf4-750b-4531-991e-82ec67032418",
+  "created": "2020-01-16T09:02:12.106Z",
+  "profiles": [
+    "a03c07db-709e-48f4-a3a1-4feb3ff2540e"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:strand",
+      "classification:shore",
+      "classification:nature",
+      "classification:oceanfront",
+      "classification:littoral (sands)",
+      "classification:seashore",
+      "classification:beach",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:sea green color"
+    ],
+    "declined": [],
+    "values": [
+      "user:travel site sample",
+      "classification:strand",
+      "classification:shore",
+      "classification:nature",
+      "classification:oceanfront",
+      "classification:littoral (sands)",
+      "classification:seashore",
+      "classification:beach",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:sea green color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "strand",
+      "shore",
+      "nature",
+      "oceanfront",
+      "littoral (sands)",
+      "seashore",
+      "beach",
+      "slope",
+      "natural elevation",
+      "sea green color"
+    ],
+    "colors": {
+      "lightMuted": "#a7ccbf",
+      "darkMuted": "#555f41",
+      "lightVibrant": "#f4ece4",
+      "vibrant": "#b57f49",
+      "muted": "#749ea1",
+      "darkVibrant": "#5e4226"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1353130,
+  "name": "Kenya-Gallery.png",
+  "lastModified": "2020-01-16T09:02:13.116Z",
+  "status": "ready"
+}

@@ -1,0 +1,16 @@
+@import '~assets/styles/variables';
+
+.caption {
+  padding: $main-padding;
+  font-size: $text-font-size;
+  @media screen and (max-width: 1024px) {
+    padding: $main-padding-moblie;
+  }
+}
+
+.articlePreview {
+  padding: 0 10% 5%;
+  @media screen and (max-width: 1024px) {
+    padding: $main-padding-moblie;
+  }
+}

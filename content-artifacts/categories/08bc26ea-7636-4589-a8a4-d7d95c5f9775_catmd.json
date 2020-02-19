@@ -1,0 +1,30 @@
+{
+  "id": "08bc26ea-7636-4589-a8a4-d7d95c5f9775",
+  "rev": "9-56b67665a6bdb76137fa655847e567c2",
+  "name": "Gallery Image",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "creator": "Sergii Permiakov",
+  "classification": "category",
+  "taxonomy": "0433bd5a-dd12-44f4-baf7-e64b8fe81186",
+  "parent": "0433bd5a-dd12-44f4-baf7-e64b8fe81186",
+  "ancestorIds": [
+    "0433bd5a-dd12-44f4-baf7-e64b8fe81186"
+  ],
+  "namePath": [
+    "Content to Display",
+    "Gallery Image"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/0433bd5a-dd12-44f4-baf7-e64b8fe81186"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/08bc26ea-7636-4589-a8a4-d7d95c5f9775"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/0433bd5a-dd12-44f4-baf7-e64b8fe81186"
+    }
+  },
+  "created": "2020-01-16T09:02:01.949Z",
+  "lastModified": "2020-01-16T09:02:01.949Z"
+}

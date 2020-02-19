@@ -1,0 +1,56 @@
+{
+  "rev": "10-78ee4f63db143f2ff5a8ef67f7dd26a7",
+  "thumbnail": {
+    "id": "24b900b3-3463-4de4-a8e0-a99bd2e6c06b"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:23.976Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:Sights",
+    "user:City",
+    "user:Travel Site Sample"
+  ],
+  "elements": {
+    "countryOfTravelArticle": {
+      "categoryIds": [
+        "07e62dc8-e25c-49e4-9253-ac4f76717142"
+      ],
+      "elementType": "category"
+    },
+    "travelArticleTitle": {
+      "elementType": "text",
+      "value": "Architectural Treasures of Italy"
+    },
+    "travelArticleImage": {
+      "mode": "shared",
+      "profiles": [
+        "59414bcf-8ccb-4809-9117-47b7a64864a0"
+      ],
+      "asset": {
+        "id": "24b900b3-3463-4de4-a8e0-a99bd2e6c06b"
+      },
+      "elementType": "image"
+    },
+    "articleAuthor": {
+      "elementType": "text",
+      "value": "John Smith"
+    },
+    "travelArticleText": {
+      "elementType": "formattedtext",
+      "value": "<p><em>It would require a whole separate article just to list all of the architecture places one must see in Italy. And it would take months - if not years - to visit each of them. But do not despair, we list one significant architectural place in different cities in this article. These masterpieces are located not so far from the city centers, so you will not have a chance to miss them.</em></p>\n\n<h2>Brunelleschi&#39;s Dome, Florence</h2>\n\n<div style=\"text-align:center;clear:both;padding:0px 0px 5px\"><img data-wch-asset-id=\"6ab4dba7-2cb4-4b69-ba82-d6d2159acbab\" height=\"268\" src=\"/api/authoring/v1/resources/2937e8b4-bcb4-4dbb-b576-c3a0b1e2281c.png\" width=\"750\" /></div>\n\n<p>The dome at the top of the church of Santa Maria del Fiore (or simply <em>Florence cathedral</em>) is known as Filippo <em>Brunelleschi’s dome</em>.</p>\n\n<p>In 1418, the supervisor of the construction of Florence cathedral declared a contest for the construction of the dome with a reward of 200 gold florins for the winner. Following a number of debates, Filippo Brunelleschi was assigned as the head of the dome construction project. The construction of the Dome began on 7 August 1420 and was completed in 1436.</p>\n\n<p>At the time it was built, it was the largest dome in the world. Innovative construction for its time, this work is a masterpiece and witnesses the engineering genius of its creator.</p>\n\n<h2>Galleria Vittorio Emanuele II, Milan</h2>\n\n<p><img data-wch-asset-id=\"205af07b-ff41-4d8d-88db-c7a9b2af9f5c\" height=\"297\" src=\"/api/authoring/v1/resources/e7654ff2-4b20-4ba5-b496-6dcb7798c7ac.png\" style=\"float:right;padding:3px 0px 0px 10px\" width=\"450\" /></p>\n\n<p>Located in the center of Milan, the Galleria Vittorio Emanuele II is the oldest Italian operating mall with the most luxurious stores in the city and is named after the first king of the Kingdom of Italy.</p>\n\n<p>The Galleria was designed by architect Giuseppe Mengoni in the Renaissance Revival style popular in those days. Constructed between 1865 and 1877, the building is formed by two arcades in the shape of Latin cross with the dome, made from iron and glass, at the top.</p>\n\n<p>After you walk around the Gallery and its boutiques, make sure to visit nearby sights:</p>\n\n<ul><li><strong>Duomo di Milano</strong> – the largest Gothic cathedral in the world that was built in the 14th century and took over 500 years to complete;</li><li><strong>La Scala</strong> – one of the most famous and beautiful opera houses in the world;</li><li><strong>Gallerie d’Italia</strong> – a famous art museum that exhibits contemporary Italian works from the 19th and 20th centuries.</li></ul>\n\n<h2>Basilica di San Marco, Venice</h2>\n\n<div style=\"text-align:center;clear:both;padding:0px 0px 10px\"><img data-wch-asset-id=\"b8179008-d2f9-4fde-b019-b5ff3bc9a652\" height=\"500\" src=\"/api/authoring/v1/resources/f48f5391-0ea4-4167-96f6-37bc2c9ed351.png\" width=\"750\" /></div>\n\n<p>St Mark&#39;s Basilica (officially named <em>the Patriarchal Cathedral Basilica of Saint Mark</em>) is the main cathedral church in Venice.</p>\n\n<p>The construction of the Basilica, initially planned as an extension of the Palazzo Ducale, started in 828 with the aim of storing Saint Mark’s relics that had been taken out of Alexandria.</p>\n\n<p>To access St Mark’s Basilica, you should wear clothes that cover your shoulders and are knee-length, otherwise, you might not be allowed in.</p>\n\n<p>Inside Basilica, visitors can also attend:</p>\n\n<ul><li><strong>The Museum and the Horses of St. Mark</strong> (<em>Museo di San Marco</em>), where you can observe the Basilica’s ceilings and mosaics closely and see the original sculptures of the Horses of St. Mark, the four gold-plated bronze horses brought from Constantinople.</li><li><strong>The Treasury,</strong> containing a collection of gold and silver items, that the Venetians brought after sacking Constantinople during the Fourth Crusade.</li><li><strong>The Pala d’Oro</strong>, a retable with gemstones created by medieval jewelers, located in the high altar of the Basilica.</li></ul>\n"
+    }
+  },
+  "name": "Italy Travel Article",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "id": "d0eb70f4-c690-4434-ab21-a51fba077e80",
+  "lastModified": "2020-02-03T11:21:54.106Z",
+  "systemModified": "2020-02-03T11:21:54.106Z",
+  "status": "ready"
+}

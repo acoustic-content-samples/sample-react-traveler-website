@@ -1,0 +1,28 @@
+{
+  "id": "95f8723b-36fb-41e7-8a4d-ecf25cfb6734",
+  "rev": "9-a0e0b9739b71ba8c894f0d08bd5b3008",
+  "name": "Contact Element",
+  "classification": "content-type",
+  "kind": [
+    "embedded"
+  ],
+  "description": "",
+  "status": "ready",
+  "tags": [
+    "Travel Site Sample"
+  ],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Contact Option Name",
+      "key": "contactOptionName",
+      "required": false
+    },
+    {
+      "elementType": "formattedtext",
+      "label": "Contact Option Value",
+      "key": "contactOptionValue",
+      "required": false
+    }
+  ]
+}

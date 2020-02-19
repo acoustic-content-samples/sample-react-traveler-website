@@ -1,0 +1,46 @@
+{
+  "rev": "9-829d1d9345a75e225746f55d24d92268",
+  "thumbnail": {
+    "id": "511b5e32-e44a-40f4-95b0-957dbe01908a"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:23.134Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample"
+  ],
+  "elements": {
+    "countryTitle": {
+      "elementType": "text",
+      "value": "Croatia"
+    },
+    "countryImage": {
+      "mode": "shared",
+      "profiles": [
+        "f55fa25b-f48a-4629-9f8e-3adf84d95a29"
+      ],
+      "asset": {
+        "id": "511b5e32-e44a-40f4-95b0-957dbe01908a"
+      },
+      "elementType": "image"
+    },
+    "countryValueForPage": {
+      "categoryIds": [
+        "cf94dc14-5057-4b61-b19e-55915aa5a56b"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "Croatia",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "bf26d16f-461d-408b-b846-4dfb9cc06c8a",
+  "id": "7681497d-092a-49d9-82d1-8ceed24790d3",
+  "lastModified": "2020-01-16T09:02:23.134Z",
+  "systemModified": "2020-01-16T09:02:23.134Z",
+  "status": "ready"
+}

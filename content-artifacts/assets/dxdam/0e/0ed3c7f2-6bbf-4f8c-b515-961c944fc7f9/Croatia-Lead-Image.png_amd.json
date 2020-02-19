@@ -1,0 +1,122 @@
+{
+  "fileName": "Croatia-Lead-Image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 578
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "e93751e8-7b90-41de-818d-31c3b9add316",
+  "path": "/dxdam/0e/0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9/Croatia-Lead-Image.png",
+  "digest": "qHwGxusrgLHV+/L+yf58qw==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=e4c51ad0-46ff-471a-b309-2c505cbdbb39&a=0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9",
+      "source": "/authoring/v1/resources/e4c51ad0-46ff-471a-b309-2c505cbdbb39"
+    }
+  },
+  "id": "0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:06.255Z",
+  "profileRenditions": [
+    {
+      "profileId": "59414bcf-8ccb-4809-9117-47b7a64864a0",
+      "key": "card",
+      "transform": {
+        "scale": 0.43252,
+        "crop": {
+          "x": 290,
+          "y": 0,
+          "width": 250,
+          "height": 250
+        }
+      },
+      "uri": "/authoring/v1/resources/e4c51ad0-46ff-471a-b309-2c505cbdbb39?resize=830px:250px&crop=250:250;290,0",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "rev": "14-d5b202dcb9be3075181321ceb2414110",
+  "altText": "The landscape of Croatia with famous red-roof buildings, hilly terrain, covered with forests, and small bays.",
+  "resource": "e4c51ad0-46ff-471a-b309-2c505cbdbb39",
+  "created": "2020-01-16T09:02:05.288Z",
+  "profiles": [
+    "59414bcf-8ccb-4809-9117-47b7a64864a0"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:stronghold",
+      "classification:defensive structure",
+      "classification:shore",
+      "classification:nature",
+      "classification:kasbah (old quarters)",
+      "classification:building",
+      "classification:seashore",
+      "classification:fortress",
+      "classification:waterside",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:light brown color",
+      "classification:blue color"
+    ],
+    "declined": [
+      "classification:stronghold",
+      "classification:defensive structure",
+      "classification:shore",
+      "classification:nature",
+      "classification:kasbah (old quarters)",
+      "classification:building",
+      "classification:seashore",
+      "classification:fortress",
+      "classification:waterside",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:light brown color",
+      "classification:blue color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "stronghold",
+      "defensive structure",
+      "shore",
+      "nature",
+      "kasbah (old quarters)",
+      "building",
+      "seashore",
+      "fortress",
+      "waterside",
+      "slope",
+      "natural elevation",
+      "light brown color",
+      "blue color"
+    ],
+    "colors": {
+      "lightMuted": "#c5af92",
+      "darkMuted": "#544230",
+      "lightVibrant": "#dec298",
+      "vibrant": "#b56d44",
+      "muted": "#947352",
+      "darkVibrant": "#2c545c"
+    },
+    "status": "complete"
+  },
+  "fileSize": 677551,
+  "name": "Croatia-Lead-Image.png",
+  "lastModified": "2020-01-16T09:02:06.255Z",
+  "status": "ready"
+}

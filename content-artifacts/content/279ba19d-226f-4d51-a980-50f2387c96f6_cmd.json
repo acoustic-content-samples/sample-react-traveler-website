@@ -1,0 +1,55 @@
+{
+  "rev": "9-93f0ba92c2e02b18f238928e26738355",
+  "thumbnail": {
+    "id": "3a835c8d-eaa7-4dde-88e2-34b7980a3f43"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:21.887Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample",
+    "user:hiking"
+  ],
+  "elements": {
+    "countryOfTravelArticle": {
+      "categoryIds": [
+        "a26366ee-c584-4c2f-9147-3b92664792b0"
+      ],
+      "elementType": "category"
+    },
+    "travelArticleTitle": {
+      "elementType": "text",
+      "value": "The Overlooked Places of Peru"
+    },
+    "travelArticleImage": {
+      "mode": "shared",
+      "profiles": [
+        "59414bcf-8ccb-4809-9117-47b7a64864a0"
+      ],
+      "asset": {
+        "id": "3a835c8d-eaa7-4dde-88e2-34b7980a3f43"
+      },
+      "elementType": "image"
+    },
+    "articleAuthor": {
+      "elementType": "text",
+      "value": "John Smith"
+    },
+    "travelArticleText": {
+      "elementType": "formattedtext",
+      "value": "<p><em>Known primarily for Machu Picchu, Peru has many more secret and unusual places that can amaze even an experienced traveler. These hidden gems have one undoubtful advantage over the well-known Machu Picchu – there are a lot fewer tourists. Visiting Peru, make sure that you dedicate some time to ancient Sacsayhuamán, Moray, and Ollantaytambo.</em></p>\n\n<h2>Sacsayhuamán</h2>\n\n<p>Thought to be constructed by Inca in the 13th century, Sacsayhuamán is an astonishing Inca fortress on the outskirts of Cusco, the historic capital of the Inca Empire. It is believed that more than twenty thousand men mined the stones from the quarries and carried them for 20 kilometers to the hill of Cusco.</p>\n\n<div style=\"text-align:center;clear:both;padding:0px 0px 5px\"><img data-wch-asset-id=\"d8a9d62c-07d5-4e4b-b264-05163244d579\" height=\"306\" src=\"/api/authoring/v1/resources/2df752a3-593d-4568-aa60-f0659213ad7d.png\" width=\"750\" /></div>\n\n<p>Only 40 percent of the Sacsayhuaman building&#39;s initial structure is retained. Even so, the fortress still has structures of more than 120 tons of weight and offers an amazing view of Cusco.</p>\n\n<p> </p>\n\n<h2>Moray</h2>\n\n<p><img data-wch-asset-id=\"3d3ba77d-b4f4-4e23-8c0f-c6aa35026009\" height=\"267\" src=\"/api/authoring/v1/resources/8b0003f5-fdb3-45b8-83ed-08ad5cd235c5.png\" style=\"float:right;padding:0px 0px 0px 10px\" width=\"400\" />Moray is the name of the Incan ruins near the Maras city, located 600 meters above the Sacred Valley of the Incas.</p>\n\n<p>These ruins are widely believed to be the crop laboratory of Inca that was likely used to cultivate resistant breeds of crops high in the Andes.</p>\n\n<p>Seeds cultivated at this laboratory were presumably sent throughout the Inca empire to increase crop yield in the tough conditions of the Andes.</p>\n\n<p>Today Moray is a series of circular agricultural terraces on plateaus 400 meters above the valley bottom.</p>\n\n<p> </p>\n\n<h2>Ollantaytambo</h2>\n\n<p><img data-wch-asset-id=\"42a258ed-6031-4c7d-9505-aa8cf63f6c9c\" height=\"308\" src=\"/api/authoring/v1/resources/1f16791b-938d-4598-ac4a-e766a1e0bf57.png\" style=\"float:left;padding:0px 20px 0px 0px\" width=\"375\" />Located at the northern end of the Sacred Valley, Ollantaytambo was a major Inca city and entry point to the Antisuyo, the Amazon corner of the Inca Empire.</p>\n\n<p>Ollantaytambo served as the last fortress for the Inca resistance during the Spanish invasion.</p>\n\n<p>Significant historical places of Ollantaytambo that must be seen by anyone who visits Peru include:</p>\n\n<ul><li>The Inca Fortress and Temple,</li><li>The Inca Granaries of Pinkulluna,</li><li>Inca Bridge and Valley Hike,</li><li>Ancient Streets of Ollantaytambo.</li></ul>\n"
+    }
+  },
+  "name": "Peru Travel Article",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "id": "279ba19d-226f-4d51-a980-50f2387c96f6",
+  "lastModified": "2020-01-16T09:02:21.887Z",
+  "systemModified": "2020-01-16T09:02:21.887Z",
+  "status": "ready"
+}

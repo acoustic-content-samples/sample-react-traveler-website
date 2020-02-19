@@ -1,0 +1,32 @@
+{
+  "id": "77abce3f-7a13-45ef-b1ce-11dbd11b61ff",
+  "rev": "9-2c60c7c11dc533675f795ab5f784668a",
+  "name": "Canada",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "creator": "Sergii Permiakov",
+  "classification": "category",
+  "taxonomy": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "parent": "1a957f82-195d-4d34-8293-87a6de290580",
+  "ancestorIds": [
+    "478f06ce-90a4-41df-95c3-2b25285d4791",
+    "1a957f82-195d-4d34-8293-87a6de290580"
+  ],
+  "namePath": [
+    "Locations",
+    "North America",
+    "Canada"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/77abce3f-7a13-45ef-b1ce-11dbd11b61ff"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/1a957f82-195d-4d34-8293-87a6de290580"
+    }
+  },
+  "created": "2020-01-16T09:02:03.573Z",
+  "lastModified": "2020-01-16T09:02:03.573Z"
+}

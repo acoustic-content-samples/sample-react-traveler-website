@@ -1,0 +1,100 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 784
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "777124c1-3b85-4ff9-b5b7-7d42c36d0219",
+  "path": "/dxdam/2d/2df752a3-593d-4568-aa60-f0659213ad7d/image.png",
+  "digest": "NkT86uhnw8TlwMLVtUCdew==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=16a09411-0147-4dce-88fc-0dbe94d36fc4&a=d8a9d62c-07d5-4e4b-b264-05163244d579",
+      "source": "/authoring/v1/resources/16a09411-0147-4dce-88fc-0dbe94d36fc4"
+    }
+  },
+  "id": "d8a9d62c-07d5-4e4b-b264-05163244d579",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:07.867Z",
+  "rev": "14-5b2c11961bce589fb23b70cb83a5a45e",
+  "altText": "Wild bird on a stone wall in Peru.",
+  "resource": "16a09411-0147-4dce-88fc-0dbe94d36fc4",
+  "created": "2020-01-16T09:02:06.891Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:griffon vulture",
+      "classification:vulture",
+      "classification:bird of prey",
+      "classification:bird",
+      "classification:animal",
+      "classification:cairn (mound of stones)",
+      "classification:nature",
+      "classification:Desert",
+      "classification:small tropical gannet",
+      "classification:seabird",
+      "classification:aquatic bird",
+      "classification:chocolate color"
+    ],
+    "declined": [
+      "classification:cairn (mound of stones)",
+      "classification:nature",
+      "classification:griffon vulture",
+      "classification:vulture",
+      "classification:bird of prey",
+      "classification:bird",
+      "classification:animal",
+      "classification:small tropical gannet",
+      "classification:seabird",
+      "classification:aquatic bird",
+      "classification:Desert",
+      "classification:rock outcrop",
+      "classification:rock",
+      "classification:chocolate color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "griffon vulture",
+      "vulture",
+      "bird of prey",
+      "bird",
+      "animal",
+      "cairn (mound of stones)",
+      "nature",
+      "Desert",
+      "small tropical gannet",
+      "seabird",
+      "aquatic bird",
+      "chocolate color"
+    ],
+    "colors": {
+      "lightMuted": "#bea587",
+      "darkMuted": "#614b36",
+      "lightVibrant": "#a3bad5",
+      "vibrant": "#6c91bc",
+      "muted": "#6c8cb4",
+      "darkVibrant": "#643420"
+    },
+    "status": "complete"
+  },
+  "fileSize": 827821,
+  "name": "Peru-Article-Image",
+  "lastModified": "2020-01-16T09:02:07.867Z",
+  "status": "ready"
+}

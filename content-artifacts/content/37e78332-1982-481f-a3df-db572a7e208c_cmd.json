@@ -1,0 +1,54 @@
+{
+  "rev": "9-32ed8595eef3f059cfd644c79dfc560e",
+  "thumbnail": {
+    "id": "cce365c8-f2e1-4cc9-80f2-bafb7d6dcb49"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:22.518Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample"
+  ],
+  "elements": {
+    "countryOfTravelArticle": {
+      "categoryIds": [
+        "62bc29c6-3b62-4820-b322-20072f1d606e"
+      ],
+      "elementType": "category"
+    },
+    "travelArticleTitle": {
+      "elementType": "text",
+      "value": "The Green City of Singapore"
+    },
+    "travelArticleImage": {
+      "mode": "shared",
+      "profiles": [
+        "59414bcf-8ccb-4809-9117-47b7a64864a0"
+      ],
+      "asset": {
+        "id": "cce365c8-f2e1-4cc9-80f2-bafb7d6dcb49"
+      },
+      "elementType": "image"
+    },
+    "articleAuthor": {
+      "elementType": "text",
+      "value": "John Smith"
+    },
+    "travelArticleText": {
+      "elementType": "formattedtext",
+      "value": "<p><em>The city-state of Singapore is the greenest city in Asia, according to the Green City Index. Green buildings, developed to utilize resources in a more frugal way and be less harmful to the natural environment, have been acclaimed as a way to deal with climate change.</em></p>\n\n<p><em>The Building Construction Authority of Singapore aims for 80% of buildings to be certified as green ones under the national Green Mark certification by 2030. The most recent and - no doubts - most impressing green constructions of Singapore are Gardens by the Bay and Jewel of Changi Airport.</em></p>\n\n<h2>Gardens by the Bay</h2>\n\n<div style=\"text-align:center;clear:both;padding:0px 0px 10px\"><img data-wch-asset-id=\"11b91ef2-a94b-4889-bef0-7b8913216d96\" height=\"383\" src=\"/api/authoring/v1/resources/b97ef37c-2b27-4aea-b800-33704af8768d.png\" width=\"750\" /></div>\n\n<p>Gardens by the Bay is an urban outdoor recreation space and park that covers 101 hectares of land near the Marina Reservoir in the Central Region of Singapore.</p>\n\n<p>In 2018, Gardens had visitorship achieving a record high and exceeding 12 million. Since its inception, this national icon of Singapore has been visited over 56.2 million times (as of 31 March 2019).</p>\n\n<p>The park comprises three waterfront gardens:</p>\n\n<p><strong>Bay South Garden</strong>, the largest of the three gardens, that was opened to the public on 29 June 2012, spans over 54 hectares and displays a big variety of tropical plants and garden artistry.</p>\n\n<p><strong>Bay East Garden</strong>, spanning 32 hectares of land and designed as a group of tropical leaf-shaped gardens, offers a relaxing break from the busy city and amazing views of the city, parks, and gardens.</p>\n\n<p><strong>Bay Central Garden</strong> is the garden that is currently under construction and will be a linkage between Bay South to Bay East with a waterfront boardwalk.</p>\n\n<h2>Jewel of Changi Airport</h2>\n\n<p><img data-wch-asset-id=\"2256b285-b712-4f6f-bf64-3a974cd84bd1\" height=\"300\" src=\"/api/authoring/v1/resources/a13c0800-2c2a-4e1d-bfb9-c9f27718e0ec.png\" style=\"float:left;padding:0px 10px 0px 0px\" width=\"400\" /></p>\n\n<p>In April 2019, Changi Airport opened Jewel, a lifestyle place between the control tower and Terminal 1 of the airport. This ten-story construction comprises almost three hundred shops and restaurants.</p>\n\n<p>State-of-art dome of Jewel, made of glass and steel, required 4 years and US$1.25 billion to be built. The dome was designed by architect Moshe Safdie, whose previous works include one of the most famous hotels - Marina Bay Sands.</p>\n\n<p>Inside you can find an IMAX cinema, a full-sized supermarket, a hotel, and the Rain Vortex, the highest indoor waterfall in the world.</p>\n"
+    }
+  },
+  "name": "Singapore Travel Article",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "id": "37e78332-1982-481f-a3df-db572a7e208c",
+  "lastModified": "2020-01-16T09:02:22.518Z",
+  "systemModified": "2020-01-16T09:02:22.518Z",
+  "status": "ready"
+}

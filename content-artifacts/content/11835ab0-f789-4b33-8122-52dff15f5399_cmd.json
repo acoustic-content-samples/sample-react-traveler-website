@@ -1,0 +1,34 @@
+{
+  "rev": "9-d1f3d8b9e40aea87133adec744edc289",
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:21.693Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample"
+  ],
+  "elements": {
+    "regionTitle": {
+      "elementType": "text",
+      "value": "North America"
+    },
+    "countryList": {
+      "categoryIds": [
+        "77abce3f-7a13-45ef-b1ce-11dbd11b61ff",
+        "ed7ce7fa-2f75-4864-87cc-3c2199bcee31"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "North America",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "9f077e72-352d-41a3-b2bb-b3857e6bc783",
+  "id": "11835ab0-f789-4b33-8122-52dff15f5399",
+  "lastModified": "2020-01-16T09:02:21.693Z",
+  "systemModified": "2020-01-16T09:02:21.693Z",
+  "status": "ready"
+}

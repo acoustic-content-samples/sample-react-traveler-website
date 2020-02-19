@@ -1,0 +1,30 @@
+{
+  "id": "03db844b-c869-4cdd-bd5f-207ed5c8558a",
+  "rev": "9-3061e952106c80cece1d6da2deb3cb6a",
+  "name": "Least Recent",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "creator": "Sergii Permiakov",
+  "classification": "category",
+  "taxonomy": "43d75244-e495-48a6-b3c3-730b8136cb93",
+  "parent": "43d75244-e495-48a6-b3c3-730b8136cb93",
+  "ancestorIds": [
+    "43d75244-e495-48a6-b3c3-730b8136cb93"
+  ],
+  "namePath": [
+    "List order",
+    "Least Recent"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/43d75244-e495-48a6-b3c3-730b8136cb93"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/03db844b-c869-4cdd-bd5f-207ed5c8558a"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/43d75244-e495-48a6-b3c3-730b8136cb93"
+    }
+  },
+  "created": "2020-01-16T09:02:01.842Z",
+  "lastModified": "2020-01-16T09:02:01.842Z"
+}

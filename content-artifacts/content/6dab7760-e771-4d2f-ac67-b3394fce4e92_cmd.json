@@ -1,0 +1,46 @@
+{
+  "rev": "9-3cac01213d4f40486f1a7a1821dc7694",
+  "thumbnail": {
+    "id": "fe39290a-fbcd-4705-91ca-07c24f5adb2c"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:23.085Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample"
+  ],
+  "elements": {
+    "countryTitle": {
+      "elementType": "text",
+      "value": "United States"
+    },
+    "countryImage": {
+      "mode": "shared",
+      "profiles": [
+        "f55fa25b-f48a-4629-9f8e-3adf84d95a29"
+      ],
+      "asset": {
+        "id": "fe39290a-fbcd-4705-91ca-07c24f5adb2c"
+      },
+      "elementType": "image"
+    },
+    "countryValueForPage": {
+      "categoryIds": [
+        "ed7ce7fa-2f75-4864-87cc-3c2199bcee31"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "United States",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "bf26d16f-461d-408b-b846-4dfb9cc06c8a",
+  "id": "6dab7760-e771-4d2f-ac67-b3394fce4e92",
+  "lastModified": "2020-01-16T09:02:23.085Z",
+  "systemModified": "2020-01-16T09:02:23.085Z",
+  "status": "ready"
+}

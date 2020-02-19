@@ -1,0 +1,86 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 687
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "e2ee5f5e-1459-4de8-8a91-4cc33a2a0fb7",
+  "path": "/dxdam/29/2937e8b4-bcb4-4dbb-b576-c3a0b1e2281c/image.png",
+  "digest": "2A2J95QEObm3i9FE2ozQDg==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=359c3953-46fd-44be-8331-bf7098f38772&a=6ab4dba7-2cb4-4b69-ba82-d6d2159acbab",
+      "source": "/authoring/v1/resources/359c3953-46fd-44be-8331-bf7098f38772"
+    }
+  },
+  "id": "6ab4dba7-2cb4-4b69-ba82-d6d2159acbab",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:07.188Z",
+  "rev": "14-136127a20c1cc8f35bcb64e7846b48ef",
+  "altText": "Florence Cathedral with Brunelleschi Dome in Italy.",
+  "resource": "359c3953-46fd-44be-8331-bf7098f38772",
+  "created": "2020-01-16T09:02:06.240Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:religious building",
+      "classification:building",
+      "classification:Skyline (day)",
+      "classification:church tower",
+      "classification:tower",
+      "classification:city",
+      "classification:pinnacle (tower of building)",
+      "classification:reddish orange color"
+    ],
+    "declined": [
+      "classification:religious building",
+      "classification:building",
+      "classification:Skyline (day)",
+      "classification:city",
+      "classification:church tower",
+      "classification:tower",
+      "classification:reddish orange color"
+    ],
+    "values": [
+      "user:travel site sample",
+      "classification:pinnacle (tower of building)"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "religious building",
+      "building",
+      "Skyline (day)",
+      "church tower",
+      "tower",
+      "city",
+      "pinnacle (tower of building)",
+      "reddish orange color"
+    ],
+    "colors": {
+      "lightMuted": "#acbfcf",
+      "darkMuted": "#654b50",
+      "lightVibrant": "#abc3dc",
+      "vibrant": "#cca494",
+      "muted": "#6c87a6",
+      "darkVibrant": "#59382a"
+    },
+    "status": "complete"
+  },
+  "fileSize": 634779,
+  "name": "Italy-Article-Image",
+  "lastModified": "2020-01-16T09:02:07.188Z",
+  "status": "ready"
+}

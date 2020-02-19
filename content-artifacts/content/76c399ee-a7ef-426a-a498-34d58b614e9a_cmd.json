@@ -1,0 +1,53 @@
+{
+  "rev": "9-d2345b0eecbfea0fd847c5d4b61c0148",
+  "thumbnail": {
+    "id": "ac6588e8-1a66-402e-a515-91df9e1e0265"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:23.169Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample",
+    "user:Nature",
+    "user:Beach",
+    "user:Hiking"
+  ],
+  "elements": {
+    "ImageTitle": {
+      "elementType": "text",
+      "value": "Landscape of Dubrovnik"
+    },
+    "galleryImage": {
+      "mode": "shared",
+      "profiles": [
+        "a03c07db-709e-48f4-a3a1-4feb3ff2540e"
+      ],
+      "asset": {
+        "id": "ac6588e8-1a66-402e-a515-91df9e1e0265"
+      },
+      "elementType": "image"
+    },
+    "imageDescription": {
+      "elementType": "formattedtext",
+      "value": "<p>Dubrovnik, known as the Pearl of the Adriatic, is a stunning place with world-class beaches, startling architecture, and hiking routes that offer impressive views on the famous nature of Croatia.</p>\n"
+    },
+    "imageCountryValue": {
+      "categoryIds": [
+        "cf94dc14-5057-4b61-b19e-55915aa5a56b"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "Croatia Gallery Image",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+  "id": "76c399ee-a7ef-426a-a498-34d58b614e9a",
+  "lastModified": "2020-01-16T09:02:23.169Z",
+  "systemModified": "2020-01-16T09:02:23.169Z",
+  "status": "ready"
+}

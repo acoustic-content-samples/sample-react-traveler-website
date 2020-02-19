@@ -1,0 +1,87 @@
+@import '~assets/styles/variables';
+
+$card-margin: 10px;
+$card-square-size: 250px;
+$card-width: $card-square-size + $card-margin * 2;
+
+.gallery {
+  padding: $main-padding;
+  @media screen and (max-width: 1024px) {
+    padding: $main-padding-moblie;
+  }
+
+  .filter {
+    display: flex;
+    margin-bottom: 1rem;
+    align-items: baseline;
+
+    @media screen and (max-width: 800px) {
+      flex-direction: column;
+    }
+
+    .actions {
+      display: flex;
+    }
+
+    .chips {
+      margin-left: 0.5rem;
+
+      & > div {
+        margin: 0.1rem;
+        border-radius: 5px;
+      }
+    }
+  }
+
+  .cardsWrapper {
+    margin: 0 auto;
+    width: $card-width;
+    @media screen and (min-width: 554px) {
+      width: $card-width * 2;
+    }
+    @media screen and (min-width: 841px) {
+      width: $card-width * 3;
+    }
+    @media screen and (min-width: 1325px) {
+      width: $card-width * 4;
+    }
+    @media screen and (min-width: 1663px) {
+      width: $card-width * 5;
+    }
+    @media screen and (min-width: 2000px) {
+      width: $card-width * 6;
+    }
+    .cards {
+      display: flex;
+      flex-wrap: wrap;
+      margin: 0 -$card-margin;
+
+      .card {
+        margin: $card-margin;
+        position: relative;
+        cursor: pointer;
+        min-width: $card-square-size;
+        min-height: $card-square-size;
+
+        img {
+          border-radius: 10px;
+        }
+
+        .imageCaption {
+          position: absolute;
+          bottom: 1rem;
+          left: 1rem;
+
+          span {
+            padding: 5px;
+            color: white;
+            background-color: rgba(33, 33, 33, 0.4);
+            border-radius: 5px;
+            font-size: $main-font-size;
+            font-weight: bold;
+          }
+        }
+      }
+    }
+  }
+}

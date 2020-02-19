@@ -1,0 +1,21 @@
+{
+  "id": "43d75244-e495-48a6-b3c3-730b8136cb93",
+  "rev": "9-29a418d82ecac10350c00108d53f7084",
+  "name": "List order",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "creator": "Sergii Permiakov",
+  "classification": "taxonomy",
+  "firstClassFor": [
+    ""
+  ],
+  "namePath": [
+    "List order"
+  ],
+  "links": {
+    "self": {
+      "href": "/authoring/v1/categories/43d75244-e495-48a6-b3c3-730b8136cb93"
+    }
+  },
+  "created": "2020-01-16T09:02:01.816Z",
+  "lastModified": "2020-01-16T09:02:01.816Z"
+}

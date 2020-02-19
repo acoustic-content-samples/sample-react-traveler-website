@@ -1,0 +1,51 @@
+{
+  "rev": "9-71fd157d18ed36c5f3dd706d6bd4a826",
+  "thumbnail": {
+    "id": "f26874e4-b469-426c-9433-2d7c4c0fa23c"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:23.771Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample",
+    "user:Sights"
+  ],
+  "elements": {
+    "ImageTitle": {
+      "elementType": "text",
+      "value": "Golden Gate Bridge"
+    },
+    "galleryImage": {
+      "mode": "shared",
+      "profiles": [
+        "a03c07db-709e-48f4-a3a1-4feb3ff2540e"
+      ],
+      "asset": {
+        "id": "f26874e4-b469-426c-9433-2d7c4c0fa23c"
+      },
+      "elementType": "image"
+    },
+    "imageDescription": {
+      "elementType": "formattedtext",
+      "value": "<p>Golden Gate Bridge is an iconic construction in California that connects the city of San Francisco and Marin County. It is 1.7 miles (2.7 km) long and 90 feet (27.5 meters) wide and carries about 112,000 vehicles per day.</p>\n"
+    },
+    "imageCountryValue": {
+      "categoryIds": [
+        "ed7ce7fa-2f75-4864-87cc-3c2199bcee31"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "United States Gallery Image",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+  "id": "c1225960-cc9b-4494-8fcb-40fa552845e1",
+  "lastModified": "2020-01-16T09:02:23.771Z",
+  "systemModified": "2020-01-16T09:02:23.771Z",
+  "status": "ready"
+}

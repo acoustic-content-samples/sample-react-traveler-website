@@ -1,0 +1,51 @@
+{
+  "rev": "9-6ec3df03b3a2bbddc6ab62357be9018f",
+  "thumbnail": {
+    "id": "9fbf5303-1b8d-4d9e-88f4-5da3fd950172"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:24.427Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:City",
+    "user:Travel Site Sample"
+  ],
+  "elements": {
+    "ImageTitle": {
+      "elementType": "text",
+      "value": "Canals of Venice"
+    },
+    "galleryImage": {
+      "mode": "shared",
+      "profiles": [
+        "a03c07db-709e-48f4-a3a1-4feb3ff2540e"
+      ],
+      "asset": {
+        "id": "9fbf5303-1b8d-4d9e-88f4-5da3fd950172"
+      },
+      "elementType": "image"
+    },
+    "imageDescription": {
+      "elementType": "formattedtext",
+      "value": "<p>Italy’s most picturesque city, <em>Venice</em>, is located on a set of 118 small islands that are separated by canals and connected by 417 bridges (72 of which are private).</p>\n"
+    },
+    "imageCountryValue": {
+      "categoryIds": [
+        "07e62dc8-e25c-49e4-9253-ac4f76717142"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "Italy Gallery Image",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+  "id": "d6f95a8a-4b8d-47d5-a58c-8a7d38f2c8a6",
+  "lastModified": "2020-01-16T09:02:24.427Z",
+  "systemModified": "2020-01-16T09:02:24.427Z",
+  "status": "ready"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d46d3539-6d9e-43e9-bfc6-b35a27cc4f03",
+  "rev": "9-413965e24ee36621c9c23d8838333bd1",
+  "name": "Social Media Element",
+  "classification": "content-type",
+  "kind": [
+    "embedded",
+    "standalone"
+  ],
+  "contentThumbnail": {
+    "imageElement": "socialMediaIcon",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [
+    "Travel Site Sample"
+  ],
+  "elements": [
+    {
+      "elementType": "image",
+      "label": "Social Media Icon",
+      "key": "socialMediaIcon",
+      "required": false,
+      "acceptType": [
+        "jpg",
+        "jpeg",
+        "png",
+        "gif",
+        "svg"
+      ]
+    },
+    {
+      "elementType": "link",
+      "label": "Social Media Link",
+      "key": "socialMediaLink",
+      "required": false
+    }
+  ],
+  "icon": "link"
+}

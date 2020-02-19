@@ -1,0 +1,17 @@
+@import '~assets/styles/variables';
+
+.search {
+  padding: $main-padding;
+  @media screen and (max-width: 1024px) {
+    padding: $main-padding-moblie;
+  }
+
+  .results > div {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .noResults {
+    text-align: center;
+  }
+}

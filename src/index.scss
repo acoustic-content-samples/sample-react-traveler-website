@@ -1,0 +1,24 @@
+@import '~assets/styles/colors';
+
+@font-face {
+  font-family: 'Anton';
+  src: local('Anton'), url(./assets/fonts/Anton.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto-Regular';
+  src: local('Roboto-Regular'),
+    url(./assets/fonts/Roboto-Regular.ttf) format('truetype');
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto-Regular';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: $main;
+}
+
+* {
+  box-sizing: border-box;
+}

@@ -1,0 +1,112 @@
+{
+  "fileName": "Japan-Lead-Image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 578
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "1858ff2b-8d71-46e7-8bfd-036072bd9b3f",
+  "path": "/dxdam/f6/f6295432-99b8-4439-8496-7fb7f191eded/Japan-Lead-Image.png",
+  "digest": "J8wImZK8eDYSUa/fImEIsg==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=fb926b26-a3d7-4236-92ca-75f48cfdf343&a=f6295432-99b8-4439-8496-7fb7f191eded",
+      "source": "/authoring/v1/resources/fb926b26-a3d7-4236-92ca-75f48cfdf343"
+    }
+  },
+  "id": "f6295432-99b8-4439-8496-7fb7f191eded",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:16.966Z",
+  "profileRenditions": [
+    {
+      "profileId": "59414bcf-8ccb-4809-9117-47b7a64864a0",
+      "key": "card",
+      "transform": {
+        "scale": 0.43252,
+        "crop": {
+          "x": 290,
+          "y": 0,
+          "width": 250,
+          "height": 250
+        }
+      },
+      "uri": "/authoring/v1/resources/fb926b26-a3d7-4236-92ca-75f48cfdf343?resize=830px:250px&crop=250:250;290,0",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "rev": "14-f1e7424571dd66bbe7874453fae1ff9b",
+  "altText": "An authentic store in one of Tokyo's small towns.",
+  "resource": "fb926b26-a3d7-4236-92ca-75f48cfdf343",
+  "created": "2020-01-16T09:02:16.018Z",
+  "profiles": [
+    "59414bcf-8ccb-4809-9117-47b7a64864a0"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:display window",
+      "classification:window",
+      "classification:framework",
+      "classification:supporting structure",
+      "classification:thriftshop",
+      "classification:shop",
+      "classification:retail store",
+      "classification:building",
+      "classification:department store",
+      "classification:indoors"
+    ],
+    "declined": [],
+    "values": [
+      "user:travel site sample",
+      "classification:display window",
+      "classification:window",
+      "classification:framework",
+      "classification:supporting structure",
+      "classification:thriftshop",
+      "classification:shop",
+      "classification:retail store",
+      "classification:building",
+      "classification:department store",
+      "classification:indoors"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "display window",
+      "window",
+      "framework",
+      "supporting structure",
+      "thriftshop",
+      "shop",
+      "retail store",
+      "building",
+      "department store",
+      "indoors"
+    ],
+    "colors": {
+      "lightMuted": "#c5b1a6",
+      "darkMuted": "#334b57",
+      "lightVibrant": "#ecbd9c",
+      "vibrant": "#d14b39",
+      "muted": "#8e7c73",
+      "darkVibrant": "#6c4532"
+    },
+    "status": "complete"
+  },
+  "fileSize": 597754,
+  "name": "Japan-Lead-Image.png",
+  "lastModified": "2020-01-16T09:02:16.966Z",
+  "status": "ready"
+}

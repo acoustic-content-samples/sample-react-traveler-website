@@ -1,0 +1,87 @@
+{
+  "rev": "11-44204886492d533e86ca635ca1d4f42d",
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:23.177Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:Travel Site Sample"
+  ],
+  "elements": {
+    "websiteTitle": {
+      "elementType": "text",
+      "value": "Discover the world's best vacation destinations"
+    },
+    "imageSliderSettings": {
+      "elementType": "group",
+      "value": {
+        "numberOfListItems": {
+          "elementType": "number",
+          "value": 3
+        },
+        "DisplayTime": {
+          "elementType": "number",
+          "value": 5
+        },
+        "contentTypeToDisplay": {
+          "elementType": "optionselection",
+          "value": {
+            "selection": "Gallery Image"
+          }
+        },
+        "displayOrder": {
+          "elementType": "optionselection",
+          "value": {
+            "selection": "Most Recent"
+          }
+        }
+      },
+      "typeRef": {
+        "id": "0b48a3c4-cc2f-424f-86bb-1b83292ee57c"
+      }
+    },
+    "missionStatementText": {
+      "elementType": "formattedtext",
+      "value": "<p>At the Traveler, we believe in the uniting power of traveling. Experience gained from the journey unites people over the globe since even the most ordinary and short trip helps you to re-discover yourself, educating on different cultures, lifestyles, and other peoples&#39; points of view.<br />\nThe mission of the Traveler is to share this experience with everyone so that all of us could become a bit closer.</p>\n"
+    },
+    "articlePreviewsSettings": {
+      "elementType": "group",
+      "value": {
+        "numberOfListItems": {
+          "elementType": "number",
+          "value": 6
+        },
+        "ArticleDisplayOrder": {
+          "elementType": "optionselection",
+          "value": {
+            "selection": "Most Recent"
+          }
+        },
+        "contentTypeToDisplay": {
+          "elementType": "optionselection",
+          "value": {
+            "selection": "Travel Article"
+          }
+        }
+      },
+      "typeRef": {
+        "id": "58363171-9f26-4dce-a556-eaf89a4d98b8"
+      }
+    },
+    "missionStatementTitle": {
+      "elementType": "text",
+      "value": "Our Mission"
+    }
+  },
+  "name": "Home Information",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "7d004956-86e6-4d49-9d91-5defe67b8bbe",
+  "id": "8b21b33d-f217-45a7-851c-a9c050228674",
+  "lastModified": "2020-01-16T09:02:23.177Z",
+  "systemModified": "2020-01-16T09:02:23.177Z",
+  "status": "ready"
+}

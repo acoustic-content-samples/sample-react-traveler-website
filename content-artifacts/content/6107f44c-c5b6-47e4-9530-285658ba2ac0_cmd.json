@@ -1,0 +1,52 @@
+{
+  "rev": "9-e4b1864b3c8580f154fa1d94d3fb1345",
+  "thumbnail": {
+    "id": "291c4ab0-8a67-45be-b2c8-f96fedcb4446"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:22.552Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:Travel Site Sample",
+    "user:Nature",
+    "user:Hiking"
+  ],
+  "elements": {
+    "ImageTitle": {
+      "elementType": "text",
+      "value": "The Inca Trail of Machu Picchu"
+    },
+    "galleryImage": {
+      "mode": "shared",
+      "profiles": [
+        "a03c07db-709e-48f4-a3a1-4feb3ff2540e"
+      ],
+      "asset": {
+        "id": "291c4ab0-8a67-45be-b2c8-f96fedcb4446"
+      },
+      "elementType": "image"
+    },
+    "imageDescription": {
+      "elementType": "formattedtext",
+      "value": "<p>The most popular trek to Machu Picchu is the Inca Trail, which exactly repeats original pathways that Inca took from the Sacred Valley to Machu Picchu. This track is limited to 500 trekkers a day (300 of which are reserved for guides), as the government has concerns over the impact of tourism on the Historic Sanctuary of Machu Picchu.</p>\n"
+    },
+    "imageCountryValue": {
+      "categoryIds": [
+        "a26366ee-c584-4c2f-9147-3b92664792b0"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "Peru Gallery Image",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+  "id": "6107f44c-c5b6-47e4-9530-285658ba2ac0",
+  "lastModified": "2020-01-16T09:02:22.552Z",
+  "systemModified": "2020-01-16T09:02:22.552Z",
+  "status": "ready"
+}

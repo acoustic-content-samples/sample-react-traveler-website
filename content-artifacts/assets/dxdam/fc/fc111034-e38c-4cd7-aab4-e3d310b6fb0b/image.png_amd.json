@@ -1,0 +1,86 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1280
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "3a481dfb-c738-425c-99a9-751517b66ff6",
+  "path": "/dxdam/fc/fc111034-e38c-4cd7-aab4-e3d310b6fb0b/image.png",
+  "digest": "WT/tssXOR8dvH1qC6T8Dkw==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=e328e3a0-2c9c-4cfc-8969-2513cbde15f4&a=09a014ea-1018-4b8e-9245-e7a8a0b5b9f0",
+      "source": "/authoring/v1/resources/e328e3a0-2c9c-4cfc-8969-2513cbde15f4"
+    }
+  },
+  "id": "09a014ea-1018-4b8e-9245-e7a8a0b5b9f0",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:16.901Z",
+  "rev": "14-69a413fc31ab949fd4633ef347ff18b8",
+  "altText": "Huge waterfall with haze from flowing water.",
+  "resource": "e328e3a0-2c9c-4cfc-8969-2513cbde15f4",
+  "created": "2020-01-16T09:02:15.878Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:Waterfalls",
+      "classification:nature",
+      "classification:branch water",
+      "classification:water",
+      "classification:food",
+      "classification:slope",
+      "classification:blue color",
+      "classification:sea green color"
+    ],
+    "declined": [
+      "classification:Waterfalls",
+      "classification:nature",
+      "classification:branch water",
+      "classification:water",
+      "classification:food",
+      "classification:slope",
+      "classification:blue color",
+      "classification:sea green color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "Waterfalls",
+      "nature",
+      "branch water",
+      "water",
+      "food",
+      "slope",
+      "blue color",
+      "sea green color"
+    ],
+    "colors": {
+      "lightMuted": "#bbc6cd",
+      "darkMuted": "#295759",
+      "lightVibrant": "#a3d5cf",
+      "vibrant": "#34746c",
+      "muted": "#718b97",
+      "darkVibrant": "#0c4c4c"
+    },
+    "status": "complete"
+  },
+  "fileSize": 2633858,
+  "name": "Falls",
+  "lastModified": "2020-01-16T09:02:16.901Z",
+  "status": "ready"
+}

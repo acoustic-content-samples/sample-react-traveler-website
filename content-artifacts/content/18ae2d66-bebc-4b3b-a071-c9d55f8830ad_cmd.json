@@ -1,0 +1,34 @@
+{
+  "rev": "9-18d6b1381cd1ec235b49ef8179f4b423",
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:21.931Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample"
+  ],
+  "elements": {
+    "regionTitle": {
+      "elementType": "text",
+      "value": "Africa"
+    },
+    "countryList": {
+      "categoryIds": [
+        "f47689e6-66aa-48d9-971a-fc9abdab26ce",
+        "e7585579-d9cd-4837-a089-5a8dd8779a52"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "Africa",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "9f077e72-352d-41a3-b2bb-b3857e6bc783",
+  "id": "18ae2d66-bebc-4b3b-a071-c9d55f8830ad",
+  "lastModified": "2020-01-16T09:02:21.931Z",
+  "systemModified": "2020-01-16T09:02:21.931Z",
+  "status": "ready"
+}

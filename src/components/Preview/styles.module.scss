@@ -1,0 +1,47 @@
+@import '~assets/styles/colors';
+@import '~assets/styles/variables';
+
+.preview {
+  display: flex;
+  flex: 1 0 50%;
+  margin: 20px 0;
+  @media screen and (min-width: 1920px) {
+    flex: 1 0 33%;
+    max-width: 33%;
+  }
+  @media screen and (max-width: 767px) {
+    flex: 1 0 100%;
+  }
+
+  & > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size: $text-font-size;
+
+    &:not(:first-of-type) {
+      margin-left: 15px;
+    }
+
+    strong {
+      font-size: 1.25em;
+      cursor: pointer;
+    }
+
+    .info {
+      cursor: pointer;
+    }
+
+    .details {
+      font-size: $main-font-size;
+      color: $font-secondary;
+    }
+  }
+
+  img {
+    border-radius: 5px;
+    cursor: pointer;
+    height: 130px;
+    width: 130px;
+  }
+}

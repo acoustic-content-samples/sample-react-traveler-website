@@ -1,0 +1,86 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1280
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "1d797f5d-e156-49c6-9853-9390935063be",
+  "path": "/dxdam/6b/6be355ea-dac3-4e48-9e21-3e0106a2e9dd/image.png",
+  "digest": "8Q6mCY/mO10aLwjPK5gMeA==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=7194fc63-1e45-4e69-aa10-110dbb88097a&a=26231a0a-2af1-488d-a41f-a5a51226c156",
+      "source": "/authoring/v1/resources/7194fc63-1e45-4e69-aa10-110dbb88097a"
+    }
+  },
+  "id": "26231a0a-2af1-488d-a41f-a5a51226c156",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:12.191Z",
+  "rev": "14-fb99425212cadf4f8c0edc18711c5a96",
+  "altText": "A group of people sitting in a cafe in Buenos Aires.",
+  "resource": "7194fc63-1e45-4e69-aa10-110dbb88097a",
+  "created": "2020-01-16T09:02:11.246Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:cafe",
+      "classification:restaurant",
+      "classification:building",
+      "classification:estaminet (cafe)",
+      "classification:shop",
+      "classification:retail store",
+      "classification:brasserie",
+      "classification:reddish brown color"
+    ],
+    "declined": [
+      "classification:cafe",
+      "classification:restaurant",
+      "classification:building",
+      "classification:estaminet (cafe)",
+      "classification:brasserie",
+      "classification:reddish brown color"
+    ],
+    "values": [
+      "user:travel site sample",
+      "classification:shop",
+      "classification:retail store"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "cafe",
+      "restaurant",
+      "building",
+      "estaminet (cafe)",
+      "shop",
+      "retail store",
+      "brasserie",
+      "reddish brown color"
+    ],
+    "colors": {
+      "lightMuted": "#b19a80",
+      "darkMuted": "#4e3e34",
+      "lightVibrant": "#d4a7a4",
+      "vibrant": "#9c4e49",
+      "muted": "#998164",
+      "darkVibrant": "#4c4096"
+    },
+    "status": "complete"
+  },
+  "fileSize": 962255,
+  "name": "Argentina-Article-Image",
+  "lastModified": "2020-01-16T09:02:12.191Z",
+  "status": "ready"
+}

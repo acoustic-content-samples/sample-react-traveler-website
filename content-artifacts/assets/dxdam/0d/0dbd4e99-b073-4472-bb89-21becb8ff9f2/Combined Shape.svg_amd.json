@@ -1,0 +1,46 @@
+{
+  "fileName": "Combined Shape.svg",
+  "metadata": {},
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "638b6062-878b-4e4f-9a41-721d85312001",
+  "path": "/dxdam/0d/0dbd4e99-b073-4472-bb89-21becb8ff9f2/Combined Shape.svg",
+  "digest": "X47eQpLZHac6ZNVwCVfdnQ==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=de23909a-f437-4675-b13a-e054dbf07a5b&a=0dbd4e99-b073-4472-bb89-21becb8ff9f2",
+      "source": "/authoring/v1/resources/de23909a-f437-4675-b13a-e054dbf07a5b"
+    }
+  },
+  "id": "0dbd4e99-b073-4472-bb89-21becb8ff9f2",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:06.415Z",
+  "rev": "9-3961ea3e2f2d89b17bc953cd05cc3688",
+  "altText": "",
+  "resource": "de23909a-f437-4675-b13a-e054dbf07a5b",
+  "created": "2020-01-16T09:02:06.411Z",
+  "mediaType": "image/svg+xml",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "declined": [],
+    "values": [
+      "user:Travel Site Sample"
+    ],
+    "analysis": "none"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "status": "none"
+  },
+  "fileSize": 1747,
+  "name": "Combined Shape.svg",
+  "lastModified": "2020-01-16T09:02:06.415Z",
+  "status": "ready"
+}

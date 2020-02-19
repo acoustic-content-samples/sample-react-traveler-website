@@ -1,0 +1,51 @@
+{
+  "rev": "9-ad582db928928a3610f914a830f10151",
+  "thumbnail": {
+    "id": "fd3cd111-824b-4414-b803-c5142e60699c"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:24.611Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample",
+    "user:Sights"
+  ],
+  "elements": {
+    "ImageTitle": {
+      "elementType": "text",
+      "value": "Parliament Hill"
+    },
+    "galleryImage": {
+      "mode": "shared",
+      "profiles": [
+        "a03c07db-709e-48f4-a3a1-4feb3ff2540e"
+      ],
+      "asset": {
+        "id": "fd3cd111-824b-4414-b803-c5142e60699c"
+      },
+      "elementType": "image"
+    },
+    "imageDescription": {
+      "elementType": "formattedtext",
+      "value": "<p>Opened on June 6, 1866, Parliament Hill is the complex of 3 buildings in a Gothic Revival style with the Centre Block that houses the Canadian Parliament (the Senate and House of Commons) and connects it with the Library of Parliament and the Peace Tower, and the East and West blocks, which are administrative buildings.</p>\n"
+    },
+    "imageCountryValue": {
+      "categoryIds": [
+        "77abce3f-7a13-45ef-b1ce-11dbd11b61ff"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "Canada Gallery Image",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+  "id": "ecb76589-ab8f-46b9-a8e0-b51dfeeab6f7",
+  "lastModified": "2020-01-16T09:02:24.611Z",
+  "systemModified": "2020-01-16T09:02:24.611Z",
+  "status": "ready"
+}

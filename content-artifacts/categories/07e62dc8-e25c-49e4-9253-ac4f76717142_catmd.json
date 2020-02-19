@@ -1,0 +1,32 @@
+{
+  "id": "07e62dc8-e25c-49e4-9253-ac4f76717142",
+  "rev": "9-d666519487c4085fc406ec6ee2ff5a0a",
+  "name": "Italy",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "creator": "Sergii Permiakov",
+  "classification": "category",
+  "taxonomy": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "parent": "ef2c6a7b-2f72-42c4-a35a-6599b530f056",
+  "ancestorIds": [
+    "478f06ce-90a4-41df-95c3-2b25285d4791",
+    "ef2c6a7b-2f72-42c4-a35a-6599b530f056"
+  ],
+  "namePath": [
+    "Locations",
+    "Europe",
+    "Italy"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/07e62dc8-e25c-49e4-9253-ac4f76717142"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/ef2c6a7b-2f72-42c4-a35a-6599b530f056"
+    }
+  },
+  "created": "2020-01-16T09:02:02.380Z",
+  "lastModified": "2020-01-16T09:02:02.380Z"
+}

@@ -1,0 +1,83 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1901,
+    "height": 2376
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "227a2e8c-565c-42d0-88ae-9fff5ec65a78",
+  "path": "/dxdam/f3/f392c045-fa64-44d8-8719-0eac9697f89a/image.png",
+  "digest": "uOVetnrJJP73x+Dp1AyU+A==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=ddd57b6a-262a-4a9c-b758-48eab3904029&a=8ad4934d-b5a8-49cf-9d9c-8038d4d965ac",
+      "source": "/authoring/v1/resources/ddd57b6a-262a-4a9c-b758-48eab3904029"
+    }
+  },
+  "id": "8ad4934d-b5a8-49cf-9d9c-8038d4d965ac",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:16.827Z",
+  "rev": "14-d6c09588184fb75d852e6fd79a08c838",
+  "altText": "The historical street of one of the cities of Croatia with a tram track in the center of the road.",
+  "resource": "ddd57b6a-262a-4a9c-b758-48eab3904029",
+  "created": "2020-01-16T09:02:15.714Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:Fleet Street building",
+      "classification:medium",
+      "classification:street",
+      "classification:road",
+      "classification:building",
+      "classification:reddish orange color",
+      "classification:brick red color"
+    ],
+    "declined": [
+      "classification:Fleet Street building",
+      "classification:medium",
+      "classification:street",
+      "classification:road",
+      "classification:building",
+      "classification:reddish orange color",
+      "classification:brick red color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "Fleet Street building",
+      "medium",
+      "street",
+      "road",
+      "building",
+      "reddish orange color",
+      "brick red color"
+    ],
+    "colors": {
+      "lightMuted": "#d1a4a1",
+      "darkMuted": "#5c2c2c",
+      "lightVibrant": "#f5cbd1",
+      "vibrant": "#ec7c5c",
+      "muted": "#aa6a56",
+      "darkVibrant": "#145c84"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1895888,
+  "name": "Croatia-Article-Image1",
+  "lastModified": "2020-01-16T09:02:16.827Z",
+  "status": "ready"
+}

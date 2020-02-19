@@ -1,0 +1,107 @@
+{
+  "fileName": "Peru-Lead-Image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 578
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "8ca46cd4-eed8-425b-ae9d-2b4483bb99b3",
+  "path": "/dxdam/3a/3a835c8d-eaa7-4dde-88e2-34b7980a3f43/Peru-Lead-Image.png",
+  "digest": "oTtx2zsJMgbzY3lda1HyhA==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=474ec64c-4b62-4e96-abd1-abf85b10891e&a=3a835c8d-eaa7-4dde-88e2-34b7980a3f43",
+      "source": "/authoring/v1/resources/474ec64c-4b62-4e96-abd1-abf85b10891e"
+    }
+  },
+  "id": "3a835c8d-eaa7-4dde-88e2-34b7980a3f43",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:09.031Z",
+  "profileRenditions": [
+    {
+      "profileId": "59414bcf-8ccb-4809-9117-47b7a64864a0",
+      "key": "card",
+      "transform": {
+        "scale": 0.43252,
+        "crop": {
+          "x": 290,
+          "y": 0,
+          "width": 250,
+          "height": 250
+        }
+      },
+      "uri": "/authoring/v1/resources/474ec64c-4b62-4e96-abd1-abf85b10891e?resize=830px:250px&crop=250:250;290,0",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "rev": "14-b60602ed96a52cc5f6eed47597a287ee",
+  "altText": "Historic landmarks on the mountain in Peru.",
+  "resource": "474ec64c-4b62-4e96-abd1-abf85b10891e",
+  "created": "2020-01-16T09:02:08.090Z",
+  "profiles": [
+    "59414bcf-8ccb-4809-9117-47b7a64864a0"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:precipice",
+      "classification:nature",
+      "classification:natural elevation",
+      "classification:crag",
+      "classification:mountain",
+      "classification:massif",
+      "classification:slope",
+      "classification:greenishness color"
+    ],
+    "declined": [
+      "classification:precipice",
+      "classification:nature",
+      "classification:natural elevation",
+      "classification:crag",
+      "classification:mountain",
+      "classification:massif",
+      "classification:slope",
+      "classification:greenishness color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "precipice",
+      "nature",
+      "natural elevation",
+      "crag",
+      "mountain",
+      "massif",
+      "slope",
+      "greenishness color"
+    ],
+    "colors": {
+      "lightMuted": "#c0b0ac",
+      "darkMuted": "#2f4148",
+      "lightVibrant": "#93c7e5",
+      "vibrant": "#3094ce",
+      "muted": "#94946a",
+      "darkVibrant": "#1b5272"
+    },
+    "status": "complete"
+  },
+  "fileSize": 770538,
+  "name": "Peru-Lead-Image.png",
+  "lastModified": "2020-01-16T09:02:09.031Z",
+  "status": "ready"
+}

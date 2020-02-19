@@ -1,0 +1,51 @@
+{
+  "rev": "9-f79a890281e529ff3c39607e81c14382",
+  "thumbnail": {
+    "id": "7922451d-8c10-4bc7-a196-ad15d0b1c80a"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:22.718Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:Travel Site Sample",
+    "user:Nature"
+  ],
+  "elements": {
+    "ImageTitle": {
+      "elementType": "text",
+      "value": "Iguazu Falls"
+    },
+    "galleryImage": {
+      "mode": "shared",
+      "profiles": [
+        "a03c07db-709e-48f4-a3a1-4feb3ff2540e"
+      ],
+      "asset": {
+        "id": "7922451d-8c10-4bc7-a196-ad15d0b1c80a"
+      },
+      "elementType": "image"
+    },
+    "imageDescription": {
+      "elementType": "formattedtext",
+      "value": "<p>Iguazu Falls are waterfalls of the Iguazu River, flowing along the border of the Argentine province of Misiones and the Brazilian state of Paraná. The waterfall system comprises 275 falls with the majority of the falls to be about 64 meteres in height. The most impressive one is the Devil’s Throat a U-shaped, 82 meters high, 150 meters wide and 700 meters long waterfall.</p>\n"
+    },
+    "imageCountryValue": {
+      "categoryIds": [
+        "c4092e2d-bb70-48ab-bdbd-2c6e86d335b9"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "Argentina Gallery Image",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+  "id": "649f2dd2-1355-42e7-9a95-84350e3ce1e4",
+  "lastModified": "2020-01-16T09:02:22.718Z",
+  "systemModified": "2020-01-16T09:02:22.718Z",
+  "status": "ready"
+}

@@ -1,0 +1,129 @@
+{
+  "fileName": "Croatia-Gallery.png",
+  "metadata": {
+    "width": 1920,
+    "height": 3468
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "20f690e4-f1a2-426b-8be2-669e8f38aadf",
+  "path": "/dxdam/ac/ac6588e8-1a66-402e-a515-91df9e1e0265/Croatia-Gallery.png",
+  "digest": "S1MLl/TXPQ6KilnXDjiddQ==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=1bbc820a-5323-4f5e-9751-14c0a3150f4f&a=ac6588e8-1a66-402e-a515-91df9e1e0265",
+      "source": "/authoring/v1/resources/1bbc820a-5323-4f5e-9751-14c0a3150f4f"
+    }
+  },
+  "id": "ac6588e8-1a66-402e-a515-91df9e1e0265",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:14.492Z",
+  "profileRenditions": [
+    {
+      "profileId": "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "key": "squareCard",
+      "transform": {
+        "scale": 0.1302,
+        "crop": {
+          "x": 0,
+          "y": 101,
+          "width": 250,
+          "height": 250
+        }
+      },
+      "uri": "/authoring/v1/resources/1bbc820a-5323-4f5e-9751-14c0a3150f4f?resize=250px:452px&crop=250:250;0,101",
+      "width": 250,
+      "height": 250
+    },
+    {
+      "profileId": "a03c07db-709e-48f4-a3a1-4feb3ff2540e",
+      "key": "rectangleCard",
+      "transform": {
+        "scale": 1,
+        "crop": {
+          "x": 0,
+          "y": 1453,
+          "width": 1920,
+          "height": 562
+        }
+      },
+      "uri": "/authoring/v1/resources/1bbc820a-5323-4f5e-9751-14c0a3150f4f?resize=1920px:3468px&crop=1920:562;0,1453",
+      "width": 1920,
+      "height": 562
+    }
+  ],
+  "rev": "14-b2051e37a2c006e2e542c8671237e402",
+  "altText": "Highlands in Croatia with a small bay and buildings near the water.",
+  "resource": "1bbc820a-5323-4f5e-9751-14c0a3150f4f",
+  "created": "2020-01-16T09:02:13.244Z",
+  "profiles": [
+    "a03c07db-709e-48f4-a3a1-4feb3ff2540e"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:arroyo (stream)",
+      "classification:valley",
+      "classification:nature",
+      "classification:riverbank",
+      "classification:slope",
+      "classification:waterside",
+      "classification:shore",
+      "classification:hillside",
+      "classification:natural elevation",
+      "classification:sea green color"
+    ],
+    "declined": [
+      "classification:arroyo (stream)",
+      "classification:valley",
+      "classification:nature",
+      "classification:riverbank",
+      "classification:slope",
+      "classification:waterside",
+      "classification:shore",
+      "classification:hillside",
+      "classification:natural elevation",
+      "classification:sea green color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "arroyo (stream)",
+      "valley",
+      "nature",
+      "riverbank",
+      "slope",
+      "waterside",
+      "shore",
+      "hillside",
+      "natural elevation",
+      "sea green color"
+    ],
+    "colors": {
+      "lightMuted": "#bab18e",
+      "darkMuted": "#564a2e",
+      "lightVibrant": "#c6ddee",
+      "vibrant": "#839026",
+      "muted": "#af9b80",
+      "darkVibrant": "#667219"
+    },
+    "status": "complete"
+  },
+  "fileSize": 4139827,
+  "name": "Croatia-Gallery.png",
+  "lastModified": "2020-01-16T09:02:14.492Z",
+  "status": "ready"
+}

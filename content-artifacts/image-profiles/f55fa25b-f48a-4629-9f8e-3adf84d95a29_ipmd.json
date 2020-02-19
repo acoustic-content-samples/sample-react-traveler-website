@@ -1,0 +1,29 @@
+{
+  "id": "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+  "rev": "9-1c8e2744104def05fdf80f4e328eb3b0",
+  "name": "Country Image Profile",
+  "classification": "image-profile",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "created": "2019-12-17T12:00:53.470Z",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "lastModified": "2020-01-16T09:02:01.153Z",
+  "tags": [
+    "travel site sample"
+  ],
+  "dimensions": [
+    {
+      "label": "Country Card",
+      "key": "countryCard",
+      "width": 1570,
+      "height": 105,
+      "description": "This rendition is used to display a country image inside Country page."
+    },
+    {
+      "label": "Destinations Card",
+      "key": "destinationsCard",
+      "width": 370,
+      "height": 275,
+      "description": "This rendition is used to display country image in Destinations page."
+    }
+  ]
+}

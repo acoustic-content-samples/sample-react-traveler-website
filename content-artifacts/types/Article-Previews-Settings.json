@@ -1,0 +1,55 @@
+{
+  "id": "58363171-9f26-4dce-a556-eaf89a4d98b8",
+  "rev": "9-04582b8e3fd354176c796e564000adb3",
+  "name": "Article Previews Settings",
+  "classification": "content-type",
+  "kind": [
+    "embedded"
+  ],
+  "description": "",
+  "status": "ready",
+  "tags": [
+    "Travel Site Sample"
+  ],
+  "elements": [
+    {
+      "elementType": "optionselection",
+      "options": [
+        {
+          "label": "Gallery Image",
+          "selection": "Gallery Image"
+        },
+        {
+          "label": "Travel Article",
+          "selection": "Travel Article"
+        }
+      ],
+      "label": "Content Type to Display",
+      "key": "contentTypeToDisplay"
+    },
+    {
+      "elementType": "optionselection",
+      "options": [
+        {
+          "label": "Most Recent",
+          "selection": "Most Recent"
+        },
+        {
+          "label": "Least Recent",
+          "selection": "Least Recent"
+        }
+      ],
+      "label": "Article Display Order",
+      "key": "ArticleDisplayOrder"
+    },
+    {
+      "elementType": "number",
+      "fieldType": "integer",
+      "label": "Number of list items",
+      "key": "numberOfListItems",
+      "minimum": 1,
+      "maximum": 12,
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "rev": "9-23e53b97f188c6d05a011a987d19352b",
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:22.245Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample"
+  ],
+  "elements": {
+    "regionTitle": {
+      "elementType": "text",
+      "value": "Asia"
+    },
+    "countryList": {
+      "categoryIds": [
+        "afff9e99-d059-42c2-84e3-ac59e1ea371a",
+        "62bc29c6-3b62-4820-b322-20072f1d606e"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "Asia",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "9f077e72-352d-41a3-b2bb-b3857e6bc783",
+  "id": "34ce6eb6-dcbe-452d-8996-1d36fdfca307",
+  "lastModified": "2020-01-16T09:02:22.245Z",
+  "systemModified": "2020-01-16T09:02:22.245Z",
+  "status": "ready"
+}

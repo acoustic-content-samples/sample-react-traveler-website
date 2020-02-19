@@ -1,0 +1,51 @@
+{
+  "rev": "9-da5821f2656fd3764e79f25e1cdc397b",
+  "thumbnail": {
+    "id": "bd45e82f-2efa-4dcd-9abf-179d5f842391"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:23.136Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:City",
+    "user:Travel Site Sample"
+  ],
+  "elements": {
+    "ImageTitle": {
+      "elementType": "text",
+      "value": "Marina Bay Sands"
+    },
+    "galleryImage": {
+      "mode": "shared",
+      "profiles": [
+        "a03c07db-709e-48f4-a3a1-4feb3ff2540e"
+      ],
+      "asset": {
+        "id": "bd45e82f-2efa-4dcd-9abf-179d5f842391"
+      },
+      "elementType": "image"
+    },
+    "imageDescription": {
+      "elementType": "formattedtext",
+      "value": "<p>Marina Bay Sands is the most iconic hotel in Singapore.</p>\n\n<p>Three 55-floor towers of the hotel are connected by a one-hectare roof terrace, Sands SkyPark, offering a stunning view on the bay.</p>\n"
+    },
+    "imageCountryValue": {
+      "categoryIds": [
+        "62bc29c6-3b62-4820-b322-20072f1d606e"
+      ],
+      "elementType": "category"
+    }
+  },
+  "name": "Singapore Gallery Image",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "37e98cc9-dbb5-4e3d-ba4a-ce06b046599f",
+  "id": "71fb6c28-f9f0-4d2a-9e2d-94049080cc42",
+  "lastModified": "2020-01-16T09:02:23.136Z",
+  "systemModified": "2020-01-16T09:02:23.136Z",
+  "status": "ready"
+}

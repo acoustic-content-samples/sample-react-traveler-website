@@ -1,0 +1,92 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1280
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "4e4f691c-0fa4-4d0c-993c-9f9bde6afced",
+  "path": "/dxdam/a4/a402f549-ab69-4b11-ba83-628f28e4caff/image.png",
+  "digest": "c+YjrI272kIvIRA2057V2w==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=25b7401b-96fa-4512-971f-4a4c318522dd&a=0985d53b-861f-4968-8c05-81788128d3db",
+      "source": "/authoring/v1/resources/25b7401b-96fa-4512-971f-4a4c318522dd"
+    }
+  },
+  "id": "0985d53b-861f-4968-8c05-81788128d3db",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:13.653Z",
+  "rev": "14-c61c090b638023f14dead9d71c093ee1",
+  "altText": "View on the snowy mountains of Kenya.",
+  "resource": "25b7401b-96fa-4512-971f-4a4c318522dd",
+  "created": "2020-01-16T09:02:12.683Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:talus (rock at base of cliff)",
+      "classification:nature",
+      "classification:alp",
+      "classification:ridgeline",
+      "classification:ascent",
+      "classification:slope",
+      "classification:crest",
+      "classification:natural elevation",
+      "classification:blue color",
+      "classification:gray color"
+    ],
+    "declined": [
+      "classification:alp",
+      "classification:nature",
+      "classification:talus (rock at base of cliff)",
+      "classification:ascent",
+      "classification:slope",
+      "classification:ridgeline",
+      "classification:crest",
+      "classification:natural elevation",
+      "classification:blue color",
+      "classification:gray color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "talus (rock at base of cliff)",
+      "nature",
+      "alp",
+      "ridgeline",
+      "ascent",
+      "slope",
+      "crest",
+      "natural elevation",
+      "blue color",
+      "gray color"
+    ],
+    "colors": {
+      "lightMuted": "#accbd5",
+      "darkMuted": "#2f363e",
+      "lightVibrant": "#aadcec",
+      "vibrant": "#43a4c2",
+      "muted": "#54849c",
+      "darkVibrant": "#164464"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1347688,
+  "name": "Kenya-Article-Image",
+  "lastModified": "2020-01-16T09:02:13.653Z",
+  "status": "ready"
+}

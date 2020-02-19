@@ -1,0 +1,54 @@
+{
+  "rev": "10-53d18c1d6b8eb2a5a3d402dd3a09346a",
+  "thumbnail": {
+    "id": "a7b2cf43-badd-4530-a3b3-0d834883b692"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-01-16T09:02:24.793Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample"
+  ],
+  "elements": {
+    "countryOfTravelArticle": {
+      "categoryIds": [
+        "77abce3f-7a13-45ef-b1ce-11dbd11b61ff"
+      ],
+      "elementType": "category"
+    },
+    "travelArticleTitle": {
+      "elementType": "text",
+      "value": "The 'Must Do' Guide for Canada"
+    },
+    "travelArticleImage": {
+      "mode": "shared",
+      "profiles": [
+        "59414bcf-8ccb-4809-9117-47b7a64864a0"
+      ],
+      "asset": {
+        "id": "a7b2cf43-badd-4530-a3b3-0d834883b692"
+      },
+      "elementType": "image"
+    },
+    "articleAuthor": {
+      "elementType": "text",
+      "value": "John Smith"
+    },
+    "travelArticleText": {
+      "elementType": "formattedtext",
+      "value": "<p><em>We hope you have enough time to spare. Because the most important thing to do in Canada is to see ALL of Canada. One of the largest countries in the world by the area that has 10% of the world&#39;s forest, the longest coastline, incredible mountains, and waterfalls - all this hints that in the first place you need to get acquainted with the nature of this beautiful country.</em></p>\n\n<h2>Do canoeing</h2>\n\n<div style=\"text-align:center;clear:both;padding:0px 0px 5px\"><img data-wch-asset-id=\"8bb42682-08dd-4b1f-8cc0-0deef30bfa0c\" height=\"500\" src=\"/api/authoring/v1/resources/3a71b9cf-f6da-4b66-85f7-421c5a693d1e.png\" width=\"750\" /></div>\n\n<p>One of the best ways to see Canada is by taking a trip on a canoe.</p>\n\n<p>There are hundreds of canoe routes across Canada, where you can enjoy seeing picturesque lakes, rivers, mountains, and wildlife, but make sure you add the following routes to your list:</p>\n\n<ul><li>Johnstone Strait in British Columbia, where among typical Canadian wildlife (eagles, deer, otters, and seals) you can also see orca whales that feed on salmon from mid-summer to early autumn;</li><li>\n\t<p>Quetico Provincial Park in Ontario. The park area of 460 thousand hectares includes pine and spruce forests and more than 2,000 lakes. It operates from the mid-May to mid-October;</p>\n\t</li><li>Rideau Canal - a UNESCO World Heritage Site that connects the capital of Canada, Ottawa, with Kingston, Ontario.</li></ul>\n\n<p> </p>\n\n<h2>Visit Niagara Falls</h2>\n\n<p><img data-wch-asset-id=\"09a014ea-1018-4b8e-9245-e7a8a0b5b9f0\" height=\"250\" src=\"/api/authoring/v1/resources/fc111034-e38c-4cd7-aab4-e3d310b6fb0b.png\" style=\"float:right;padding:5px 0px 0px 10px\" width=\"375\" />Niagara Falls is one of the world’s most famous waterfalls and the most visited place in Canada.</p>\n\n<p>The Falls is not just one wide waterfall, but 3 connected waterfalls:</p>\n\n<ol><li><strong>American Falls</strong> - named so, since it flows mainly over the border of US;</li><li><strong>Bridal Veil Falls</strong> that resembles - <em>surprise</em> - a bridal veil;</li><li><strong>Horseshoe Falls</strong>, named because of its horseshoe shape, and it is also known as the Canadian Falls due to being mostly in Ontario.</li></ol>\n\n<p> </p>\n\n<h2>Go skiing in Whistler</h2>\n\n<p><img data-wch-asset-id=\"6132847c-ecc6-41b7-83e0-20c29ace3d17\" height=\"250\" src=\"/api/authoring/v1/resources/6f38a240-7fb7-4be2-9304-5198e4350ee1.png\" style=\"float:left;padding:0px 10px 0px 0px\" width=\"375\" /></p>\n\n<p>Canadian ski resorts are located on both east and west coasts, but the west coast is a homeland to the most famous resorts like Banff, Lake Louise, and Whistler.</p>\n\n<p>Whistler is a &#39;flagship&#39; resort in the country. It is conveniently located in the two-hour drive from Vancouver and has the biggest ski area in North America.</p>\n\n<p>The popularity of this place certainly has its drawbacks. In high season, it&#39;s getting too crowded, thus lift queues are not unusual, and too expensive, making you consider other resorts.</p>\n"
+    }
+  },
+  "name": "Canada Travel Article",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "typeId": "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "id": "f1492227-943b-4f8e-81a6-79bc939e101b",
+  "lastModified": "2020-01-16T09:02:24.793Z",
+  "systemModified": "2020-01-16T09:02:24.793Z",
+  "status": "ready"
+}

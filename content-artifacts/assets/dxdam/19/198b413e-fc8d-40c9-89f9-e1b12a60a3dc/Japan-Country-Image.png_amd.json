@@ -1,0 +1,140 @@
+{
+  "fileName": "Japan-Country-Image.png",
+  "metadata": {
+    "width": 1570,
+    "height": 275
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "description": "",
+  "caption": "",
+  "mediaId": "b862891c-85c1-4532-8cca-834a487a5f42",
+  "path": "/dxdam/19/198b413e-fc8d-40c9-89f9-e1b12a60a3dc/Japan-Country-Image.png",
+  "digest": "K0yM0wCJA+JjIIjVAwTJGQ==",
+  "lastModifierId": "b9476155-8a03-4b18-8b83-a6e8cef4b9d8",
+  "renditions": {
+    "default": {
+      "id": "r=02ea511b-07c4-4bf4-bc4a-ece9cd0dfe13&a=198b413e-fc8d-40c9-89f9-e1b12a60a3dc",
+      "source": "/authoring/v1/resources/02ea511b-07c4-4bf4-bc4a-ece9cd0dfe13"
+    }
+  },
+  "id": "198b413e-fc8d-40c9-89f9-e1b12a60a3dc",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-01-16T09:02:06.266Z",
+  "profileRenditions": [
+    {
+      "profileId": "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "key": "countryCard",
+      "transform": {
+        "scale": 1,
+        "crop": {
+          "x": 0,
+          "y": 85,
+          "width": 1570,
+          "height": 105
+        }
+      },
+      "uri": "/authoring/v1/resources/02ea511b-07c4-4bf4-bc4a-ece9cd0dfe13?resize=1570px:275px&crop=1570:105;0,85",
+      "width": 1570,
+      "height": 105
+    },
+    {
+      "profileId": "f55fa25b-f48a-4629-9f8e-3adf84d95a29",
+      "key": "destinationsCard",
+      "transform": {
+        "scale": 1,
+        "crop": {
+          "x": 600,
+          "y": 0,
+          "width": 370,
+          "height": 275
+        }
+      },
+      "uri": "/authoring/v1/resources/02ea511b-07c4-4bf4-bc4a-ece9cd0dfe13?resize=1570px:275px&crop=370:275;600,0",
+      "width": 370,
+      "height": 275
+    }
+  ],
+  "rev": "14-71c6cad6d43d688ac18ae0c970c12c03",
+  "altText": "Sakura blossom in Japan.",
+  "resource": "02ea511b-07c4-4bf4-bc4a-ece9cd0dfe13",
+  "created": "2020-01-16T09:02:05.309Z",
+  "profiles": [
+    "f55fa25b-f48a-4629-9f8e-3adf84d95a29"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:marbleization",
+      "classification:Boston ivy",
+      "classification:vine",
+      "classification:plant",
+      "classification:Japanese barberry plants",
+      "classification:crottle",
+      "classification:lichen",
+      "classification:fungus",
+      "classification:bearberry",
+      "classification:holly",
+      "classification:tree",
+      "classification:nature",
+      "classification:Indian red color",
+      "classification:reddish orange color"
+    ],
+    "declined": [],
+    "values": [
+      "user:travel site sample",
+      "classification:marbleization",
+      "classification:Boston ivy",
+      "classification:vine",
+      "classification:plant",
+      "classification:Japanese barberry plants",
+      "classification:crottle",
+      "classification:lichen",
+      "classification:fungus",
+      "classification:bearberry",
+      "classification:holly",
+      "classification:tree",
+      "classification:nature",
+      "classification:Indian red color",
+      "classification:reddish orange color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "marbleization",
+      "Boston ivy",
+      "vine",
+      "plant",
+      "Japanese barberry plants",
+      "crottle",
+      "lichen",
+      "fungus",
+      "bearberry",
+      "holly",
+      "tree",
+      "nature",
+      "Indian red color",
+      "reddish orange color"
+    ],
+    "colors": {
+      "lightMuted": "#c6adbc",
+      "darkMuted": "#462a38",
+      "lightVibrant": "#e16d65",
+      "vibrant": "#bf443e",
+      "muted": "#af6675",
+      "darkVibrant": "#8c492c"
+    },
+    "status": "complete"
+  },
+  "fileSize": 397896,
+  "name": "Japan-Country-Image.png",
+  "lastModified": "2020-01-16T09:02:06.266Z",
+  "status": "ready"
+}
