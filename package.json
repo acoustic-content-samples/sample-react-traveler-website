@@ -22,7 +22,7 @@
     "hub-build": "npm run build && node copyBuildFiles",
     "hub-deploy": "wchtools push -A -v -I --dir build",
     "hub-build-deploy": "npm run hub-build && npm run hub-deploy",
-    "init-content": "wchtools push -A -I -f -v --dir content-artifacts",
+    "init-content": "wchtools push -A -I -v --dir content-artifacts",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

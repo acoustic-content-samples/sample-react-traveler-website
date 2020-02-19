@@ -91,7 +91,7 @@ In this sample, you can see how user can change the order, number, and even the 
 
 Inside the Content Hub, user can interact with the content type that serves as a settings for the image slider.
 
-<img src="docs/images/readme_image_5" alt="image-20191231161621644" style="zoom:70%;" align="left"/>
+<img src="docs/images/readme_image_5" alt="image-20191231161621644" style="zoom:70%;" />
 
 The application receives these settings and changes the behavior and contents of the Image slider without efforts of the developer!
 
