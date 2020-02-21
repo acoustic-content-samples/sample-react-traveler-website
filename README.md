@@ -47,6 +47,10 @@ All hub information containing domain, IDs and URLs for the hub can be found ins
 2. Run `wchtools push -A --dir <Folder_Name>` to push the Content Model to the Hub. If your content folder `content-artifacts` is located in a website sample root folder there is also a shortcut `npm run init-content`
 3. Login to the specified Content Hub to see that it contains uploaded content inside 'Content Model' and 'Content Library' sections.
 
+### Enable CORS support for localhost
+
+To run the local development server you will need to enable CORS support for your tenant. To control the CORS enablement for Acoustic Content, go to Settings, Administration, Security tab. Add http://localhost:3000 (or "*" for any domain) and save your settings.
+
 ### Running the App on Local Development Server
 
 Go to the folder with the application (it contains sub-folders named _src, public_ etc.) and:
