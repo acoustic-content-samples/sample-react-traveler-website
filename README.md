@@ -2,7 +2,37 @@
 
 Traveler is a sample travel website, with all its content and images managed in Acoustic Content.
 
+## React-Based “Traveler” Website Using Headless CMS
+
+This is an example of how to create a modern website using the headless CMS features of Acoustic Content in combination with a Single Page Application (SPA) for the website. This sample is a React-based site, though the same concepts and content can be used with any web application or other delivery channel. That’s the great benefit of a headless CMS: the content and images are completely independent of the delivery channel. Your business users can manage all the content in one place and have it delivered across all channels - websites, mobile apps, emails, or any other channel. 
+
 ![Traveler Website Sample - Home Page](docs/images/readme_image_1)
+
+### Combining the React SPA with content and assets managed by business users
+
+In this example you can see how business users can manage all the website components they need to manage, while the web developer provides the framework for the website.
+
+The following components of the website are managed by business users in Acoustic Content:
+- All the pages and navigation shown under the “Destinations” menu. These are dynamic pages in the website, defined by the Region, Country, and Travel Article content items. 
+- All the images for the site content, using the Image Profile feature to automatically generate different size images.
+- Articles that use rich text features including embedded images.
+- Site logo and text for the pages.
+- Configuration options for some of the website aspects such as settings for the slideshow on the home page for how many images to show and how long between slides.
+
+These components of the website are defined in the SPA which is built by a web developer:
+- The React SPA framework with support for pulling in content and assets dynamically using Acoustic Content REST APIs.
+- Top-level navigation (Home, About, Destinations, Gallery, and Contact). These are defined as routes in the SPA.
+- Site look and feel, using Bootstrap styling with responsive web design so the site renders nicely on any device.
+- Search for content in the site. The search input supports auto-complete, using the "faceted search" support of the Content delivery search API.
+
+To see the dynamic pages of the site in action, try this after you've installed the sample:
+- Create a new Travel Article content item. Fill out the text elements and select an image. Note that in the Travel Article Text field you can use features of the rich text editor, including the ability to include images right inline with the text.
+- On the “Configuration” tab of your new Travel Article, select the region and country where your article should appear in the navigation.
+- Publish the new Travel Article.
+- Open the website in a browser.
+- On the home page, your new article should appear at the top of the list of articles (since it’s the most recent).
+- From the Destinations menu, navigate to the continent and the country for your article. Your new article should be listed, and if you click on it you’ll go to a new dynamic page for your article.
+
 
 ## Installing Traveler Website Sample
 
@@ -20,7 +50,7 @@ In order to run Traveler Sample Site locally or hosted on Acoustic Content, the 
 
 - Download or clone this repository to get the 'Traveler Website Sample' artifacts.
 
-### Changing the tenant
+### Change the tenant
 
 1. You can set the tenant information, by changing the values in `src/api/endpoints.js`. This file determines from which tenant website gets served from.
 
@@ -41,37 +71,31 @@ All hub information containing domain, IDs and URLs for the hub can be found ins
 
 2. Change Content hub ID (from 'Hub Information' window) in _homepage_ value inside `package.json` in the `acoustic-website-react-sample` folder to the Domain Name with the hub ID (e.g. /hub_id/samples/traveler-website).
 
-### Uploading contents to Acoustic Content
+### Upload contents to Acoustic Content
 
 1. Go to the directory where you have a downloaded folder with the Content Model files (it contains sub-folders named _assets, content-types, content, categories_ etc.);
 2. Run `wchtools push -A --dir <Folder_Name>` to push the Content Model to the Hub. If your content folder `content-artifacts` is located in a website sample root folder there is also a shortcut `npm run init-content`
 3. Login to Acoustic Content to see that it contains uploaded content inside 'Content Model' and 'Content Library' sections.
 
-### Enable CORS support for localhost
+### Run the site application on a local development server
 
-To run the local development server you will need to enable CORS support for your tenant. To control the CORS enablement for Acoustic Content, go to Settings, Administration, Security tab. Add http://localhost:3000 (or "*" for any domain) and save your settings.
-
-### Running the App on Local Development Server
-
-Go to the folder with the application (it contains sub-folders named _src, public_ etc.) and:
-
-1. Install dependencies by running `npm install`;
-2. Run `npm start` that will start the development server and will open the application in the new tab of web-browser on the `localhost`.
-3. Make sure that address your app is running at (i.e. http://localhost:3000) is added in _Trusted domains for cross-origin resource sharing_ in your hub. You can check it in _Settings > Administration > Security > Cross-origin resource sharing_
+1. Enable localhost CORS support for your tenant. Login to Acoustic Content and go to Settings, Administration, Security tab. Add http://localhost:3000 (or "*" for any domain) and save your settings.
+2. Go to the folder with the application (it contains sub-folders named _src, public_ etc.) and install dependencies by running `npm install`.
+3. Run `npm start` to start the development server and open the application in a new web browser tab on the `localhost`.
 
 ### Build and Deploy to Acoustic Content
 
-_Note:_ If you don't have installed sample locally, please go through sections **Prerequisites**, **Changing the tenant** and from your CLI make sure to install project dependencies by running `npm install`;
+_Note:_ If you haven't installed the sample locally, please go through sections **Prerequisites**, **Changing the tenant** and make sure to install project dependencies by running `npm install`.
 
-Steps to deploy code of your sample:
+Steps to deploy your sample:
 
-1. Run `npm run hub-build-deploy` command. It will build and deploy the application to the specified hub;
-1. To open the website on Acoustic Content, please use the following link type: _[delivery_URL]/samples/traveler-website/index.html_
-1. Note that publishing can take some time for all updates to be available. In case you do not want to wait for the server side akamai cache to time out you can flush the cache via: `wchtools clear --cache`. More information can be found here: [Clearing the content delivery network cache](https://github.com/acoustic-content-samples/wchtools-cli#clearing-the-watson-content-hub-content-delivery-network-cache)
+1. Run `npm run hub-build-deploy` command. It will build and deploy the application to the specified hub.
+2. To open the website on Acoustic Content, please use the following link type: _[delivery_URL]/samples/traveler-website/index.html_
+3. Note that publishing can take some time for all updates to be available. In case you do not want to wait for the server side akamai cache to time out you can flush the cache via: `wchtools clear --cache`. More information can be found here: [Clearing the content delivery network cache](https://github.com/acoustic-content-samples/wchtools-cli#clearing-the-watson-content-hub-content-delivery-network-cache).
 
-## API Features Overview
+## API Features
 
-Make sure you explore Acoustic Content's powerful API features.
+Make sure you explore Acoustic Content's powerful delivery API features. The
 
 ### Getting the Contents for the Website via Content Delivery API
 
