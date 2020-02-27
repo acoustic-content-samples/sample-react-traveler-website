@@ -1,8 +1,4 @@
-# Traveler Website Sample
-
-Traveler is a sample travel website, with all its content and images managed in Acoustic Content.
-
-## React-Based “Traveler” Website Using Headless CMS
+# React-Based “Traveler” Website Using Headless CMS
 
 This is an example of how to create a modern website using the headless CMS features of Acoustic Content in combination with a Single Page Application (SPA) for the website. This sample is a React-based site, though the same concepts and content can be used with any web application or other delivery channel. That’s the great benefit of a headless CMS: the content and images are completely independent of the delivery channel. Your business users can manage all the content in one place and have it delivered across all channels - websites, mobile apps, emails, or any other channel. 
 
@@ -95,13 +91,13 @@ Steps to deploy your sample:
 
 ## API Features
 
-Make sure you explore Acoustic Content's powerful delivery API features. The
+### Getting the Contents for the Website via Content Delivery APIs
 
-### Getting the Contents for the Website via Content Delivery API
+The Content services used in this sample are Delivery Search and Delivery Content. The Delivery Search service is used for all the list results for Travel Article and Gallery Image.
 
-No more hard-coding of texts, footer and header contents, and information pages. With the Content Delivery API, you can build truly flexible website, where user can change almost any part of the website without the developer.
+No more hard-coding of texts, footer and header contents, and information pages. With the Content Delivery APIs, you can build truly flexible websites, where business users can change almost any part of the website without involving a developer.
 
-Contact information has changed? No problem - user can easily update the content of the whole page inside the Acoustic Content:
+Contact information has changed? No problem - user can easily update the content of the whole page inside Acoustic Content:
 
 <img src="docs/images/readme_image_2" alt="image-20191231162620926" style="zoom:50%"/>
 
