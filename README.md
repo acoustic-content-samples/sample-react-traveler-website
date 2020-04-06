@@ -53,7 +53,7 @@ In order to run Traveler Sample Site locally or hosted on Acoustic Content, the 
    Inside `src/api/endpoints.js`, replace the values in the following lines:
 
 ```
-export const DOMAIN_NAME = 'your-domain-name.com';
+export const DOMAIN_NAME = 'https://your-domain-name.com';
 export const CONTENT_HUB_ID = '0000000-0000-0000-0000-000000000000';
 ```
 
