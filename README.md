@@ -69,9 +69,9 @@ All hub information containing domain, IDs and URLs for the hub can be found ins
 
 ### Upload contents to Acoustic Content
 
-1. Go to the `content-artifacts` directory where the content was downloaded as part of this repository (it contains sub-folders named _assets, content-types, content, categories_ etc.);
-2. Run `wchtools push -A --dir <Folder_Name>` to push the Content Model to the Hub. If your content folder `content-artifacts` is located in a website sample root folder there is also a shortcut `npm run init-content`
-3. Login to Acoustic Content to see that it contains uploaded content inside 'Content Model' and 'Content Library' sections.
+1. Navigate to the root folder of the repo, which contains the content folder `content-artifacts` and run `npm run init-content`.
+2. Alternatively -  Navigate to the `content-artifacts` directory where the content was downloaded as part of this repository (it contains sub-folders named _assets, content-types, content, categories_ etc.). Run `wchtools push -A --dir <Folder_Name>` to push the Content Model to the Hub. 
+3. Login to Acoustic Content user interface to see that it contains uploaded content inside 'Content Model' and 'Content Library' sections.
 
 ### Run the site application on a local development server
 
