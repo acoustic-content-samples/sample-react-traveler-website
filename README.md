@@ -57,7 +57,7 @@ export const DOMAIN_NAME = 'https://your-domain-name.com';
 export const CONTENT_HUB_ID = '0000000-0000-0000-0000-000000000000';
 ```
 
-The domain name can be extracted from the delivery URL of your site. (e.g. https:/domain_name/content_hub_id/).
+The domain name can be extracted from the delivery URL of your site. (i.e. the delivery URL is `domain_name/content_hub_id/`).
 
 All hub information containing domain, IDs and URLs for the hub can be found inside Acoustic Content (_Sidebar > About > Hub Information_):
 
